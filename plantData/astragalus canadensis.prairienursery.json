@@ -1,0 +1,66 @@
+{
+  "name": "astragalus canadensis",
+  "commonName": "canada milk vetch",
+  "description": "Pagoda-like towers of creamy yellow flowers rise above the dark green leaves in mid-summer, followed by scepters of bead-like seed pods in August. This striking member of the Pea family is an important food for birds, as it retains its seed late into the fall and early winter. Grows in a well-drained soil, reaching two to three feet tall.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1265/product-1272.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$6.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$9.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": "Birds",
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Taproot"
+}

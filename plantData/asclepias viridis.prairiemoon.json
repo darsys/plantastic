@@ -1,0 +1,54 @@
+{
+  "name": "asclepias viridis",
+  "commonname": "spider milkweed",
+  "description": "Spider Milkweed shares with other Asclepias species its milky, irritating sap and strong attractiveness to Monarch butterflies and a host of other insects. Very tolerant of dry conditions, it is also called Green Antelopehorn. Spider Milkweed features rose-white flowers surrounded by green that form in showy umbellated clusters, often one per plant.  Its beauty and tendency to spread slightly make it a good garden choice.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 4300,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "ASC22F"
+}

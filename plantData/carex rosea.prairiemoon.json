@@ -1,0 +1,35 @@
+{
+  "name": "carex rosea",
+  "commonname": "curly-styled wood sedge",
+  "description": "A very versitile sedge that is great in a landscape. Consider it for those difficult dry, shady spots and as a groundcover. It can tolerate dry to medium-wet sites with full shade or semi-shade. It has very narrow, fine leaves and a slight rose tint to the seedhead gives it its latin name, Carex rosea.  Curly-styled Wood Sedge, like most sedges, is a cool-season plant meaning it actively grows during the spring and fall when soil temperatures are cool.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 53000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "CAR23G"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "euphorbia marginata",
+  "commonname": "snow-on-the-mountain",
+  "description": "New!  An annual - it will complete its life cycle in 1 growing season and then re-seed. Most members of the Euphorbia (Spurge) family have a milky sap in the stem that will irritate eyes and mouth if it comes in contact. For this reason, it is deer and rabbit resistant.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 10,
+  "seeds/ounce": 1900,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "EUP54F"
+}

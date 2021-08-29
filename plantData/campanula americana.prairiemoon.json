@@ -1,0 +1,54 @@
+{
+  "name": "campanula americana",
+  "commonname": "tall bellflower",
+  "description": "Campanula americana, Tall Bellflower or American Bellflower, reaches from three to five feet in height, its blue-violet blooms providing a bright late-summer accent to savanna or woodland plantings.     Self-seeding, it is either annual or biennial by habit, seemingly depending on when germination occurs. First-year plants are tight rosettes of heart-shaped leaves that shoot up the following spring to form tall stems. Because Campanula americana is the only bellflower with wide-spread petals, a petal tube that elongates with age and stamens that extend over the petals, it often is assigned the special designation Campanulastrum americanum.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 170000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "CAM52F"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "verbena stricta",
+  "commonname": "hoary vervain",
+  "description": "Livestock will not eat Verbena so it may be thought of as \"weedy\" by some who observe it in a pasture setting. In a natural prairie it is not aggressive.  In fact, it is a rather short-lived perennial that will not compete well with more aggressive vegetation.  It self-seeds readily and is very easy to germinate, so it is a common component of many drier prairie seed mixes.  The seeds are a staple for many small mammals and birds that depend on this widely-distributed plant.  The gray-green leaves are fuzzy on both sides and are the larval host for the Common Buckeye Butterfly.  Also simply called Hoary Verbena, this Vervain has a long bloom time; the blue-purple flower spikes will persist for 4-6 weeks, usually spanning July and August.\n Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 28000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "VER04F"
+}

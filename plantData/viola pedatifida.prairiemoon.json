@@ -1,0 +1,44 @@
+{
+  "name": "viola pedatifida",
+  "commonname": "prairie violet",
+  "description": "The Prairie Violet is not aggressive like some Viola species and therefore is a nice plant for small, drier gardens or edges.  The deep purple to blue flowers emerge on leafless stalks in early spring and can last well into the summer months. Some plants may re-bloom later in the summer.   Other common names used for Prairie Violet include Crow-foot Violet and Larkspur Violet (the leaves of Prairie Violet look like those of Larkspur - Delphinium species.)  Other early bloomers in dry soil that would act as nice companion plants to Prairie Violet are listed below.  *note: Prairie Violet occasionally hybridizes with Common Blue Violet (V. sororia) and Le Conte's Violet (V. affinis) in nature. The resulting hybrids may then back-cross with the parent species resulting in a hybrid that is closer to one parent species than another. Our V. pedatifida may be the result of such backcrossing and so should not be assumed to be pure--although they are naturally occurring and native to the upper Midwest.Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [],
+  "seeds/packet": 100,
+  "seeds/ounce": 28000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "VIO14F"
+}

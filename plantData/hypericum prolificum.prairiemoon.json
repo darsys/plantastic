@@ -1,0 +1,73 @@
+{
+  "name": "hypericum prolificum",
+  "commonname": "shrubby st. john's wort",
+  "description": "This shrub will natually form a round-bush appearance but can be pruned early spring for a more mounded shape.  An absolute bee magnet that is not picky about its sun and soil needs. It is rare that you get such beauty out of something so hardy. Able to grow under just about any soil condition you could throw at it, this lovely shrub is also quite resistant to deer and rabbits. Its secret lies in the toxic substances within its tissues that irritate the gastrointestinal tracts of mammals. It is a host plant for a variety of caterpillars and very attractive to a wide array of pollinators.  Bumblebees are especially fond of the bright yellow flowers.  Check out the amazing buzz on a shrub here at Prairie Moon in this VIDEO.     On the decline in some parts of its range, this species is actually considered threatened in New York and endangered in New Jersey. In the wild it can be found growing everywhere from stream banks to barren, rocky outcrops. This is a great addition to a native garden as it provides aesthetic appeal as well as ecosystem function.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). The bare root plant is 2 years old and trimmed to a height of approximately 12\".Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 140000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "HYP45T"
+}

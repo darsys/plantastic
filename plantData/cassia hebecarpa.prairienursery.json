@@ -1,0 +1,70 @@
+{
+  "name": "cassia hebecarpa",
+  "commonName": "wild senna",
+  "description": "In mid-summer a profusion of butter-yellow flowers appear atop the lush deep green foliage of Wild Senna (Cassia hebecarpa). The chocolate brown seedpods are a favorite of birds. Fond of clay, it will thrive in medium to moist soils, and tolerates periodic flooding. The horizontal root system provides stabilization against high wind velocities, making this tall sun loving plant an excellent hedge choice. Wild Senna is a larval host plant for the Cloudless Sulpher butterfly.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1630/product-4022.jpg",
+  "seeds/ounce": 1400,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$6.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$9.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 48,
+    "max": 72
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 24
+  },
+  "root": "Fibrous"
+}

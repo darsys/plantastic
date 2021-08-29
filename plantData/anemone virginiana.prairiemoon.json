@@ -1,0 +1,52 @@
+{
+  "name": "anemone virginiana",
+  "commonname": "tall thimbleweed",
+  "description": "New in Bare Root! Tall thimbleweed has long-lasting, off-white flowers, and as with the other anemones, what appear to be petals are actually colored sepals. The thimble-like seed heads are ornamental, becoming fluffy when they disperse their seed. This makes them fun multi-season plants of interest. Tall thimbleweed prefers open woods and clearings.   Tall Thimbleweed is similar to its cousin Anemone cylindrica, but the fruiting cluster or \"thimble\" of virginiana is shorter than that of cylindrica. Both have lobed leaves, but the leaves of the cylindrica are wedge shaped while those of virginiana are rounded with fine teeth. Also called Tall or Virginia Anemone.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 28000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ANE10F"
+}

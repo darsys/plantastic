@@ -1,0 +1,73 @@
+{
+  "name": "eryngium yuccifolium",
+  "commonName": "rattlesnake master",
+  "description": "Rattlesnake master (Eryngium yuccifolium) is a unique wildflower with leaves like a yucca, and unique golfball-like flowers. It makes an excellent focal point in the garden when planted individually, or in groups. Native Americans brewed a tea from the root as an antidote to rattlesnake venom. Other common names include Button Snakeroot, Yucca-leaf Eryngo, Corn Snakeroot, Rattlesnake Flag, and Rattlesnake Weed.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1637/product-2813.jpg",
+  "seeds/ounce": 8000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

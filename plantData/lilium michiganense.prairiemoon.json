@@ -1,0 +1,51 @@
+{
+  "name": "lilium michiganense",
+  "commonname": "michigan lily",
+  "description": "Michigan Lily dangles beautiful orange to red-orange flowers in summer. Its petals curve strongly backward, distinguishing it from other native Lilies. Challenging from seed, it prefers mostly sunny sites with medium to wet soil.  It can be planted in perennial borders or even along ponds and streams. Good companion plants include Turtlehead (Chelone glabra) and Joe-Pye Weed (Eupatorium maculatum). It is commonly visited by Swallowtail butterflies, and many other butterflies and hummingbirds.  People may use the name Turk's Cap Lily and Michigan Lily interchangeably but they are unique species.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 60,
+  "seeds/ounce": 10000,
+  "germination": [
+    "E"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Orange"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "LIL02F"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "verbena urticifolia",
+  "commonname": "white vervain",
+  "description": "White Vervain is a common plant in the eastern and central United States, found in woodland edges, old fields, pastures, roadsides, and disturbed areas. Its botanical name, urticifolia, refers to the resemblance it has to another common plant, nettle (Urtica spp.).  The interesting dusty gray color of dormant plants offer a contrast to the fall prairie browns, golds and reds (see photo above)   Although sometimes considered a “weed,” this native plant has high ecological value for wildlife. The inconspicuous white flowers are a nectar source for short and long-tongued bees, wasps, butterflies, and flies, and the plant is eaten by the larvae of Crambodes talidiformis (Verbena Moth), Longitarsus suspectus (Flea Beetle), larvae of Clinodiplosis verbenae (Vervain Leaf Midge), Macrosiphum verbenae (Verbena Aphid), and Melanoplus bivittatus (Two-striped Grasshopper). But insects aren’t the only ones feasting on this plant – the seeds are also consumed by songbirds.    Culturally, Verbena has a long history of use in folk medicine where it is referred to as the “herb of grace”. Notably, it was documented as a medicinal herb used during the Revolutionary War when modern medicine was scarce. Plants from the genus Verbena grow all over Eurasia and North America, and have long been associated with supernatural folklore in Egyptian, Greek, Roman, Italian, Celtic, and Native American cultures.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.9
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 90
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 47000,
+  "germination": [
+    "D",
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "VER06F"
+}

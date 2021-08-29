@@ -1,0 +1,75 @@
+{
+  "name": "iris versicolor",
+  "commonname": "northern blue flag",
+  "description": "Iris versicolor (Northern Blue Flag) matures to 24-36\" in height and grows best in wet, wet mesic, and mesic soil conditions. Iris versicolor prefers full sun to partial shade and blooms approximately May, June, and  July.  It has deep blue to purple flowers, the foliage is sword-like, and the flowers are complex and very showy.  Irises may have been used medicinally in the past, but their roots are dangerously poisonous to both humans and livestock.  Iris versicolor attracts butterflies and hummingbirds, and it is excellent to use in the garden to add some color to any location!  Other common names are Blue Flag Iris, Harlequin Blue Flag, Northern Iris, and Wild Iris. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 1300,
+  "germination": [
+    "C(120)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Blue",
+    "Purple"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "IRI04F"
+}

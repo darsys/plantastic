@@ -1,0 +1,64 @@
+{
+  "name": "ceanothus ovatus",
+  "commonname": "red root",
+  "description": "Also known as Narrow-leaved New Jersey Tea, Prairie Redroot and Ceanothus herbaceus, this is a gorgeous, smaller perennial shrub in the buckthorn family. Its round, white flowers yield black, triangular fruits. It is a woody plant that shoots several stems from the ground with alternating, toothed leaves that appear glossy or waxed. Red Root is a fan of sunny areas with well-drained soils. This plant is a hermaphrodite, meaning it has both male and female organs, and it can fix nitrogen from the atmosphere. Red Root draws a great variety of helpful insects, such as bees, wasps, flies and beetles in addition to those who impose destruction upon the foliage, like the leaf beetle. White-tailed deer and bobwhite quail readily consume the stems and foliage, making establishment of large stands difficult where those animals are over-populated. Our bare root shrub is shipped with approximately 6” of top growth.   Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 125,
+  "seeds/ounce": 10000,
+  "germination": [
+    "B",
+    "C(60)",
+    "H"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 36
+  },
+  "sku": "CEA04T"
+}

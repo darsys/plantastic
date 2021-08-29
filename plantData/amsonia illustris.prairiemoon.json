@@ -1,0 +1,68 @@
+{
+  "name": "amsonia illustris",
+  "commonname": "ozark bluestar",
+  "description": "Featuring terminal clusters of star-like, light blue flowers, Amsonia illustris (Ozark Bluestar) grows to 3' tall and flowers in early to mid spring. The willow-like foilage stays shiny all summer and fall brings a beautiful display of golden leaves.  Ozark Bluestar prefers moist loamy soil, but will also grow successfully in medium to well-drained soils. If a managed appearance is desired some pruning or staking may be needed when planted in semi-shade or conditions with rich soil.  Hardy in zones 5-9; also referred to as Shining Blue Star. Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 60,
+  "seeds/ounce": 2150,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AMS01F"
+}

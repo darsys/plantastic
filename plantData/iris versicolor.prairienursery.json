@@ -1,0 +1,67 @@
+{
+  "name": "iris versicolor",
+  "commonName": "blue flag iris",
+  "description": "Blue Flag Iris grows to form nice patches of deep blue flowers and is excellent for naturalizing around ponds, lakeshores, and low, wet areas.Very attractive to hummingbirds, Iris versicolor looks great when potted and sunk into wetland ponds and water gardens.Other names include Northern Blue Flag Iris, Harlequin Blue Flag and Northern Iris.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1653/product-3597.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": "Wet",
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "color": [
+    "Blue"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Rhizome"
+}

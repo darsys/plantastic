@@ -1,0 +1,73 @@
+{
+  "name": "veronicastrum virginicum",
+  "commonName": "culver's root",
+  "description": "This stately specimen is prized for its well-defined, clean lines. Elegant spires of white flowers crown the whorls of deep green leaves. Culver's Root (Veronicastrum virginicum) creates a unique vertical accent, and can be combined with other white flowers to create 'white gardens' and Moon Gardens.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1687/product-4154.jpg",
+  "seeds/ounce": 750000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$36.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$60.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$900.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 72
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

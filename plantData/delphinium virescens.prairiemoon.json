@@ -1,0 +1,42 @@
+{
+  "name": "delphinium virescens",
+  "commonname": "prairie larkspur",
+  "description": "Prairie Larkspur can be found in the Great Plains corridor, and in Southeastern and Southern states. Delphinium virescens is considered a subspecies of D. carolinianum (Wild Blue Larkspur) so can also be called Delphinium carolinianum ssp. virescens. Prairie Larkspur is usually white whereas Wild Blue Larkspur is usually blue. Prairie Larkspur requires mesic to dry soil and lots of sunlight. If the weather is too hot, however, the plant may disappear and reappear when the weather has cooled off. A good use for this flower would be in a rock garden or a prairie restoration project. This plant, like all member of the Delphinium genus, is poisonous. Despite their toxicity to mammals, however, the showy flowers are of special value to bumblebees. It also cleans the air and soil by taking up toxins.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [],
+  "seeds/packet": 200,
+  "seeds/ounce": 60000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "DEL02F"
+}

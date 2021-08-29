@@ -1,0 +1,75 @@
+{
+  "name": "amorpha canescens",
+  "commonname": "lead plant",
+  "description": "Growing in shrubs up to three feet tall, Lead Plant is topped by spike-like masses of tiny purple blossoms. Each flower has a single 1/4\"-long petal curling around 10 orange-tipped stamens.  It prefers full sun but will tolerate part shade.  The branches will reach for light in partial shade conditions however, giving it a more sprawling form with less flowers.  It is not picky about soil type, and will grow in all types of medium to very dry sandy, gravel, loam, and clay.  Abundant bees, butterflies, moths, beetles and other beneficial insects will be attracted to Lead Plant.The plant's tough roots made pioneer plowing difficult, causing early settlers to dub it \"Devil's Shoestrings.\"  Its deep roots enable the plant to survive prairie fires and times of drought.  After very tough winters, it may die back to the ground but the extreme long-lived nature of Lead Plant and its deep tap root will usually allow it to recover. Speculative accounts about its common name credit the dusky hue of the foliage or an old belief that the plant's presence was an indicator of sub-surface lead ore. Species of genus Amorpha are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.    Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June. Lead Plant is usually slow to root, so delivery later in June is anticipated.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 16000,
+  "germination": [
+    "C(10)",
+    "J",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AMO02T"
+}

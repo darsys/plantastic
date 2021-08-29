@@ -1,0 +1,71 @@
+{
+  "name": "anemone canadensis",
+  "commonname": "canada anemone",
+  "description": "Hardy native ground covers can be hard to find. We all want something that looks nice, handles some trampling, and spreads readily. The problem is, most people tend to settle with European species like periwinkle (Vinca minor), which readily can escape cultivation and invade natural areas. We have a wonderful alternative that is sure to knock your socks off... meet Canada Anemone (Anemone canadensis).  As far as ground covers go, this is the real deal. Blooming from May through June, Canada Anemone is quite hardy. Its low stature can even keep it out of the way of a lawn mower if you so choose. While it will reseed readily if populations are large enough, it mostly spreads by rhizomes. In only a few seasons, a few plants can quickly become a beautiful mat of white flowers. Even when not in bloom, the foliage is quite attractive. Plan wisely when planting this species. Its hardiness coupled with its tendency to spread may cause it to overwhelm smaller plants. Other Common Names in use: Canadian Anemone, Meadow Anemone   *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code.  Dormant bare root plants ship each year during optimal transplanting seasons: Spring (April - May) and Fall (October).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 600
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 8000,
+  "germination": [
+    "F"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "ANE02F"
+}

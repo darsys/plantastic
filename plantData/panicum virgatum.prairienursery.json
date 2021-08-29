@@ -1,0 +1,72 @@
+{
+  "name": "panicum virgatum",
+  "commonName": "switchgrass",
+  "description": "Excellent for winter wildlife, Switchgrass is the best native grass for creating dense cover for wildlife habitat. Its stiff stems stand up over winter better than other grasses. At home on almost any soil, it will grow three to six feet tall in your driest sand or toughest clay.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1647/product-2055.jpg",
+  "seeds/ounce": 18000,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$4.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$9.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$19.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 72
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Straw"
+  ],
+  "root": "Fibrous",
+  "seedrate_acre": "5 Lbs",
+  "seedrate_1000sqft": "2 Oz"
+}

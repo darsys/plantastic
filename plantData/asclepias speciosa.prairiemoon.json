@@ -1,0 +1,72 @@
+{
+  "name": "asclepias speciosa",
+  "commonname": "showy milkweed",
+  "description": "Asclepias speciosa is similar to Common Milkweed, but its pinkish-purple flowers have longer petals that taper more and are covered with fine hairs. Asclepias are excellent nectar sources and are food for the larval stages of Monarch and Queen butterflies.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 55,
+  "seeds/ounce": 4500,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "ASC10F"
+}

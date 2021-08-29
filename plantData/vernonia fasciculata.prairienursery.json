@@ -1,0 +1,69 @@
+{
+  "name": "vernonia fasciculata",
+  "commonName": "ironweed",
+  "description": "Named for its tough stem, Ironweed has excellent posture and never slouches in the garden. The flowers of Ironweed are a rare color in the late summer landscape, and the brilliant purple-crimson bloom is very attractive to butterflies. An excellent addition to the pollinator garden, Ironweed is a host plant for the American Painted Lady butterfly.\nAlthough it grows naturally in moist soils, and tolerates brief flooding, it also does equally well in average garden soils. It also grows taller in moist soils. The plant height may be reduced by cutting back the stems in late spring. Ironweed can be a fairly aggressive spreader. This can be mitigated by removing some of the flower heads before they go to seed.\nEffective in background borders, cottage gardens, rain gardens, wildflower meadows and naturalized plantings. The dark rigid stems topped with contrasting fluffy seed heads, offer excellent late season color and texture.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1686/product-3705.jpg",
+  "seeds/ounce": 20000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$375.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": "Moist",
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 48,
+    "max": 72
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "color": [
+    "Red, Purple"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

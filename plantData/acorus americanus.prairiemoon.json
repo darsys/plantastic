@@ -1,0 +1,69 @@
+{
+  "name": "acorus americanus",
+  "commonname": "sweet flag",
+  "description": "Acorus americanus (Sweet Flag) matures to 2' in height. It prefers wet to wet-mesic soil conditions, growing best in full sun. It can tolerate partial water emersion so would make a good choice for shoreline restorations or pond edges.   Muskrats often eat the roots of Acorus americanus, seemingly attracted by the cinnamon-like scent. Emerging directly from the roots, the stemless leaves of Sweet Flag are sword-shaped and a colony of them may look like Cattails or Iris leaves from a distance. Green-yellow flowers protrude in cylindrical arcs in mid-summer.  Other common names include Calamus Root, Flag Root, Muskrat Root, Sweet Calomel, and Sweet Sedge. The \"Sweet\" in the name comes from the sweet aroma the leaves give when broken. Traditionally all Acorus plants in North America were called Acorus calamus, but that name should be restricted to the Eurasian species, which has been introduced to North America.  It is thought that Native Americans played a role in the distrubution of this plant since they likely traveled with and traded it; the root was prized as a medicinal remedy for common things like nausea, colds, and heartburn.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 6600,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Green"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "ACO02F"
+}

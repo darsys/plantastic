@@ -1,0 +1,71 @@
+{
+  "name": "arnoglossum reniforme",
+  "commonname": "great indian plantain",
+  "description": "Overlooked as a great, majestic plant for a cultivated semi-shade or prairie garden. Stout purple-red stems provide strengh and structure to this plant that can reach heights of 8' in full sun. Large attractive leaves can reach excess of 7\" across. This Arnoglossum thrives in medium-moist soils and full to part sun.    Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 4000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 96,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "CAC04F"
+}

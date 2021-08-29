@@ -1,0 +1,48 @@
+{
+  "name": "asclepias exaltata",
+  "commonname": "poke milkweed",
+  "description": "Often found in upland woods and woodland openings, Poke Milkweed thrives in dappled or indirect sunlight. It has oval leaves, growing opposite on stems that can reach five feet. Clusters of bi-colored flowers droop elegantly on slender stalks. The foliage and flowers provide a source of food for many insects including Monarchs and the larvae of the moths the Unexpected Cycnia and the Delicate Cycnia. Rabbits also enjoy making a snack of the foliage of Poke Milkweed. Though long lived, this species is not invasive or aggressive. Dormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 3000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "ASC04F"
+}

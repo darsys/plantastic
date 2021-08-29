@@ -1,0 +1,74 @@
+{
+  "name": "polemonium reptans",
+  "commonname": "jacob's ladder",
+  "description": "Like many spring blooming natives, the bloom time on Jacob's Ladder is short but sweet.  The few short weeks in April or May that the flowers appear, the plant will be covered in blooms that range from shades of pink to blue. Jacob's Ladder will grow in full sun if it has adequate moisture, but it prefers woodlands (almost full shade) and woodland edges (partial shade.) A mature plant will only reach heights of 1' and is deer resistant. Other common names include Bluebell, Greek Valerian, and Skunk Weed. Jacob's Ladder could have many companion plants in a spring-blooming garden including Midland Shooting Star, Jack-in-the-Pulpit, and Virginia Bluebells.Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 80
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 18000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "POL02F"
+}

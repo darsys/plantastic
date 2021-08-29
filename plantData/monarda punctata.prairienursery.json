@@ -1,0 +1,61 @@
+{
+  "name": "monarda punctata",
+  "commonName": "dotted mint",
+  "description": "The bright lavender 'flowers' of the Dotted Mint are actually leafy bracts that surround the true flower. A multitude of butterflies and other pollinators visit Monarda punctata - a top nectar plant for the rare Karner Blue Butterfly. Dotted Mint is biennial and self-sows readily on open sandy soil.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1666/product-2891.jpg",
+  "seeds/ounce": 94000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$15.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Gravel"
+  ],
+  "moisture": "Dry",
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Lavender"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

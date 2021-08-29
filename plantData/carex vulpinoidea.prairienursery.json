@@ -1,0 +1,67 @@
+{
+  "name": "carex vulpinoidea",
+  "commonName": "fox sedge",
+  "description": "This lovely wetland sedge grows to form clumps two feet in diameter. In mid-summer seedheads spray out from the center of the plant for an excellent effect. Grows in a wide variety of moist to very wet soils, making it an excellent choice for rain gardens.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1629/product-1992.jpg",
+  "seeds/ounce": 90000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Moist",
+    "Wet"
+  ],
+  "benefits": "Deer Resistant",
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Bronze"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

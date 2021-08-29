@@ -1,0 +1,64 @@
+{
+  "name": "symphyotrichum lateriflorum",
+  "commonname": "calico aster",
+  "description": "Loose clusters of multiple flowering heads are found concentrated mainly on one side of the widely spreading branches of Aster lateriflorus. Like most Asters, it attracts a variety of insects but it has shorter nectar tubes. The species gets its common name from the variety of colors of its blossoms' central disks.   Other common names in use include:  Goblet Aster, Side-Flowering Aster  Another botanical name in use is Aster lateriflorus",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 250000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White",
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 36
+  },
+  "sku": "AST12F"
+}

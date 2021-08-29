@@ -1,0 +1,59 @@
+{
+  "name": "conoclinium coelestinum",
+  "commonname": "mistflower",
+  "description": "Mistflower reaches up to two feet in height with downy, purplish, branching stems in moist or low savanna settings. Its opposing, large-toothed leaves are oval to triangular.  Resembling a lovely blue-purple fog when found in dense stands, the disk flowers form in clusters of 35-70 at the tops of stems in late summer and autum, attracting late-season butterflies.  Its habit of spreading by rhizomes leads William Cullina of the New England Wildflower Society to advise that in a garden setting Mistflower needs \"frequent thinning and division to keep vigorous.\"  Other common names in use: Hardy Ageratum, Wild Ageratum or Blue Boneset. It was formerly classified as Eupatorium coelestinum.Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 350000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 1
+  },
+  "sku": "EUP03F"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "gaura biennis",
+  "commonname": "biennial gaura",
+  "description": "Some might find Gaura to be too tall, flimsy, or \"weedy-looking,\" giving a planting an untidy appearance, but Biennial Gaura establishes in a prairie planting early like Black-eyed Susans, giving the area much-deserved color in year two and blooming in the somewhat dreary month of September.  First-year rosettes will appear easily from seed, and the plant will put on 4-6' in its second year.  The numerous late-season flowers atop each stem are usually light pink but can take on almost a pure white or deep reddish-pink color.  Four petals and eight yellow stamens make up each flower.       Although a single plant will only persist for 2 years (biennial), the fragile stems on this tall plant will sway with even a gentle breeze, helping it distribute its seeds readily, ensuring the species persists in a planting.  It is an important native plant for pollinating long-tongue bees and bumblebees. The larvae from the Gaura Moth and Primrose Moth will feed on the leaves and seeds. This plant should not be overlooked when planning a prairie.  It is best planted with other tall plants as individuals can seem a bit ungainly in appearance. It also self-seeds readily, so competition with other plants can help keep it in check.      Large-flowered Gaura, a closely-related species, appears more in Southern states but does not have larger flowers as the name suggests.  The only distinguishing feature is that Large-flowered Gaura has curled hairs lying against the stem instead of hairs that stick out on the stem, as on Biennial Gaura. Biennial Gaura is also known as Oenothera gaura and Biennial Beeblossom.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 2700,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 72,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 18
+  },
+  "sku": "GAU02F"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "monarda bradburiana",
+  "commonname": "bradbury's monarda",
+  "description": "Also called Bradbury's Bee Balm, this Monarda is shorter and more compact than the popular classic prairie plant Monarda fistulosa, or Wild Bergamot.  Bradbury's Monarda is an excellent choice for home landscaping, tolerating sun and shade conditions and average garden soil. Like all Bee Balm species, it has a wonderful minty smell, is deer resistant, and will attract many pollinating insects.  “What a winner is this Monarda -- I have a landscaping friend who is not into prairie plants at all, but he was mightily impressed with this one.  Its foliage remained beautiful very, very late into the season and it is so flexible in its needs.  It's a native ground cover that makes everything around it look better.  Love this plant!”  - Chloe, Spring Green, WI\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 35000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink",
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "MON01F"
+}

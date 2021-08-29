@@ -1,0 +1,53 @@
+{
+  "name": "echinacea paradoxa",
+  "commonname": "bush's coneflower",
+  "description": "Echinacea paradoxa (Bush's Coneflower) matures to 3' in height and has yellow flowers. Bush's Coneflower prefers medium to dry soil conditions and grows best in full sun to partial shade.  It will bloom along with Pale Purple Coneflower in approximately June, July, and/or August.  This is a very rare native wildflower found only in the Ozark region of Arkansas and Missouri, but it will grow well in gardens from the Upper Midwest to the Northeast. The paradox of this plant is that it is a yellow coneflower; all other native Echinaceas are shades of purple and pink. Bush's Coneflower attracts various butterflies and bees, and is deer resistant!  It is the most fragrant of all the Coneflowers.  Other common names include Ozark Coneflower, Yellow Coneflower and Yellow-Purple Coneflower.  Echinacea species can easily cross-pollinate with each other.  Echinacea paradoxa is the species most often hybridized to make some of the bizarre colored Coneflowers which are heavily marketed in the nursery industry today.Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 5000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ECH06F"
+}

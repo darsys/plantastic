@@ -1,0 +1,64 @@
+{
+  "name": "heuchera richardsonii",
+  "commonname": "prairie alumroot",
+  "description": "Though unassuming, the green to cream flowers of Heuchera richardsonii (Prairie Alumroot) have stamens which extend beyond the petals, exposing tips of brilliant orange. The tall flowering stalks are hairy and extend up to 3' above the basal leaves. Prairie Alumroot is a resident of prairies and open woods, growing in medium-wet to medium-dry soil.\nPotted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 700000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "HEU02F"
+}

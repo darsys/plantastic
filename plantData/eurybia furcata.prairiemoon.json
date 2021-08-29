@@ -1,0 +1,45 @@
+{
+  "name": "eurybia furcata",
+  "commonname": "forked aster",
+  "description": "Forked Aster begins to bloom in July, much earlier than most Asters. Its white petals radiate from a yellow disk and turn pinkish with age. The thick, stiff leaves have fine-toothed edges and hairy undersides. Eurybia furcata is self-incompatible; it requires cross-pollination and often fails to produce seed. Its spread usually is through rhizomes, with runners emerging up to 16 inches from the main plant.  Another scientific name in use: Aster furcatus Another common name in use: Midwestern White Heart-Leaved Aster  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [],
+  "seeds/packet": 130,
+  "seeds/ounce": 24000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AST09F"
+}

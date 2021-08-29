@@ -1,0 +1,54 @@
+{
+  "name": "eleocharis erythropoda",
+  "commonname": "bald spike rush",
+  "description": "Bald Spike Rush tolerates and may prefer calcareous soils, which are alkaline with a pH of 7 to 8.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 78000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "ELE01G"
+}

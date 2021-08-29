@@ -1,0 +1,57 @@
+{
+  "name": "carex crinita",
+  "commonname": "fringed sedge",
+  "description": "Fringed Sedge is a cool season plant; it actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 23000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "sku": "CAR08G"
+}

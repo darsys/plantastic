@@ -1,0 +1,74 @@
+{
+  "name": "helenium autumnale",
+  "commonname": "sneezeweed",
+  "description": "The large and numerous daisy-like, yellow flowers of Helenium autumnale can provide welcome color in late summer and autumn when many other blossoms have disappeared. Sneezeweed prefers full to partial sun and wet to wet-medium soils. Despite its common name, it presents no problems for most allergy sufferers. Its pollen is distributed by insects, not wind.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 130000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "HEL02F"
+}

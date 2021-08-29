@@ -1,0 +1,71 @@
+{
+  "name": "eupatorium purpureum",
+  "commonName": "sweet joe pye weed",
+  "description": "Perfect for Shady Butterfly Gardens. The large pink flowers of Eupatorium purpureum are a favorite nectar source for Monarchs, Swallowtails and many other butterflies. The highly textured leaves look great all summer long. Sweet Joe Pye Weed thrives in semi-shaded woodlands, woodland edges, and in full sun. Makes an excellent garden and border plant.Other names include Eutrochium purpureum.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1640/product-3052.jpg",
+  "seeds/ounce": 48000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": "Medium",
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 48,
+    "max": 72
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Pink"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

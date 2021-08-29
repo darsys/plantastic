@@ -1,0 +1,69 @@
+{
+  "name": "heliopsis helianthoides",
+  "commonname": "early sunflower",
+  "description": "Now through Earth Day, get a FREE Early Sunflower seed packet (approx. 100 seeds) with every online order!   Plus, 5% of profits from your order will be donated to a local, grassroots, environmental group.  Learn more...Summer in the prairie can be a parade of yellow composite flowers! Often the first to show is the Heliopsis. It is possible to hike from a fairly moist, almost wetland situation to the driest south facing hillside and Early Sunflower can be found all along the way.  Heliopsis helianthoides, variously dubbed Early Sunflower, Sweet Smooth Oxeye, False Sunflower and other common names, is a member of the Aster family. Unlike true sunflowers and most asters, both its disk and ray flowers are capable of producing seed. It blooms profusely through the summer on thin stems above the foliage, in the manner of Rudbeckia.  Easily grown and quick to develop, Heliopsis helianthoides long has been popular in Europe and many large-flowered cultivars have been developed using its western variety. It is a short-lived perennial.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 4600,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 36
+  },
+  "sku": "HEL82F"
+}

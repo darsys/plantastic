@@ -1,0 +1,51 @@
+{
+  "name": "scutellaria leonardii",
+  "commonname": "small skullcap",
+  "description": "Small Skullcap or Leonard’s Skullcap is a member of the mint family. It is perfect for bordering gardens or filling in gaps because this plant loves to sprawl across the ground in dense mats.  Flowers are small with blue-violet mottles on white, and in pairs with fine, glandless hairs on the outer surface. The opposing leaves are angled upward with a lance-like shape and toothless edges that curl under. The square stem provides a study support for the relatively short plant. Scutellaria leondardii is highly recommended in boulevard gardens because it reseeds and greatly benefits a wide range of pollinators. Occasionally, plants may not produce the blue speckled petals, forming instead a very small, closed white tube from which a cleistogamous (self-pollinating) flower will bloom.  Some great companions of Small Skullcap are the beautiful Prairie Smoke, Pussytoes and Wild Petunia, which also establish well as garden borders.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 70000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 4,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "SCU06F"
+}

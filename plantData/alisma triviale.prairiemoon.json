@@ -1,0 +1,66 @@
+{
+  "name": "alisma triviale",
+  "commonname": "large-flowered water plantain",
+  "description": "The oval basal leaves of Alisma triviale are about one-foot tall and form a rosette from which rises a whorled panicle of small white flowers, reaching a height of three feet during summer.  This species prefers full or partial sun and mucky soil or shallow, slow-moving, even stagnant water.  It withstands drought better than most aquatic plants.  Other Common Names in use: Northern Water Plantain.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.9
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 90
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 66000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "ALI04F"
+}

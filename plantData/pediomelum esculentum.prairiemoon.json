@@ -1,0 +1,40 @@
+{
+  "name": "pediomelum esculentum",
+  "commonname": "prairie turnip",
+  "description": "Prairie Turnip has a starchy, tuberous, edible root that was harvested by the Plains Indians as well as European Settlers.  It may also be referred to as Indian Breadroot.  It blooms early summer with light blue flowers in a dense spike. In the fall, this perennial plant full of ripe seeds will detach itself and tumble across the prairie, scattering its seeds. It was formerly classified as Psoralea esculenta. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.    Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 1100,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 10
+  },
+  "sku": "PSO04F"
+}

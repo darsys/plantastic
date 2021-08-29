@@ -1,0 +1,66 @@
+{
+  "name": "bidens connata",
+  "commonname": "purple-stemmed tickseed",
+  "description": "Found in full-sun, wetter settings, Bidens connata is similar to Bidens cernua but grows a little taller, can tolerate some shade, blooms later with blossoms more in the yellow-orange hues and has dark purple-black stems.  Purple-stemmed Tickseed is an annual; it completes its life cycle during one season but will re-seed.  Sticktights (see detailed seed picture) are the bur-like seeds of some Bidens species, so named because they stick to clothing, shoestrings, etc.   Another common name in use is Purplestem Beggartick.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "Orange"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "BID03F"
+}

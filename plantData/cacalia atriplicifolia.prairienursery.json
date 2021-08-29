@@ -1,0 +1,67 @@
+{
+  "name": "cacalia atriplicifolia",
+  "commonName": "pale indian plantain",
+  "description": "Pale Indian Plantain has superb foliage - the soft, rich, and tactile nature of the leaves is notable. Deep blue-green leaves look great all season long, right up to frost. Growing up to eight feet tall, it is towers in the prairie garden, and seldom flops. The white flowers are attractive in their own right, but somewhat eclipsed by the phenomenal foliage. Grows well in medium to moist soils, in full sun or light shade. Other Scientific Names in use: Arnoglossum atriplicifolium. Pale Indian Plantain is aggressive and may not be suitable for small landscape plantings.Synomyms: Arnoglossum atriplicifolium.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1269/product-3166.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": "Deer Resistant",
+  "height": {
+    "min": 60,
+    "max": 120
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White, Cream"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

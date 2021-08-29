@@ -1,0 +1,52 @@
+{
+  "name": "carex gravida",
+  "commonname": "long-awned bracted sedge",
+  "description": "Long-awned Bracted Sedge actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 12000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "sku": "CAR15G"
+}

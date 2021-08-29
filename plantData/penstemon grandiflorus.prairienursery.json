@@ -1,0 +1,58 @@
+{
+  "name": "penstemon grandiflorus",
+  "commonName": "beardtongue",
+  "description": "One of the showiest of all North American native Penstemons, Penstemon grandiflorus can reach heights of three feet with stunning pink to purple flowers that bloom for a few weeks in May or June. The bloom time is short, but the plant has beautiful vertical structure and unique foliage, making it a versatile player in the garden or naturalized setting. Beardtongue, or Large Flowered Penstemon, has distinctive blue-gray or blue-green foliage color that distinguishes it from other Penstemons. The clasping leaves have a succulent appearance.\nThe large flowers up to two inches in length are popular with hummingbirds and bees. Long-tongued pollinators visit the unique tubular flowers for nectar including mason bees and bumble bees, as well as pollen seeking halictid bees (Sweat Bees).\nEndangered in some states, Beardtongue is more common in the dry sand and gravel soils of the northern Great Plains and appears less frequently further south. Not often seen in the wild, Penstemon grandiflorus prefers fulls sun and requires the excellent drainage of dry sandy and rocky soils. It will not grow well in clay.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1669/product-2568.jpg",
+  "seeds/ounce": 11000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Gravel"
+  ],
+  "moisture": "Dry",
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "color": [
+    "Lavender"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

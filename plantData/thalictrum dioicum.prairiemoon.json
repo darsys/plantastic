@@ -1,0 +1,71 @@
+{
+  "name": "thalictrum dioicum",
+  "commonname": "early meadow rue",
+  "description": "Early Meadow Rue is an excellent shade-garden plant. Use it to fill in where many of your early spring woodland flowers will go dormant. It is valued for its delicate green fern-like foliage, which will last spring through fall. The greenish-yellow flowers resemble little tassles and bloom in early spring when the leaves have not quite opened and the canopy of the trees above is not yet shading the woodland floor. Early Meadow Rue can take partial sun as well and thrives in moist through well-drained soils.     This Thalictrum's native range includes the Dakotas east to the coastal states and Quebec and south to the Appalachians. It is hardy to zone 3. Other common names in use include Quicksilver Weed.    Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 7300,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "THA04F"
+}

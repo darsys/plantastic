@@ -1,0 +1,72 @@
+{
+  "name": "smilacina racemosa",
+  "commonName": "solomon's plume",
+  "description": "Plumes of white flowers grace the arching stems in spring, and the bright red berries provide interest in the fall. The seeds are a favorite of Ruffed Grouse. Solomon's Plume (Smilacina racemosa) spreads slowly by underground rhizomes to form attractive clumps. Typically found in partial shade and deep, moist, soft soils it also grows in acid soils under oaks and pines.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1679/product-3747.jpg",
+  "seeds/ounce": 900,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$600.00"
+    }
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds"
+  ],
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 24
+  },
+  "root": "Rhizome"
+}

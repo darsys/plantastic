@@ -1,0 +1,67 @@
+{
+  "name": "amorpha fruticosa",
+  "commonname": "false indigo",
+  "description": "With most of its foliage in the upper third of the tall, bushy plant, Amorpha fruticosa can form thickets in dense plantings. The genus name is from the Greek for formless or deformed, because the single-petaled flower is unlike most blossoms in the pea family.  Other Common Names in use: Desert False Indigo and Indigo Bush.A vigorous plant throughout its range, this species can be\ninvasive when planted outside of its historic regions.  We are waiting for an updated BONAP map for this species. It is native throughout much of the US but not native in Washington, Maine, New Hampshire, Vermont, Massachusetts, Connecticut, and Rhode Island. It is a prohibited species is Maine and Connecticut. It is an invasive species in Connecticut and Washington. It is also not native in Michigan and the Northwest area of the U.S.  Species of genus Amorpha are legumes. Most legume species harbor beneficial bacteria called rhizobia on their roots.  Prairie Moon provides genus-specific strains of this bacterium called inoculum for legume seed free of charge with the purchase of 1 oz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.    Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root tree is 1 year old and we trim to a height of approximatley 12-14\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 3700,
+  "germination": [
+    "C(10)",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": null,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 4,
+    "max": 6
+  },
+  "sku": "AMO04T"
+}

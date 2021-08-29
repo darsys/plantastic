@@ -1,0 +1,75 @@
+{
+  "name": "asclepias incarnata",
+  "commonName": "red milkweed",
+  "description": "Red Milkweed is an exceptional plant for pollinators, attracting Hawk moths, Swallowtail butterflies, Greater Fritillaries, Monarch butterflies, skippers, bumble bees and numerous other nectar-seekers - even an occasional hummingbird. Asclepias incarnata is easily grown in moist to wet soils in full sun, but it also does perfectly well in average well-drained garden soil. The 3'-5' plants form stately clumps with upright stems and long narrow leaves. The clusters of fragrant pink flowers are followed by attractive seed pods for late season interest. The pods split open when ripe releasing silky-haired seeds, easily carried by the wind.A beautiful addition to sunny border gardens, water features, or the butterfly garden, Red Milkweed is also a good for naturalizing in low spots or other moist areas in the landscape. Other names include Swamp Milkweed and Pink Milkweed.Monarch butterflies lay their eggs exclusively on plants in the Asclepias genus, otherwise known as milkweeds. You're sure to see Monarch butterflies when you include milkweed plants in the garden.Seed Treatment: Review our seed propagation page for additional/specific information.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1617/product-3026.jpg",
+  "seeds/ounce": 4500,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Red, Pink"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

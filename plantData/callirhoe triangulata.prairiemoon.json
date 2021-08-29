@@ -1,0 +1,70 @@
+{
+  "name": "callirhoe triangulata",
+  "commonname": "clustered poppy mallow",
+  "description": "The drier the soil, the better for this Poppy Mallow. Even through the driest stretches of summer, the Clustered Poppy Mallow will be laden with beautiful magenta-red blossoms.  As the growing season progresses, the plants droop so you may want to stake them upright (see corresponding photo).  The Clustered Poppy Mallow's bold arrowhead leaves distinguish it from other Callirhoes, which have very similar flowers.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 5400,
+  "germination": [
+    "B",
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "CAL52F"
+}

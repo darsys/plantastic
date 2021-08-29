@@ -1,0 +1,53 @@
+{
+  "name": "liatris aspera",
+  "commonname": "button blazing star",
+  "description": "Liatris aspera (Button or Rough Blazing Star) matures to 3' in height and has purple flowers. Our dear friend and mentor, Dot Wade, lovingly gave this plant the common name we still use today, Button Blazing Star, because the flowers often resemble a button and she didn't like the name 'Rough' Blazing Star. This Liatris prefers medium to dry soil conditions and will bloom for many weeks in the months of July to October.  It grows best in full sun but can tolerate a fair amount of shade.  Butterflies, hummingbirds, and bees are greatly attracted to the flowers of Liatris aspera. Like all Liatris species, Button Blazing Star is great in flower arrangements both as fresh and dried as the flowers keep their purple color.  Many insects visit the flowers of Liatris aspera including honeybees, bumblebees, Little Carpenter bees, Miner bees, and Leaf-Cutting bees. Butterfly visitors include Monarchs, Painted Ladies, Black Swallowtails, Sulfurs, and more. Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 16000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 18
+  },
+  "sku": "LIA02F"
+}

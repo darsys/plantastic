@@ -1,0 +1,65 @@
+{
+  "name": "drymocallis arguta",
+  "commonname": "prairie cinquefoil",
+  "description": "Ranging from 1-3 feet tall, Drymocallis arguta (Prairie Cinquefoil) features crowded rosettes of attractive cream to light yellow flowers and prefers medium to dry soil. Synonyms include Potentilla arguta and Tall Cinquefoil.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 230000,
+  "germination": [
+    "C(60)",
+    "D",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "POT02F"
+}

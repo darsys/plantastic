@@ -1,0 +1,75 @@
+{
+  "name": "ratibida pinnata",
+  "commonName": "yellow coneflower",
+  "description": "Yellow Coneflower grows in almost any soil. This striking prairie flower produces a cornucopia of bright yellow flowers in the heat of mid-summer. Amazingly durable, it survives heat, drought, flooding, and winter cold. Easy to grow from seed or transplants, this is a strong perennial and classic prairie flower.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1670/product-2920.jpg",
+  "seeds/ounce": 27000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$6.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$9.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds"
+  ],
+  "height": {
+    "min": 36,
+    "max": 72
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

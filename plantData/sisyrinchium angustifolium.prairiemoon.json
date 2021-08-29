@@ -1,0 +1,62 @@
+{
+  "name": "sisyrinchium angustifolium",
+  "commonname": "stout blue-eyed grass",
+  "description": "Are you looking for a striking, unusual addition to your garden?  Or a splash of color during the spring to summer transition? Consider the Blue-eyed Grasses (Sisyrinchium species)!  What they lack in size they certainly make up for in beauty and tenacity. If you have a well drained site in your yard that receives lots of sun, these are the plants for you.  This beautiful plant blooms a star-shaped flower that opens in the morning to reveal six pale blueish-purple petals and a yellow center, and then will close in the afternoon or evening.  Despite their common name, the Blue-eyed Grasses are not grasses at all but rather members of the Iris family. They handle competition quite well and readily spread via underground rhizomes. A large patch of these little plants is truly a sight to behold, especially if you are a bee. Pollinators readily take to the flowers, which is nice considering that most Sisyrinchium species bloom and provide pollen and nectar to our winged friends before some of the larger summer flowers really get going.  The petals even provide markings that are like runway signs for pollinators. Yellow is a favorite of bees and the yellow center of this flower is a perfect announcement of yummy treats within.  The leaves of all Sisyrinchium plants are stiff, fan-like, and in deep green bunches that resemble grass with wider and unbranched stems. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 80
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 30000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "SIS01F"
+}

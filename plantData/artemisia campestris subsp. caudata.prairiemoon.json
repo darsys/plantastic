@@ -1,0 +1,69 @@
+{
+  "name": "artemisia campestris subsp. caudata",
+  "commonname": "beach wormwood",
+  "description": "In the Aster family, Beach Wormwood is a biennial or short-lived perennial. On very dry or sandy sites it produces a rosette of basal leaves in its first year and then bolts with central and lateral stems one to four feet high in its second year, possibly more. Artemisia caudata is the primary host of Clustered Broomrape, Orobanche fasciculata, a rare parasitic plant whose pale flowering stalk can be seen near its host in late spring or summer.  Other common name in use: Field Sagewort Other scientific name in use: Artemisia caudata",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 250000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ART01F"
+}

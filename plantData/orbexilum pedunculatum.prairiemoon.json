@@ -1,0 +1,62 @@
+{
+  "name": "orbexilum pedunculatum",
+  "commonname": "sampson's snakeroot",
+  "description": "Sampson's Snakeroot is a member of the pea family and has characteristic trifoliate leaves and flowers held in a raceme.  The purple flowers can be in bloom for three months. Reaching about a foot in height, this plant has been used as a ground cover and erosion control in well drained areas. Sampson's Snakeroot is native to the south eastern region of the US, but has been found as far north as Michigan. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 70,
+  "seeds/ounce": 3800,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "PSO07F"
+}

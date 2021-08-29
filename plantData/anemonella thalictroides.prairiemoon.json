@@ -1,0 +1,44 @@
+{
+  "name": "anemonella thalictroides",
+  "commonname": "rue anemone",
+  "description": "Rue Anemone is a delicate-looking early spring plant that blooms in various shades of pink.  It begins to come up through brown leaves from the previous fall.  The \"petals\" are actually sepals so they continue to bloom for a longer period of time.  The root system produces very small tubers. It is similar in appearance to False Rue Anemone (Isopyrum biternatum) which has white blooms . Both are found in the same habitats. Rue Anemone, dies back in mid-summer making it a true spring ephemeral. Another scientific name is Thalictrum thalictroides.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [],
+  "seeds/packet": 25,
+  "seeds/ounce": 13000,
+  "germination": [
+    "E"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 6
+  },
+  "sku": "ANE12F"
+}

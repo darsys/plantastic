@@ -1,0 +1,50 @@
+{
+  "name": "carex trichocarpa",
+  "commonname": "hairy-fruited lake sedge",
+  "description": "Hairy-fruited Lake Sedge is rhizomatous; it spreads aggressively and therefore may not be suitable for small landscape plantings.  It is a cool-season sedge; actively growing during the spring and fall when soil temperatures are cool.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 18000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "sku": "CAR48G"
+}

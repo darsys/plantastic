@@ -1,0 +1,71 @@
+{
+  "name": "andropogon gerardii",
+  "commonName": "big bluestem",
+  "description": "The most widely distributed of prairie tall grasses, Big Bluestem was largely responsible for the formation of the famous prairie sod. The leaves and stems change color with the first frost to a deep red-bronze that provides landscape interest well into the winter. Andropogon gerardii will grow in almost any soil, from wet clay to dry sand. The iconic and distinctive three-parted seedheads resemble a turkeys foot, inspiring its alternative name: Turkey Foot.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1613/product-3031.jpg",
+  "seeds/ounce": 8200,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$4.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$25.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 60,
+    "max": 96
+  },
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Bronze"
+  ],
+  "root": "Fibrous",
+  "seedrate_acre": "10 Lbs",
+  "seedrate_1000sqft": "1/4 Lb"
+}

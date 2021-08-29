@@ -1,0 +1,75 @@
+{
+  "name": "callirhoe bushii",
+  "commonname": "bush's poppy mallow",
+  "description": "Bush's Poppy Mallow can mature to 2' in height but will often be seen spreading out rather than up. Its magenta flowers are a real stand-out in any planting. It prefers drier soil conditions, full sun to partial shade and has a long bloom time. Poppy Mallow species are often also referred to as Winecups or Wine Cups for their bloom color and shape.  We sell this seed dehulled, as in the seed image, above.Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 600
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 4000,
+  "germination": [
+    "B",
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "CAL51F"
+}

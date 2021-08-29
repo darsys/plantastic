@@ -1,0 +1,59 @@
+{
+  "name": "cryptotaenia canadensis",
+  "commonname": "honewort",
+  "description": "For about a month in mid-summer, Honewort, a shade-loving perennial produces tiny (1/8-in.) white flowers, splayed in the compound umbels that are characteristic of its carrot family.  Like many plants in the carrot family, Honewort is a host plant for the Black Swallowtail Butterfly. The blossoms are not fragrant or showy, but they are very attractive to a variety of native bees, flies, and wasps.  Young leaves and stems are edible and resemble the flavor of parsley.  The root and seeds are edible as well.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 7000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "CRY02F"
+}

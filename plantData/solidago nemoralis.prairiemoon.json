@@ -1,0 +1,63 @@
+{
+  "name": "solidago nemoralis",
+  "commonname": "old field goldenrod",
+  "description": "This is an excellent plant for a difficult spot where little else will grow. Old Field Goldenrod likes full sun and dry soil, even poor, rocky, clay slopes with little organic matter.  The long, narrow inflorescence is somewhat wider in the middle and will nod down slightly when flowering for a month or so in the fall.  Solidago nemoralis is one of the shortest Goldenrods, reaching 2' at most.  Other distinguishing features include small winged leaflets on the main stem and fuzzy white texture on the leaves and stem.  It tends to bloom later in the fall than other Goldenrods. Solidago nemoralis is also often called Gray Goldenrod or simply Field Goldenrod.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 300000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SOL08F"
+}

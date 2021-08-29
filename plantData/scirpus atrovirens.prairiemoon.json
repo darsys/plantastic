@@ -1,0 +1,59 @@
+{
+  "name": "scirpus atrovirens",
+  "commonname": "dark-green bulrush",
+  "description": "Dark-green Bulrush will form clumps from rhizomes and fibrous roots in the wettest of soils. We carry nearly 200 native species that tolerate saturated (oxygen-deficient) soils at least periodically but only a few will tolerate water depths of 1' or more like this Bulrush will.  It is a good choice for a lakeshore restoration, pond construction or rain garden.  It is a cool season grass meaning it actively grows during the spring and fall when soil temperatures are cool.  Another name commonly used is simply Green Bulrush.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 460000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 3
+  },
+  "sku": "SCI04G"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "sorghastrum nutans",
+  "commonName": "indiangrass",
+  "description": "The silky, golden seedheads of Indiangrass impart a special beauty and drama to the prairie in autumn. Plant with Little Bluestem for a fabulous fall combination. This clumping tall grass makes a great companion for a wide range of prairie flowers, and as an accent grass. Sorghastrum nutans is a wonderful drought resistant meadow grass and a desirable native component in most eastern North American grasslands. Attractive to both wildlife and pollinators.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1649/product-2029.jpg",
+  "seeds/ounce": 8300,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$4.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$25.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Birds",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 60,
+    "max": 84
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Straw"
+  ],
+  "root": "Fibrous",
+  "seedrate_acre": "10 Lbs",
+  "seedrate_1000sqft": "1/4 Lb"
+}

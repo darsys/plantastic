@@ -1,0 +1,58 @@
+{
+  "name": "osmorhiza longistylis",
+  "commonname": "aniseroot",
+  "description": "New! Often confused with Sweet Cicely (Osmorhiza claytonii),\nAniseroot is distinguishable by the larger number of white flowers per umbellet\n(7-16) and the pleasant anise (licorice) smell that emits from the root or\ncrushed leaves. historically it was used as a treatment for digestive disorders\nand as an antiseptic wash for a range of ailments. Osmorhiza longistylis can\ngrow up to 2’ in medium, medium-wet soils, under shade or partial sun. The seed\nare slightly prickly and often cling to animals and the cloths of humans, which\nhelps in the dispersal of the seeds.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 1600,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "OSM03F"
+}

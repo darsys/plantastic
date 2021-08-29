@@ -1,0 +1,72 @@
+{
+  "name": "clematis virginiana",
+  "commonname": "virgin's bower",
+  "description": "The vine will grow best when supported by a fence or trellis in medium shade. Virgin's Bower can be confused with Sweet Autumn Clematis (Clematis terniflora or Clematis paniculata,) an aggressive Asian vine with sweet-smelling flowers that has escaped from cultivation. The fragrance and the leaves sets the two vines apart: Virgin's Bower leaves are jagged on the edges whereas Sweet Autumn Clematis has rounded leaves.  Virgin's Bower is a perennial vine that is nicknamed \"Prairie Smoke on a Rope\" for its similar looking seedhead to the famous prairie plant Geum triflorum (Prairie Smoke.)  It also may be referred to as Devil's Darning Needles.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 16000,
+  "germination": [
+    "C(30)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": null,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "CLE02T"
+}

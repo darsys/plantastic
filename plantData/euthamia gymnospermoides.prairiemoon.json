@@ -1,0 +1,45 @@
+{
+  "name": "euthamia gymnospermoides",
+  "commonname": "great plains goldenrod",
+  "description": "NEW!  Can be somewhat aggressive.  Identified by a single vein on the leaves.  Enjoys sandy or coarse-textured soils.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 380000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "EUT21F"
+}

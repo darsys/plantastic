@@ -1,0 +1,33 @@
+{
+  "name": "panicum acuminatum",
+  "commonname": "hairy panic grass",
+  "description": "Another Scientific Name is Dichanthelium acuminatum.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 22000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "sku": "PAN05G"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "viola cucullata",
+  "commonname": "marsh blue violet",
+  "description": "Marsh Blue Violet can be found in the eastern half of North America and in states just west of the Mississippi River. This particular Violet varies across its range in terms of the color of its petals and the shape of its leaves which can make identifying it difficult. It looks similar in characteristics to Northern Bog Violet and Common Blue Violet (Viola sororia), but the hairs on Marsh Blue Violet are shorter than the other species. The flowers on Marsh Blue Violet are also darker in color towards the throat.  Although Viola cucullata is very versitile in its sun and soil needs, it grows best in very wet habitats, like marshes, with full sun to partial shade.The leaves of Marsh Blue Violet are a popular addition to spring salads. Historically it was used as an herbal medicine for various types of cancer and some minor maladies.*This species may be difficult and/or slow to germinate and grow to maturity.",
+  "prices": [],
+  "seeds/packet": 50,
+  "germination": [
+    "C(60)",
+    "M",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 8
+  },
+  "sku": "VIO05F"
+}

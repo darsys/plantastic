@@ -1,0 +1,70 @@
+{
+  "name": "arisaema triphyllum",
+  "commonName": "jack in the pulpit",
+  "description": "A familiar sight in the spring woodlands of eastern North America, Jack in the Pulpit arrives on the scene in May, in Wisconsin. The intriguing bloom consists of a green and brown striped hood that conceals a spadix - or jack – which is covered in numerous tiny green to purple flowers. The unusual flower gives way to a cluster of bright red berries in late summer, which may be eaten by birds and mammals.\nVery unique and easy to grow, Jack in the Pulpit can be grown in any rich soil in the shade and requires very little care, other than keeping the plants covered with a thick layer of leaves over the winter.\nArisaema triphyllum plants can be either male or female and they can change sex from year to year, depending upon the sucess of reproduction the previous year. Males plants - usually smaller than female plants - have a small hole at the bottom of the spathe which allows pollinators to escape more easily. Female plants lack the hole and pollinators are more likely to become trapped, leading to more successful pollination.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1616/product-3506.jpg",
+  "seeds/ounce": 440,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$36.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$60.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$900.00"
+    }
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist",
+    "Wet"
+  ],
+  "benefits": "Birds",
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "Apr",
+    "May"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Green"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "root": "Corm"
+}

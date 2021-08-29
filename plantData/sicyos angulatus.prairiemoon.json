@@ -1,0 +1,50 @@
+{
+  "name": "sicyos angulatus",
+  "commonname": "bur cucumber",
+  "description": "Bur Cucumber is an annual vine; it completes its life cycle during one season but will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 275,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": null,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "SIC02F"
+}

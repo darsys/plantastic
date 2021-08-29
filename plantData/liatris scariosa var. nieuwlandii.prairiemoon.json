@@ -1,0 +1,57 @@
+{
+  "name": "liatris scariosa var. nieuwlandii",
+  "commonname": "northern blazing star",
+  "description": "Northern Blazing Star, also sometimes known as Savanna Blazing Star, is native from Maine to Wisconsin and south to Alabama. It prefers medium to dry soils, especially with a sandy or rocky component. It can grow between 2-3’ tall; taller in moister soils.  The purple flowers are thistle-like and are typically about 1” across. The flowers grow in columned bunches that can extend up to 18” of the overall plant stem. Flowers bloom from the top of the plant toward the bottom, so may fall over unless tied to a stake. These flowers attract many bees and butterflies, especially bumblebees and Monarch butterflies. The foliage of Northern Blazing Star can be quite appetizing to deer, cattle, and rabbits, especially in the early years, so keep them protected until they are established. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 10800,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "LIA15F"
+}

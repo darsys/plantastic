@@ -1,0 +1,59 @@
+{
+  "name": "viburnum trilobum",
+  "commonname": "american cranberrybush",
+  "description": "Also called Highbush Cranberry or Viburnum opulus var. americanum, the American Cranberry Bush is an attractive native plant all season long. In spring, the cranberry will develop white flowers that resemble lace-cap hydrangeas; in summer, dense foliage provides habitat for wildlife, and in autumn, the bush will develop tart red berries before the leaves turn from yellow to purple-red in color.   The true cranberry that is grown commercially for food (Vaccinium macrocarpon) is a non-related member of the Heath family (Ericaceae). The American Cranberry is a member of the Elderberry family (Adoxaceae). Like the commercial variety, the fruit of the American Cranberry is also edible, and tastes best if made into a preserve or sauce. Fruits are a staple winter food for ruffed grouse and are eaten sparingly by pheasants and at least five species of songbirds.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root tree is 2 years old and we trim to a height of approximatley 14\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 600,
+  "germination": [
+    "F"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": null,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "VIB06T"
+}

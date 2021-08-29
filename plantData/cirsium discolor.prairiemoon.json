@@ -1,0 +1,52 @@
+{
+  "name": "cirsium discolor",
+  "commonname": "pasture thistle",
+  "description": "Our native thistles benefit many different bees, butterflies, and moths, along with hummingbirds. Goldfinches are particularly fond of the seed. Pasture Thistle can be identified by examining the underside of the leaves; the downy white underside contrasts with the green topside. Non-native thistles do not have this white underside. Additionally, native thistles are noticeably less prickly than weedy, non-native thistles, like bull thistle (Cirsium vulgare) or Canada thistle (Cirsium arvense). Unfortunately, agencies do not differentiate the native thistles and some unenlightened lawmakers in states, such as Iowa, classify all Cirsium species as noxious.\n Pasture Thistle is a biennial or short-lived perennial. It has a central taproot so does not spread by rhizomes.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 6400,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 72,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "CIR02F"
+}

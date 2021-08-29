@@ -1,0 +1,78 @@
+{
+  "name": "eutrochium maculatum",
+  "commonname": "joe pye weed",
+  "description": "Joe Pye Weed is a very tall plant, up to 6' in the best sun/soil conditions, but strong stems support the flowering plant so it rarely needs to be staked.  These attractive stems are almost the same color as the dusty rose-colored flowers, which will bloom for many weeks in July and August, becoming absolute magnets for dozens of species of butterflies.  Also called Spotted Joe Pye Weed, it is best planted in full to almost-full sun and rich, moist soils.  It will spread so should be planted with caution in small landscape situations. \n\nIf you love Joe Pye but have too much shade, try Sweet Joe Pye Weed (Eutrochium purpureum).  It is very similar to Joe Pye in height, flower shape and color, but likes savanna and woodland conditions.\n\nDormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 95000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "EUP04F"
+}

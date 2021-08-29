@@ -1,0 +1,58 @@
+{
+  "name": "actaea pachypoda",
+  "commonname": "doll's eyes",
+  "description": "Also called White Baneberry, Doll's Eyes were named for the distinctive dark \"pupil\" mark on the ends of their white berries. Persisting for four to six weeks in late summer to early fall, the berries extend from the stem on thick, reddish stalks. Baneberry plants are poisonous and should never be eaten.  *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 5200,
+  "germination": [
+    "F"
+  ],
+  "light": [
+    "Shade"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 20
+  },
+  "sku": "ACT06F"
+}

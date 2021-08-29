@@ -1,0 +1,75 @@
+{
+  "name": "asclepias tuberosa",
+  "commonName": "butterflyweed",
+  "description": "Butterfly Weed (Asclepias tuberosa) has long-lasting, bright orange flowers and a low mounded profile making it one of the most popular of milkweeds. True to its name Butterflyweed attracts legions of butterflies and is an important host plant for Monarchs, Grey Hairstreaks, and Queen butterflies. Unusual among milkweeds, its leaves are alternate and it lacks the typical milky sap.A favorite prairie plant for all types of gardens, mature plants in an ideal location can become gorgeous specimens, with multiple flowering stems spreading across a 2' high plant. Older mature plants have a deep tap root that extends down a foot or more. They can be transplanted if dug carefully during dormancy. This rugged species will thrive in sunny locations in dry sandy soil to well-drained loam.Other names include Pleurisy Root, Butterfly Milkweed and Orange Milkweed.Seed Treatment: Review our seed propagation page for additional/specific information.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1618/product-2545.jpg",
+  "seeds/ounce": 3500,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Orange"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "root": "Taproot"
+}

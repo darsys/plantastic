@@ -1,0 +1,63 @@
+{
+  "name": "campanula rotundifolia",
+  "commonname": "harebell",
+  "description": "Campanula rotundifolia, Harebell, is a delicate beauty with small blue-violet bell-shaped flowers that nod from the tips of slender stems, blooming in spurts from summer to fall. Rosettes of rounded basal leaves wither early after sending up clusters of wiry stems with long narrow foliage. The slender flowering stems can rise up to 12 inches, often becoming so weak that the entire plant bends over.  The bloom time can be very sporadic and prolonged.  A larger patch of Harebell can start blooming late-spring and individual plants can continue into August or September, especially if spent blossoms are dead-headed.  Campanula rotundifolia does well in rocky soils and crevices, often self-seeding in retaining walls.  Some theorize that its common name alludes to an ancient association with witches, suspected of transforming into hares, portending bad luck when crossing one’s path.  Harebell may also be referred to as Bluebell Bellflower.  Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 900000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "CAM54F"
+}

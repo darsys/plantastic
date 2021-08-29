@@ -1,0 +1,55 @@
+{
+  "name": "carex typhina",
+  "commonname": "common cattail sedge",
+  "description": "Common Cattail Sedge actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 14000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "CAR60G"
+}

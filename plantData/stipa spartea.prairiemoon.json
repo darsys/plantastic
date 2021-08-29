@@ -1,0 +1,41 @@
+{
+  "name": "stipa spartea",
+  "commonname": "porcupine grass-untrimmed",
+  "description": "Porcupine Grass is a bunch grass with specialized florets that can self-plant. The needle-sharp floret orients the seed to the soil, while the sensitive awn coils when dry and uncoils when wet, working the floret into the ground.  Watch this cool VIDEO!  Porcupine Grass is a cool-season grass, meaning it actively grows during the spring and fall when soil temperatures are cool.  Minimum quantity offered is 1 oz because the seed is very large (see corresponding photo) and hard to get into small packets. Caution! Use gloves to handle this sharp, untrimmed seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 225
+    }
+  ],
+  "seeds/packet": null,
+  "seeds/ounce": 680,
+  "germination": [
+    "G",
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "STI03G"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "asclepias ovalifolia",
+  "commonname": "oval-leaf milkweed - 5 pkt limit",
+  "description": "Limit 5 packets per customer please!  A petite, rare Milkweed.  We say the flowers are green but they can border on white or light pink, and fade to yellow as they age. The stem is a reddish-brown and is covered in tiny, soft hairs. As the common name implies, the leaves are indeed oval-shaped, large, and also covered in soft hairs.  It may also be referred to as Dwarf Milkweed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 4800,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ASC13F"
+}

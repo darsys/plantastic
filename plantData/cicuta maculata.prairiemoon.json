@@ -1,0 +1,66 @@
+{
+  "name": "cicuta maculata",
+  "commonname": "water hemlock",
+  "description": "With its six-foot stature and branching, hollow purple stems, Water Hemlock can lend interesting structure to plantings in wet or medium-wet areas. Its small white flowers grow in clusters on stalks that radiate from the stem like umbrella ribs.  A member of the carrot family, Water Hemlock is a biennial or short-lived perennial that spreads by rhizomes. Native to nearly all of North America, it is considered the continent's most poisonous plant.  The neurotoxin cicutoxin is most concentrated in the roots but no part of the plant should ever be ingested in any amount!  The greatest threat is to livestock. Despite being poisonous to mammals, the plant attracts a wide array of native bees, wasps, and other insects. It is a host plant for the larvae of Papilio polyxenes (Black Swallowtail) butterfly.  Warning: The common name “Hemlock” is associated with a right-to-die organization and the poison which the philosopher Socrates died from (Conium maculatum). Cicuta maculata poisoning causes seizures, vomiting, and severe abdominal pain. It is NOT a plant anyone would want to use for hastening death.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 12000,
+  "germination": [
+    "C(120)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 72,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "CIC02F"
+}

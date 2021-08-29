@@ -1,0 +1,61 @@
+{
+  "name": "solidago juncea",
+  "commonname": "early goldenrod",
+  "description": "Blooming earlier than other Goldenrod species, Solidago juncea (Early Goldenrod) can be found flowering in early July and grows well in dryer soil types. The upper stems are hairless with few leaves, with flower heads growing on one side of backward-curving branches.  Early Goldenrod is aggressive and therefore may not be suitable for small landscape plantings.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 290000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "SOL05F"
+}

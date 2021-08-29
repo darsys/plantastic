@@ -1,0 +1,74 @@
+{
+  "name": "aster novae-angliae",
+  "commonName": "new england aster",
+  "description": "The magnificent blooms of New England Aster highlight the late season landscape with rich colors ranging from deep violet to lavender-pink, with yellow-orange centers. Large and showy this aster can grow up to six feet high. Like most asters it blooms late in the season and provides a critical fall nectar source for pollinators, especially Monarchs as they stock up for their fall migration to Mexico.This deer resistant native prefers moist, rich soils, but is easily grown in a broad range of conditions, thriving in full sun or light shade in all but the driest soils. It does self-seed in favorable conditions. When this tall aster goes into bloom the lower leaves begin to dry up and this is normal. If height becomes an issue, pinching back the stems a few times before mid-July can help eliminate any need for staking.Bees and butterflies are frequent visitors of this wildflower. It is a prefered nectar source for Monarch butterflies, and larval host for the Pearl Crescent, the Gorgone Checkerspot butterfly and the Northern Flower moth.Other names include Symphyotrichum novae-angliae and Michaelmas Daisy.Seed Treatment: Review our seed propagation page for additional/specific information.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1623/product-4008.jpg",
+  "seeds/ounce": 70000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$600.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 72
+  },
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "color": [
+    "Pink, Purple, Blue"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

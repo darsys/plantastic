@@ -1,0 +1,70 @@
+{
+  "name": "hibiscus moscheutos",
+  "commonname": "swamp rose mallow",
+  "description": "A large, attractive plant suited for sunny, moist, even wet and slightly acidic sites. Multiple stems will come from a single plant on this shrub-like perennial forb. The large leaves are dark gray-green, and hairy on the underside.  The stunning white flowers can reach 6\" across with dark pink centers, and long cream-colored stamens.  Great for a late-summer living fence, a wetland edge, or rain garden.  Suited to a more southern climate, it will likely winter-kill in zones 3 and 4.  It may also be referred to as Hibiscus incanus or Hibiscus palustris.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Fun fact: Marshmallows were born from the sweet sap of the Mallow plant, found throughout the word in wet locations like Marshes.  Marsh + Mallow. Over 2000 years ago, Ancient Egyptians used sap from the Mallow root, mixed with honey and grain to make cakes for their Pharaohs. Hipppocrates also cherished the sweet sap in his medical treatments. Fast forward to the 15th centuries and we find evidence of sweet mallow liquids as treatments for sore throats, toothaches, and diarrhea. Leave it to the French to change the use of the Mallow plant from mainly medicinal to a candy in the 1800's.  French Confectioners found that mallow sap boiled with corn syrup and egg whites created the delictable, soft treat, found today at the end of our campfire sticks!",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 225
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 2400,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White",
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "sku": "HIB04F"
+}

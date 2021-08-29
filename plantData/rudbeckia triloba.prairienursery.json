@@ -1,0 +1,73 @@
+{
+  "name": "rudbeckia triloba",
+  "commonName": "brown eyed susan",
+  "description": "Brown Eyed Susan offers a profusion of brilliant yellow flowers with jet-black centers bloom from late July up until the first hard frost. This Rudbeckia grows from two to five feet tall, in a bushy habit with an open airy quality. Its lovely informal style is an excellent complement to any of the tall native grasses and common prairie wildflowers.\nWith a native range that extends from New York to Minnesota and south to Utah and Texas the free-flowering Rudbeckia triloba is a short-lived perennial, and sometimes a biennial, depending upon the locale and conditions. Although short-lived, it self-sows readily on open soil. It prefers moderate moisture, but is very tolerant and adaptable, and grows in almost any soil in full sun or light shade.\nOther names include Branched Coneflower, Thin-Leaved Coneflower and Three-Lobed Coneflower.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1674/product-2279.jpg",
+  "seeds/ounce": 33000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 60
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

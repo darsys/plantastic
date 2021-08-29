@@ -1,0 +1,51 @@
+{
+  "name": "silene stellata",
+  "commonname": "starry campion",
+  "description": "Silene stellata (Starry Campion or Widow’s Frill) belongs to a large genus that is related to carnations. Its species all have five-petaled flowers that are enclosed at their base by a bell-shaped light green calyx with five teeth along its upper rim. Starry Campion should not be confused with the similar-looking naturalized weed, Bladder Campion (Silene vulgaris) which features the most inflated calyx pouch.  Each of the frilled white petals of this scentless flower has 8-12 intricate narrow lobes. Pollination is mainly by moths. This hardy, drought-tolerant plant reseeds itself, with older plants sometimes sprouting multiple stems from the deep taproot. The leaves on both ends of the often-unbranched round central stem are usually opposite, with the middle leaves in whorls of four.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 30000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SIL06F"
+}

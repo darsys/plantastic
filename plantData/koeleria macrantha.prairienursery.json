@@ -1,0 +1,64 @@
+{
+  "name": "koeleria macrantha",
+  "commonName": "junegrass",
+  "description": "June Grass produces lustrous silver-green seedheads in early summer. The supporting foliage is an attractive green-gray color.  Koeleria macrantha grows actively when soil temps are cooler - spring and fall. It prefers full sun and dry, sandy soil.  An excellent companion for shorter prairie flowers, such as Prairie Smoke and Lupine, Junegrass will not grow in clay. Also known as Prairie Junegrass.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1646/product-1743.jpg",
+  "seeds/ounce": 150000,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$75.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$135.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Gravel"
+  ],
+  "moisture": "Dry",
+  "benefits": [
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Straw"
+  ],
+  "root": "Fibrous",
+  "seedrate_acre": "3 Lbs",
+  "seedrate_1000sqft": "1 Oz"
+}

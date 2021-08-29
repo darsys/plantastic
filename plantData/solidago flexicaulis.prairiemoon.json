@@ -1,0 +1,58 @@
+{
+  "name": "solidago flexicaulis",
+  "commonname": "zig zag goldenrod",
+  "description": "Zig Zag Goldenrod gets its name from the way that its stems \"zig zag\" from leaf to leaf.   These leaves are bluntly toothed all along the stem with the middle leaves usually the largest at 6\" long and 4\" wide. The small flowers appear from late summer to early fall in a cluster near the top of the plant.  Zig Zag Goldenrod can be aggressive and therefore may not be suitable for small woodland gardens.  Whatever your preference or situation may be, there is a goldenrod to suit all occasions. Sadly, goldenrods often get blamed for causing the dreaded hayfever. This is simply not true. Their pollen is quite large and sticky so as to better adhere to the body of visiting insects. Because of this, goldenrod pollen cannot become airborne and can never make its way into your sinuses. The true cause of hayfever is the wind pollinated ragweeds, which broadcast copious amounts of lightweight pollen into the air. We cannot stress enough how important goldenrods are on the landscape. Including them in your property will provide ecosystem services well into the fall when most other plant life is shutting down.Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 84000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SOL02F"
+}

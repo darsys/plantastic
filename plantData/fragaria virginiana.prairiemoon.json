@@ -1,0 +1,65 @@
+{
+  "name": "fragaria virginiana",
+  "commonname": "wild strawberry",
+  "description": "Not only do you get the early-summer white blossoms and edible fruit, but the Wild Strawberry plant takes on a great red fall color also. It is best introduced into a situation using plants; it spreads by runners readily. Wild Strawberries grows in a wide variety of sun and soil conditions: full sun to nearly full shade, prairie, meadows, fields, on moist ground, along the edge of woods, and on hillsides. The fruit ripens in late spring or early summer. They are much smaller than commercial strawberries but probably the most delicious of the wild fruits.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 42.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 80
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 83000,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 10
+  },
+  "sku": "FRA02F"
+}

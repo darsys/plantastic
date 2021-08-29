@@ -1,0 +1,54 @@
+{
+  "name": "heracleum maximum",
+  "commonname": "cow parsnip",
+  "description": "Cow Parsnip is a biennial; it grows vegetatively during the first year and completes its life cycle during the second but will re-seed.  The numerous umbels of small white flowers attract a plethora of insects since the nectar and pollen are easily accessed.  During the peak blooming period of early to mid-summer expect to see bees, wasps, flies, gnats, beetles, butterflies and moths! Although accounts abound of many uses made of Cow Parsnip by indigenous peoples, care around these plants should be exercised, especially by people with sensitive skin, because the leaves and stems contain phytotoxic chemical compounds. These light-sensitive furocoumarins can cause rashes, burns and blistering when the plant’s sap contacts skin in sunlight. The same compounds cause similar reactions upon exposure to sap of the familiar, yellow-flowered invasive (non-native) Wild Parsnip, a plant of a different species but also in the Carrot family.An alternate botanical name is Heracleum lanatum.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May)",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 2600,
+  "germination": [
+    "F",
+    "M",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 96,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "HER02F"
+}

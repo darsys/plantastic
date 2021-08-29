@@ -1,0 +1,56 @@
+{
+  "name": "scutellaria lateriflora",
+  "commonname": "mad-dog skullcap",
+  "description": "Mad-dog Skullcap, also known as Blue Skullcap, is a mint-family perennial plant with toothed, opposite leaves and a square stem, which is typically hairless. It blooms small, trumpet-shaped flowers, varying in color from pale blue to lavender or even white, from June through October. Mad-dog Skullcap is easily identified by the small size of its flowers, usually found in pairs or single.This lovely plant thrives in wet-to-moist conditions and is rhizomatous but not aggressively so.  It is bitter and slightly toxic to deer and rabbits (always a great bonus), but also does not attract a lot of pollinators. The common name of “skullcap” is a reference to the cap shape of the flower and seed capsules, slightly resembling helmets worn by military during the Middle Ages.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 65000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "SCU04F"
+}

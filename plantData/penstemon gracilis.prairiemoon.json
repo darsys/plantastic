@@ -1,0 +1,51 @@
+{
+  "name": "penstemon gracilis",
+  "commonname": "slender beardtongue",
+  "description": "The very pale violet flowers' 5 lobes, 2 on the top that tilt upward and 3 bottom lobes that turn down, create the classic Penstemon tubular flower that is a perfect invitation to bumble and other bees and pollinators. The Slender name comes from the leaves, which are toothed and more narrow than the common and widely-distributed Penstemon digitalis. A benefit of this pollinator-friendly plant is that it is drought tolerant.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 600000,
+  "germination": [
+    "C(30)",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "PEN04F"
+}

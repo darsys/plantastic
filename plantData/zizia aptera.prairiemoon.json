@@ -1,0 +1,54 @@
+{
+  "name": "zizia aptera",
+  "commonname": "heart-leaf golden alexanders",
+  "description": "Zizia is an important plant to a number of short-tongued insects that are able to easily reach the nectar in the small yellow flowers. Black Swallowtail caterpillars will feed on its leaves.  Heart-leaf Golden Alexanders give the garden/prairie some well-deserved early color for several weeks in late spring to early summer when many other plants have not yet flowered.  This plant prefers full sun or light shade. Heart-leaf Golden Alexanders can endure drier soils.  Zizia is a member of the Carrot (Apiaceae) family with yellow umbel flowers. Our website also features the following species with similar blossoms: Taenidia integerrima (Yellow Pimpernel),  Polytaenia nuttallii (Prairie Parsley) and Thaspium trifoliatum (Meadow Parsnip).  Of course Zizia aurea (Golden Alexanders) is most similar and could be difficult to distinguish from Zizia aurea were it not for the heart-shaped leaves at the base of the plant.  All of these important perennial native plants should not be confused with the similar-looking Pastinaca sativa (Wild Parsnip), a highly invasive Eurasian biennial commonly found on roadsides and other disturbed sites.  Wild Parsnip is taller than the aforementioned natives, blooms later, and can cause painful skin burns.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 12000,
+  "germination": [
+    "C(60)",
+    "G",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "ZIZ02F"
+}

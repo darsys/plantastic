@@ -1,0 +1,52 @@
+{
+  "name": "persicaria hydropiperoides",
+  "commonname": "swamp smartweed",
+  "description": "This Smartweed is a member of the buckwheat family and the seeds are a valuable food source for game and song birds.  The common name Mild Waterpepper is also used because the foilage is less peppery and therefore more palatable to small mammals. The small white flowers are a nectar source for many insects and the caterpillars of many moths and butterflies will feed on the foilage of Polygonum species.  Unlike other Smartweeds, this plant is a perennial, not an annual.  Other distinguishable features setting it apart from Pinkweed or Smartweed are the hairless stems and 3-sided seeds.  Swamp Smartweed has a wide range across the US and can be found in swamps, ditches, and pond edges in full to part sun.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 19500,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "POL39F"
+}

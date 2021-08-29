@@ -1,0 +1,53 @@
+{
+  "name": "festuca paradoxa",
+  "commonname": "clustered fescue",
+  "description": "Festuca paradoxa (Clustered Fescue)",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 23000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "sku": "FES04G"
+}

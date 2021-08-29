@@ -1,0 +1,71 @@
+{
+  "name": "juncus effusus",
+  "commonname": "common rush",
+  "description": "Common Rush is the most widespread rush worldwide and the species that is cultivated most often. A fine accent near ponds, it is considered a wetland plant, but can thrive in medium soils. Its leafless stems are bright to dark green and tubular, tapering from a base about 1/16” in diameter to an average height of 2’. Its flowers poke out of a slit near the slender tip. Common Rush actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 450
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 1000000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "JUN04G"
+}

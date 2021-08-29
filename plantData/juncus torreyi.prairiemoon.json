@@ -1,0 +1,36 @@
+{
+  "name": "juncus torreyi",
+  "commonname": "torrey's rush",
+  "description": "Torrey's Rush actively grows during the spring and fall when soil temperatures are cool. It is rhizomatous.  Dormant bare root plants ship each year during optimal transplanting seasons: Spring (April - May) and Fall (October).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 1600000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "JUN12G"
+}

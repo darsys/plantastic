@@ -1,0 +1,73 @@
+{
+  "name": "rudbeckia subtomentosa",
+  "commonname": "sweet black-eyed susan",
+  "description": "Black-eyed Susan and Brown-eyed Susan are biennial or short-lived but Sweet Black-eyed Susan will persist for many years.  Numerous flowers, which average 3\" across, will bloom for many weeks starting late summer and into fall.  When blooming, it has a pleasant sweet smell, similar to that of Sweet Grass, thus the common name.  A very tough prairie plant, it is able to withstand high winds and tough soils. For this reason we include it in our Classic Tallgrass Prairie Potted Plant Kit and our Tallgrass Exposed Clay Seed Mix.\nDormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 43000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "RUD06F"
+}

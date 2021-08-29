@@ -1,0 +1,52 @@
+{
+  "name": "carex haydenii",
+  "commonname": "hayden's sedge",
+  "description": "",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 38000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "CAR83G"
+}

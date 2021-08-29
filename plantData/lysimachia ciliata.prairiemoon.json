@@ -1,0 +1,43 @@
+{
+  "name": "lysimachia ciliata",
+  "commonname": "fringed loosestrife",
+  "description": "Fringed Loosestrife is a perennial with yellow flowers arising on long stalks from leaf axils. The main stem of Fringed Loosestrife is hairless, but the leaf stalks are covered in small hairs, giving the plant a fringed look. The leaves are round at the base and then taper out to a point. It is native to much of the lower 48 states and can commonly be found in a variety of wet habitats and sometimes on drier sites, often in shade. Fringed Loosestrife is rhizomatous.Some of the perks of Fringed Loosestrife are that it is a cold tolerant plant, and it can tolerate seasonal flooding. A recommended use for this plant would be as a shady groundcover as the yellow flowers would add nice appeal to the shaded area. Fringed Loosestrife is also important to native bee populations as they use this plant for food.Despite the similar common names, Fringed Loosestrife is not related to the invasive Purple Loosestrife.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 39000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "LYS01F"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "sporobolus compositus",
+  "commonname": "rough dropseed",
+  "description": "Rough Dropseed is typically found in dry prairie ecosystems.  Two species of grasshopper are known to feed on Rough Dropseed; Two-Striped Slantfaced Grasshopper and Slantfaced Pasture Grasshopper.  The seeds, which form late in the summer are also enjoyed by many birds.  Rough Dropseed is a warm season grass; it actively grows during the summer when soil temperatures are warm.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 28000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "SPO02G"
+}

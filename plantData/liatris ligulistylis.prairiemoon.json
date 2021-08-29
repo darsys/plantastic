@@ -1,0 +1,51 @@
+{
+  "name": "liatris ligulistylis",
+  "commonname": "meadow blazing star",
+  "description": "The ultimate Monarch butterfly magnet!  Seriously - plant it and they will come: watch the VIDEO!  The beautiful purple blossoms of this Liatris should be your first choice for attracting Monarch and other butterflies to sunny, medium-soil sites in late summer.  It's not uncommon to see dozens of Monarchs nectaring on a stand of Meadow Blazing Star. It blooms primarily in August, just when the Monarchs are preparing for their long migration south; a synchronization that has evolved over hundreds of years, and a good example of how native plants and pollinators are deeply dependent on one another.  These upright plants can reach 5' in rich soils; in a garden setting you may want to stake them.  The height of this Liatris make it an easy target for Monarchs and other butterflies and birds to feed.  Blossoms often appear all at once along stems and last for many weeks late summer.  Birds find the seeds appealing later in the year.\nDormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "LIA06F"
+}

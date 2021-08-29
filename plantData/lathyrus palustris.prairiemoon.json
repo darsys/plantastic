@@ -1,0 +1,31 @@
+{
+  "name": "lathyrus palustris",
+  "commonname": "marsh vetchling",
+  "description": "This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [],
+  "seeds/packet": 10,
+  "seeds/ounce": 1800,
+  "germination": [
+    "H",
+    "I",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "LAT06F"
+}

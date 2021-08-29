@@ -1,0 +1,64 @@
+{
+  "name": "echinacea angustifolia",
+  "commonname": "narrow-leaved coneflower",
+  "description": "Narrow-leaved Coneflower is a showy perennial of dry prairies and rocky barrens in the tallgrass prairie and Great Plains regions. Its flowers are similar to the more commonly planted Purple Coneflower (Echinacea purpurea). The threatened Ottoe Skipper's life cycle depends greatly on Echinacea angustifolia, and drier prairie grasses such as Little Bluestem, Side-oats Grama and Prairie Dropseed. This flower is deer resistant and attracts many pollinators. It is also drought tolerant. A fun fact about Narrow-leaved Coneflower is that in 1805 Lewis and Clark sent Thomas Jefferson samples of it from Fort Mandan. It was a plant prized by the Native Americas as it was a remedy for rattlesnake bites.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 7000,
+  "germination": [
+    "C(90)",
+    "M"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ECH02F"
+}

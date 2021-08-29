@@ -1,0 +1,41 @@
+{
+  "name": "lycopus americanus",
+  "commonname": "water horehound",
+  "description": "This plant is native to all lower 48 states except Nevada. A plant for a variety of open wetland habitats, Water Horehound is a member of the mint family, although its fragrance is subtle and not minty.  It grows in sunny, moist to wet habitats, including marshes wet meadows, shores, ditches and fens. Small white flowers grow out of the leaf axils – that is, where the leaf grows out of the stem. Water Horehound also can be distinguished by its lobed lower leaves, which its relatives lack.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 130000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "LYC02F"
+}

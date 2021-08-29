@@ -1,0 +1,48 @@
+{
+  "name": "solidago missouriensis",
+  "commonname": "missouri goldenrod",
+  "description": "It is difficult to distinguish this from Early Goldenrod (Solidago juncea) as both are earlier-blooming Goldenrods and they thrive in the same habitats. Like all Goldenrods, numerous bees, beetles, flies and wasps need the pollen or nectar. Many different species of grasshoppers and moth larvae feed on the leaves of Missouri Goldenrod. Although not as aggressive as some Goldenrods, Missiouri Goldenrod will spread by its fibrous root system.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 197000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "sku": "SOL06F"
+}

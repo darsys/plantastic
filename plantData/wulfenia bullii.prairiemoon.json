@@ -1,0 +1,49 @@
+{
+  "name": "wulfenia bullii",
+  "commonname": "kittentails",
+  "description": "A member of the Plantain family (Plantaginaceae), Kittentails are a rare perennial plant on the threatened species list in the Upper Midwest. This plant is also sometimes called by the common name Bull's Coraldrops, and by the botanical names Besseya bullii or Veronica bulli.    Kittentails have suffered a significant decline as a result of habitat loss. Historically, the population center of this plant was located in the Twin Cities area of Minnesota, but urban development has destroyed large portions of the population. Some fragmented populations still survive on protected public lands in the area, including Afton State Park, MN.    In many cases this species will also suffer if the prairie is not managed by prescribed burning in early spring, or late fall. Once the plant has appeared from the ground, fires will cause damage to Kittentails. Careful timing of spring burns is critical to the preservation of this species. Any known populations should be protected from development and managed with care.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 80000,
+  "germination": [
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 8,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "WUL02F"
+}

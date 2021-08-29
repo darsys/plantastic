@@ -1,0 +1,64 @@
+{
+  "name": "scirpus atrovirens",
+  "commonName": "dark green bulrush",
+  "description": "This stalwart of marshes, streambanks, and low areas produces attractive chocolate-brown clusters of seeds atop sturdy triangular stems. The seed germinates readily, making it an excellent choice for lakeshore restoration, pond construction or rain gardens. Recommended for planting with other wetland flowers, grasses, and rushes, such as those in our Moist Meadow & Rain Garden Prairie Seed Mix. It is a 'cool season grass' and actively grows during the spring and fall when soil temperatures are cool.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1354/product-3616.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Clay"
+  ],
+  "moisture": "Wet",
+  "benefits": "Deer Resistant",
+  "height": {
+    "min": 36,
+    "max": 72
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Green"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "agalinis aspera",
+  "commonname": "rough false foxglove",
+  "description": "This annual thrives in dry, sandy prairie environments. Rough False Foxglove earned its common name from the short stiff hairs on the stem and upper halves of the leaves. Rarely growing in clusters, it can sometimes be difficult to spot in a prairie, especially if it’s only 8 inches tall at the lower end of its height range. It has showy tubular flowers up to 1-inch long that vary between pink and purple with a red spotted, pale pink throat. Members of the  Agalinis  genus serve as a food source for the larvae of the Common Buckeye butterfly. Like the other False Foxgloves, Rough False Foxglove is partially parasitic on the roots of other plants.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 100
+    }
+  ],
+  "seeds/packet": 700,
+  "seeds/ounce": 100000,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "sku": "AGA48F"
+}

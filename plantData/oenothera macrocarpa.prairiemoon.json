@@ -1,0 +1,61 @@
+{
+  "name": "oenothera macrocarpa",
+  "commonname": "missouri evening primrose",
+  "description": "Missouri Evening Primrose grows in dry prairies of the southern great plains.  Unlike other evening primroses, Oenothera macrocarpa is a perennial.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 375
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 4700,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "OEN10F"
+}

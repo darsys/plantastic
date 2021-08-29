@@ -1,0 +1,60 @@
+{
+  "name": "rhexia virginica",
+  "commonname": "meadow beauty",
+  "description": "NEW!  Virginia Meadow Beauty, or \"Handsome Harry\", requires consistently wet, is typically found in moist acidic soils. However, it reportedly will survive in higher pH soils which may dry out for a period of time. A temperate member of the mostly tropical Melastomataceae family, it is one of the showier wildflowers, with deep pink petals surrounding long, slender, bright yellow anthers, which are curved like a sickle. The well-attached pollen in each anther is released through a small pore at one end by “buzz pollination”: solitary bumblebees must grab the flower and buzz to vibrate the anthers. Honeybees cannot buzz-pollinate, and common tomatoes also require buzz pollination, so this is accomplished in the greenhouse trade by electric vibrators, or the application of transported bumblebee colonies.  Common in the Southeast, Meadow Beauty is also occasionally found in the Midwest and Northeast. Most often it grows in wet meadows, coastal plain marshes, sandy wetlands and lake edges, pine woods, and road-side swales. Rhexia species will establish successfully on open areas disturbed by recurrent burning.  Also known as Meadow Pitchers, as it sports interesting, vase-shaped red fruits, as noted by Henry David Thoreau in his journal on October 2, 1856: \"The scarlet leaves and stem of the rhexia, some time out of flower, make almost as bright a patch in the meadow now as the flowers did. Its seed vessels are perfect little cream pitchers of graceful form.\"",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 45000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 12,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "RHE02F"
+}

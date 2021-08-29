@@ -1,0 +1,56 @@
+{
+  "name": "carex gracillima",
+  "commonname": "purple-sheathed graceful sedge",
+  "description": "Carex gracillima prefers shady to semi-shady sites with medium to medium-wet soils. As its name implies, the basal leaf sheaths have purple hues. The leaves are dark green and arching stems dangle strings of bead-like seeds in summer. Purple-sheathed Graceful sedge actively grows during the spring and fall when soil temperatures are cool. Other Common Names in use: Graceful Sedge",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 80
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 10200,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "CAR50G"
+}

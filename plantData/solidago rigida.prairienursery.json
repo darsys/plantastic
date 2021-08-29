@@ -1,0 +1,74 @@
+{
+  "name": "solidago rigida",
+  "commonName": "stiff goldenrod",
+  "description": "A Monarch favorite, Stiff Goldenrod is widely adaptable. It thrives in the most inhosptiable soils from clay to dry sand, in a broad range of conditions. The stems serve as perches for songbirds, and the seeds are an important late season bird food. Solidago rigida self-seeds readily, and removal of the seed heads may be needed in smaller settings as a way to control unwanted seedlings.\nGoldenrods are an important fall nectar source for many pollinators including the Monarch butterfly, so it is unfortunate that these fall blooming natives are mistakenly blamed for hayfever. The pollen of Goldenrods is transported by insects. The pollen is not airborne does not cause pollen related allergies. Goldenrods are a critical habitat species in the fall landscape. Include them in the garden and landscape for their important ecosystem services as well as their glowing beauty!",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1681/product-3427.jpg",
+  "seeds/ounce": 46000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

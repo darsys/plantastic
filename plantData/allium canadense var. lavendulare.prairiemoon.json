@@ -1,0 +1,66 @@
+{
+  "name": "allium canadense var. lavendulare",
+  "commonname": "showy wild garlic",
+  "description": "Unlike our other Wild Garlic, Showy Wild Garlic boasts a large cluster of white to pink flowers in late spring. While its flowers attract bees and butterflies, the sharp taste of its foliage makes it deer resistant. Showy Wild Garlic foliage and bulbs are edible, but they taste more like an onion than like commonly sold garlic cultivars. It is drought tolerant and prefers well-drained soils in full sun. Plants spread by bulb offshoots and seed.\nDormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 8600,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "ALL07F"
+}

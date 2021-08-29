@@ -1,0 +1,61 @@
+{
+  "name": "packera plattensis",
+  "commonname": "prairie ragwort",
+  "description": "Prairie Ragwort is a biennial or short-lived perennial with small fuzzy leaves that look like they’re covered in cobwebs. The leaves can vary widely, from small oval basal leaves to the long, many-lobed and almost fern-like leaves along the fuzzy stem. Packera plattensis, also referred to as Prairie Groundsel and Senecio plattensis, is a common tallgrass prairie plant native to most of the central US. It can spread by the roots to form colonies but is not considered aggressive.  It can be distinguished from the similar Golden Ragwort (Packera aurea) which has hairless stems and heart-shaped basal leaves. Golden Ragwort also prefers wetter areas while Prairie Ragwort prefers dry soils and is drought-tolerant. The foliage is highly toxic to cattle and all mammals. Its bright yellow flowerheads are visited by many flies and small bees (like carpenter bees,) skippers and small butterflies that are attracted to its nectar and pollen. The seed is encased in a tuft of hairs to carry them in the wind.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 100
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 100000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "SEN02F"
+}

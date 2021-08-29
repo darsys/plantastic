@@ -1,0 +1,69 @@
+{
+  "name": "koeleria macrantha",
+  "commonname": "june grass",
+  "description": "June Grass is also known as Prairie Junegrass and Koeleria cristata. This native, widely-distributed prairie grass will flower earlier than many other upland prairie grasses.  Its plumes of silvery-green seed heads turn tan by mid-summer.  The foliage supporting these seeds is also an attractive green-gray color.  June Grass actively grows during the spring and fall when soil temperatures are cool and likes full sun and dry, often sandy, soil.  Its preference for dry, sunny conditions makes it a popular candidate for green roofs.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 200000,
+  "germination": [
+    "A",
+    "D",
+    "G"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "KOE02G"
+}

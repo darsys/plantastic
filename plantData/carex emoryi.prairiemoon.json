@@ -1,0 +1,45 @@
+{
+  "name": "carex emoryi",
+  "commonname": "emory's sedge",
+  "description": "New!  This moisture-loving sedge spreads by rhizomes to form dense clumps.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 25,
+  "seeds/ounce": 3500,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "CAR99G"
+}

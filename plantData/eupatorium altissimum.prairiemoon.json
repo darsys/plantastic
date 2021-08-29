@@ -1,0 +1,59 @@
+{
+  "name": "eupatorium altissimum",
+  "commonname": "tall boneset",
+  "description": "Despite its species name (meaning \"tallest\"), several others in its genus exceed the 3-6' height of Eupatorium altissimum. A rugged, hairy plant of dry-mesic prairies and savannas, Tall Boneset features flattish clusters of white tubular blossoms from late summer through fall. They top a single stem that branches toward the top. The opposing leaves have three prominent veins running their length and small, sparse teeth on the upper-half margins. It could easily be confused with False Boneset (Kuhnia eupatorioides) also of upland prairies blooming at the same time.  Dormant bare root plants ship each year during optimal transplanting seasons: Spring (April - May) and Fall (October).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 50000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "EUP02F"
+}

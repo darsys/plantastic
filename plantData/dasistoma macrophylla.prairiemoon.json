@@ -1,0 +1,68 @@
+{
+  "name": "dasistoma macrophylla",
+  "commonname": "mullein-foxglove",
+  "description": "Mullein Foxglove, or Seymeria macrophylla,  is an herbaceous plant native to most midwestern states, southeastern states, and the Great Plains. With bright yellow flowers and abundant nectar and pollen, Mullein Foxglove is a favorite of bumblebees. Its fruit is round and yellow, about one half-inch long, and dries to dark brown. In the states of Michigan and Wisconsin, Mullein Foxglove is Threatened and of Special Concern, respectively.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 56000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 84,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "DAS01F"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "hydrastis canadensis",
+  "commonname": "goldenseal",
+  "description": "A native to mesic woods, Hydrastis canadensis (Goldenseal) prefers shade and moderately moist, rich soil. With its single red fruit, resembling a raspberry, H. canadensis grows to 12\" tall, with leaves hairy and toothed along the margins. The over collection of the root for medicinal use has led to steep reductions in native populations.  Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May).",
+  "prices": [],
+  "seeds/packet": 20,
+  "seeds/ounce": 2600,
+  "germination": [
+    "L",
+    "M"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "HYD02F"
+}

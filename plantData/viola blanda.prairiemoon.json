@@ -1,0 +1,29 @@
+{
+  "name": "viola blanda",
+  "commonname": "sweet white violet",
+  "description": "",
+  "prices": [],
+  "seeds/packet": 50,
+  "germination": [
+    "C(60)",
+    "M",
+    "?"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "VIO03F"
+}

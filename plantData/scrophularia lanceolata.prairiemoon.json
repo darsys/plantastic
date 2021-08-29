@@ -1,0 +1,52 @@
+{
+  "name": "scrophularia lanceolata",
+  "commonname": "early figwort",
+  "description": "Figworts are nectar-rich plants.  Perhaps they are not known for their beauty, but are abundant in nectar!  One of the best species for attracting butterflies, bees, other insects and birds - especially the Ruby-throated Hummingbird!  A close inspection of the flowers is needed to tell Early Figwort from Late Figwort, though, as their common names suggest, their flowering times rarely overlap. Early Figwort blooms from May until July whereas Late Figwort blooms from July until October. Each can obtain heights of well over 5 feet and will readily reseed in the right conditions. Their beauty is hard to capture in photos. These are definitely plants best enjoyed close up and in person. The tissues of these plants contain many acrid compounds and thus they are rarely browsed upon by herbivores. Rarely available from most nurseries, planting these strange figworts will surely bring joy and novelty to any native landscape.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 185000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Red",
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "SCR02F"
+}

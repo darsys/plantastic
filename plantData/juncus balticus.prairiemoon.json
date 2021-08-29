@@ -1,0 +1,53 @@
+{
+  "name": "juncus balticus",
+  "commonname": "baltic rush",
+  "description": "Juncus balticus (Baltic Rush)",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 342000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "JUN00G"
+}

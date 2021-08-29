@@ -1,0 +1,49 @@
+{
+  "name": "symphyotrichum puniceum",
+  "commonname": "swamp aster",
+  "description": "Preferring wetter soils, Symphyotrichum puniceum is often found in soggy thickets, sedge meadows, fens and calcareous seeps. It can be nearly as tall as New England Aster with similarly large flowers.  All parts of the plant are popular with a wide variety of insects. The two-month blooming period begins in late summer.  Swamp Aster tolerates and may prefer calcareous soils, which are alkaline with a pH of 7 to 8.   Another scientific name in use is Aster puniceus.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 80000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AST28F"
+}

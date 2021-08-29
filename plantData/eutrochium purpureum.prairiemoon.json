@@ -1,0 +1,74 @@
+{
+  "name": "eutrochium purpureum",
+  "commonname": "sweet joe pye weed",
+  "description": "A butterfly favorite, it is easy to grow and its vanilla-scented flowers are irresistible for Monarchs, Swallowtails and many other butterflies. Not many Woodland flowering plants can reach heights of 7'.  If you love Joe Pye Weed but have too much shade, Sweet Joe Pye Weed is the plant for you.  More recently, going by the scientific name Eutrochium purpureum, Sweet Joe Pye Weed matures at 4 to 7 feet in height and blooms from July to September.  It has pale pink to pale purple flowers in large clusters and large leaves in whorls around the stem.  Plant it in moist to well-drained garden soil in partial to full shade with Tall Bellflower and Wild Golden Glow for a stunning tall savanna or woodland garden. In the past Native Americans used this plant to cure fevers.  Sweet Joe Pye Weed is deer-resistant and makes a wonderful cut flower. \nDormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 42000,
+  "germination": [
+    "C(30)",
+    "G"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 84,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "EUP08F"
+}

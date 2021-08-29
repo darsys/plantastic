@@ -1,0 +1,69 @@
+{
+  "name": "veronicastrum virginicum",
+  "commonname": "culver's root",
+  "description": "Culver's Root can offer a strong upright accent to any perennial garden or prairie/savanna. It's an elegant unbranched plant, reaching heights of 5' with candelabra-like spikes of white flowers that open from the top down mid-summer.  The small white flowers densely packed together can sometimes take on a purple hue; the contrast of these flowers against the dark green foliage is stunning.Culver's Root grows in zones 3-8, as successfully in full sun as in partial shade (savanna conditions, up to 70% shade), and prefers moist, well-drained soil.  The seeds are so tiny that they should be directly sown on the soil surface in fall or in the spring (see germination code D, right).The plant really has no other synonyms, going only by the name Culver's Root, derived from Dr. Coulvert of the late 17th to early 18th century, who found laxative properties in the plant.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 800000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "VER72F"
+}

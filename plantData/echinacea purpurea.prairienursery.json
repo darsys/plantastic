@@ -1,0 +1,74 @@
+{
+  "name": "echinacea purpurea",
+  "commonName": "purple coneflower",
+  "description": "The showy daisy-like flowers of Pale Purple Coneflower bloom in early summer and are a favorite nectar source for butterflies and myriad pollinators, including hummingbirds. Later in summer the large seedheads attract goldfinches and other birds.Echinacea pallida is a highly adaptable plant that is tolerant of drought, heat, humidity and poor soils, but it will not like soils that are too moist with poor drainage. Once established the deep taproot enables a long-lived, very low maintenance plant that is capable of handling hot dry situations with ease. This iconic prairie plant looks its best in a naturalized setting that includes other prairie flowers and grasses, or in a mixed border garden. Echinacea plants were used by Native Americans for medicinal purposes and are still used today in herbal medicine and tea. Echinacea comes from the Greek word echinos meaning hedgehog in reference to the spiny center cone.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1636/product-2800.jpg",
+  "seeds/ounce": 6600,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$3.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$5.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$120.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Hummingbirds",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 48
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Purple"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

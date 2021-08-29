@@ -1,0 +1,39 @@
+{
+  "name": "linum sulcatum",
+  "commonname": "grooved yellow flax",
+  "description": "Grooved Yellow Flax is a small-statured plant of dry prairies and savannas usually growing in sandy soil.  It is a biennial; growing vegetatively during the first year and completing its life cycle during the second, but it will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 42000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 0,
+    "max": 0
+  },
+  "sku": "LIN02F"
+}

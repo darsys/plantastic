@@ -1,0 +1,69 @@
+{
+  "name": "geranium maculatum",
+  "commonname": "wild geranium",
+  "description": "Wild Geranium is one species that you just can't pass up.  Native to much of eastern North America, it never disappoints. It has lovely dissected leaves, beautiful pinkish-purple flowers, and it readily spreads, forming stunning patches that everything from bees to butterflies can't resist.  Mostly found in woodlands in the wild, it does just as well in full sun!  Interestingly, Wild Geranium has a unique way of spreading its seeds.  Each seed is packed into a pod and the pods are attached to a structure that resembles a cranes bill.  As the bill dries, it literally catapults the seeds away from the parent plant (see corresponding photo).  Each seed has a small tail-like structure attached to it that bends and moves in response to changes in humidity, which helps to drive the seed into the soil where it can safely germinate.  We highly recommend wild geranium!   In a garden setting it can be important to plant a few later season plants (maybe Asters or Gentians) with it because the leaves can show summer stress.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).  Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 45,
+  "seeds/ounce": 5000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "GER02F"
+}

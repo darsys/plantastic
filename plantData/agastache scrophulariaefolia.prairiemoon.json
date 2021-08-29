@@ -1,0 +1,74 @@
+{
+  "name": "agastache scrophulariaefolia",
+  "commonname": "purple giant hyssop",
+  "description": "This vigorous plant features opposing leaves and tall, strong central stems. The flowers of Purple Giant Hyssop are very pale purple--not purple-looking at all from a distance. They open slowly over a period of weeks. The long bloom time in combination with their being nectar-rich makes them highly attractive to butterflies and other pollinators. Birds also feed on the seeds that follow. Sensitive to competition, Purple Giant Hyssop requires some habitat disturbance to persist in an area over time. In several eastern states, it is listed as threatened or endangered.Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 93000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 72,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "AGA06F"
+}

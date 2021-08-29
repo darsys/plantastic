@@ -1,0 +1,71 @@
+{
+  "name": "baptisia bracteata",
+  "commonName": "cream false indigo",
+  "description": "Treasured for its gorgeous clusters of lush cream flowers, Cream False Indigo is a compact low-growing, mounded legume, with branches that cascade under the weight of its foot-long flower spikes. Very showy cream-to-light-yellow flowers give way to large seed pods. The velvety green-gray leaves and seed pods provide season long interest. Foliage and seed change to a dark gray/black color in the fall, lending dramatic contrast to grasses in the autumn garden.Cream False Indigo is extremely long-lived – individual plants are known to live for decades. Its native habitat includes prairies and woodland openings. An early bloomer, the flowers are essential for queen bumblebees emerging from their winter hibernation.\nEasily grown in average, dry to medium, well-drained soil in full sun or light shade, it tolerates hot and humid summers, poor soils and drought. This species can be damaged by wind. Flowers will be showier on dry sites.\nOther names include Cream Wild Indigo or Longbract Wild Indigo.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1626/product-3508.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$32.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$48.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$80.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$1,200.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Cream"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 24
+  },
+  "root": "Taproot"
+}

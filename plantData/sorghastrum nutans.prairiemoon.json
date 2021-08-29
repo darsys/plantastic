@@ -1,0 +1,60 @@
+{
+  "name": "sorghastrum nutans",
+  "commonname": "indian grass",
+  "description": "Indian Grass is one of the first warm season grasses to form seeds and they are rich clusters of bronze colored seed. Golden stems and large seed heads provide ample color and texture to plantings and birds will enjoy the seeds come fall.  Plants are wind-pollinated. Indian Grass can be aggressive, spreading by rhizomes, so is not suited for very small landscapes. Different species of grasshoppers and caterpillars will feed on the blades of Indian Grass; in turn these insects are important food sources for upland game birds and song birds, where they will also find ideal nesting habitat in stands of tall prairie grasses such as Indian Grass.\nThis seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed. Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 14
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 12000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 72,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "SOR52G"
+}

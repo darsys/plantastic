@@ -1,0 +1,34 @@
+{
+  "name": "carex buxbaumii",
+  "commonname": "buxbaum's sedge",
+  "description": "Widespread native distribution in wetland sites such as marshes fens sedge meadows which gives rise to another common name – the brown bog sedge. Carex buxbaumii can be recognized by the pink, red, or purple tint to the basal leaf sheath and dark purple-brown scales within the inflorescence.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 14500,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "sku": "CAR84G"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "bidens cernua",
+  "commonname": "nodding bur marigold",
+  "description": "The bright, sunflower-like yellow blossoms of Bidens cernua grace full-sun wet sites in the summer months and September. The fruiting heads tend to nod.  Nodding Bur Marigold is an annual; it completes its life cycle during one season but will re-seed.  Sticktights (see detailed seed picture) are the bur-like seeds of some Bidens species, so named because they stick to clothing, shoestrings, etc.    Other common names in use: Nodding Beggar's Tick, Bur Marigold and Sticktight.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 21000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "BID02F"
+}

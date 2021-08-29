@@ -1,0 +1,72 @@
+{
+  "name": "desmodium canadense",
+  "commonname": "showy tick trefoil",
+  "description": "Desmodium canadense is aptly named Showy Tick Trefoil for its numerous pink flowers that bloom along the plant’s upper stems for about three weeks in mid-summer. The effect is more attractive in colonies than isolated plants and tight plantings can help counter a tendency to sprawl. Like other tick trefoils (legume), Desmodium canadense adds soil nitrogen and has tiny hairs along its stems, leaves and seedpods, facilitating seed distribution by passing mammals and humans. The nectar, pollen, seeds and foliage of this species appeal to a number of insects, birds and mammals.  Characteristics that distinguish Showy Tick Trefoil from Desmodium illinoense (Illinois Tick Trefoil) are its shorter seedpods, much-shorter leaf-stem connecting the compound leaf to the stem and smaller, more deciduous leafy bracts at the base of the leaf-stem. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 5500,
+  "germination": [
+    "A",
+    "I",
+    "J"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "sku": "DES52F"
+}

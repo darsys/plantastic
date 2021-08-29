@@ -1,0 +1,74 @@
+{
+  "name": "verbena stricta",
+  "commonName": "hoary vervain",
+  "description": "The beautiful lavender spires are late summer. An important nectar source for butterflies, Hoary Vervain is a desirable component of butterfly gardens, and the leaves are larval host food for the Common Buckeye butterfly and others. The seeds are important for many small birds and mammals. Very drought resistant, and non-aggressive, Verbena stricta thrives on dry soils and well-drained loamy soils.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1685/product-2326.jpg",
+  "seeds/ounce": 32000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$6.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$9.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 48
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Lavender, Purple"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

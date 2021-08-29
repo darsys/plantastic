@@ -1,0 +1,48 @@
+{
+  "name": "carex gracilescens",
+  "commonname": "slender wood sedge",
+  "description": "Carex gracilescens is an early bloomer starting in mid-April and going through late-June. One of its most notable characteristics is the purplish coloring of its basal sheaths during the spring.  Like most sedges, Slender Wood Sedge is most photogenic and identifiable during its bloom and harvest time.  The fruits of this Carex usually have oval shaped seeds clustered together in a spike. Once matured, they will turn brown and self-sow.  It does best in medium soils and prefers partial shade.Slender Wood Sedge is a Wisconsin Special Concern plant. This is not a very hardy plant, so avoid disturbing natural specimens and surrounding soil to ensure it survives.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 11500,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "CAR73G"
+}

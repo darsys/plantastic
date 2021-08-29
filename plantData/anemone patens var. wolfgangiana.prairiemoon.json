@@ -1,0 +1,69 @@
+{
+  "name": "anemone patens var. wolfgangiana",
+  "commonname": "pasque flower",
+  "description": "Pasque Flower is one of the first perennial flowers to bloom in spring. The delicate lavender flowers appear before the leaves of the plant. In addition to the beautiful, early bloom, other desirable qualities of the Pasque Flower are its height (only about 6\"), ability to grow in dry soils, the attractive furry leaves that remain well into the summer, and even the silvery plume-like seedhead.  Pasque Flower is hardy in zones 4-8 and is calciphilic so therefore needs an alkaline soil with a pH of 7 to 8.  You may also see this species called simply Anemone patens, Pulsatilla patens or Pulsatilla nuttalliana. In South Dakota, where it is the state flower, this well-known native plant will be referred to as the May Day Flower, Meadow Anemone, Easter Flower, or Wind Flower.  It is a member of the Buttercup (Ranunculaceae) family.  *Once the seed for this species is stored it has a tendency to go into a deep dormancy. Germination rates can be variable. Prairie Moon will not be able to refund or replace seed that has not germinated. For best results seed should be planted outside in the fall.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 18000,
+  "germination": [
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "ANE08F"
+}

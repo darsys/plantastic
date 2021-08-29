@@ -1,0 +1,59 @@
+{
+  "name": "oxytropis lambertii",
+  "commonname": "purple locoweed",
+  "description": "This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 12000,
+  "germination": [
+    "A",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "OXY06F"
+}

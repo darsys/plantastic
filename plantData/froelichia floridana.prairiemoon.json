@@ -1,0 +1,48 @@
+{
+  "name": "froelichia floridana",
+  "commonname": "cottonweed",
+  "description": "Cottonweed, also called Plains Snakecotton, is an annual; it completes its life cycle during one season but will re-seed.  During this one growing season, Cottonweed will put down a central taproot and dense, cone-like flowers will ensue late summer and last for a long period; 2 months or more. The tips of the white flower will take on a pink hue. These dense flowers then turn \"cottony\" as they mature, thus the common name.  Unusual flowers and a fuzzy central stem, usually unbranched, make it a very different looking plant.  A member of the Amaranth family, it thrives in the hottest, driest of conditions; sandy or gravelly sites, and often found today near railroads.  There is not a lot of research on plant-insect relations for Cottonweed; it is thought to be self-pollinating or wind-pollinated rather than by insects.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 7200,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "FRO02F"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "panicum oligosanthes",
+  "commonname": "scribner's panic grass",
+  "description": "Scribner's Panic Grass is a cool-season grass; it actively grows when soil temperatures are cool. Other scientific names in use is Panicum scribnerianum or Dichanthelium oligosanthes scribnerianum.",
+  "prices": [],
+  "seeds/packet": 75,
+  "seeds/ounce": 9000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "sku": "PAN02G"
+}

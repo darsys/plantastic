@@ -1,0 +1,60 @@
+{
+  "name": "galium boreale",
+  "commonname": "northern bedstraw",
+  "description": "Northern Bedstraw thrives in part shade and medium-dry to medium-moist soils. It spreads both by seed and underground rhizomes so could be considered somewhat aggressive for a garden setting.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 70000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "sku": "GAL02F"
+}

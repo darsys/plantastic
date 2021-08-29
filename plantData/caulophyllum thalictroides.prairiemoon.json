@@ -1,0 +1,65 @@
+{
+  "name": "caulophyllum thalictroides",
+  "commonname": "blue cohosh",
+  "description": "Caulophyllum thalictroides (Blue Cohosh) is a beautiful woodland plant with a preference for rich moist conditions, typcial of a woodland floor. Compound leaves fill out the single leaf stalk with a lacy effect similar to Meadow Rues. New foliage can show a tint of blue or purple pigment.   The flowers are greenish yellow to greenish brown and form clusters. They are followed by berries that ripen to a deep blue.  These berries are NOT for human consumption.  Although not as poisionous as Actaea (Baneberry), Cohosh berries should never be eaten.  Leave them for the critters and for the plant to self-propagate. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 5,
+  "seeds/ounce": 70,
+  "germination": [
+    "M"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "sku": "CAU06F"
+}

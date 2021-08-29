@@ -1,0 +1,57 @@
+{
+  "name": "helianthus maximiliani",
+  "commonname": "maximilian's sunflower",
+  "description": "Maximilian Sunflower is very showy and towers above surrounding vegetation when in bloom.  It is best suited for full sun in dry to medium conditions.  Helianthus species are difficult to positively identify, but H. maximiliani is a bit easier to ID because of the distinctive folding of the leaves; the way it curves, and without as many teeth on the leaf edges, is a good distinguishing feature to look for.  Most native sunflowers are rhizomatous and may spread vigorously, and therefore may not be suitable for small landscape plantings.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 13000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 84,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "HEL50F"
+}

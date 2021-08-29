@@ -1,0 +1,47 @@
+{
+  "name": "geum aleppicum",
+  "commonname": "yellow avens",
+  "description": "Yellow Avens is part of the rose family. It can be\nidentified by looking for a hairy stem and five small, yellow petals. There can\neither be one or several flowers on the hairy stalks of this plant. The leaves\nof Yellow Avens will remain green year-round, making it a plant that will\nprovide some interest to your garden even in winter. It thrives in wet and\nmoist soils, so it would make a good addition to a rain garden or wetland with\ngood drainage. A popular use for Yellow Avens is in pots and as a border plant.\n\nIn Medieval times the roots were used to protect one’s house\nfrom the devil in Europe. Various Native American tribes also used this plant\nto treat numerous ailments.Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 20000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "GEU02F"
+}

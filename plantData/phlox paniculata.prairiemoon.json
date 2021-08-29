@@ -1,0 +1,58 @@
+{
+  "name": "phlox paniculata",
+  "commonname": "garden phlox",
+  "description": "Known as the latest-blooming Phlox. Cultivar varieties abound, but the true native that we sell is a deep pink and can reach heights of 4' in rich soils.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 25,
+  "seeds/ounce": 2700,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "sku": "PHL09F"
+}

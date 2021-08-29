@@ -1,0 +1,26 @@
+{
+  "name": "eleocharis compressa",
+  "commonname": "flatstem spike rush",
+  "description": "",
+  "prices": [],
+  "seeds/packet": 800,
+  "seeds/ounce": 85000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "sku": "ELE05G"
+}

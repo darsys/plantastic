@@ -1,0 +1,58 @@
+{
+  "name": "rosa carolina",
+  "commonname": "pasture rose",
+  "description": "Also called Carolina Rose, it grows fine in partial shade but abundant flowering and disease-resistance occur in full sun. It is a fairly low-growing, suckering shrub with very attractive flowers followed by equally-stunning fall rose hips. They are all also semi-aggressive and less suitable for small landscapes. *This species (in seed) may be difficult and/or slow to germinate and\ngrow to maturity.  Please note the germination code. Dormant bare root plants ship each year during optimal transplanting season: Spring (April/May). This bare root tree is 1 year old and we trim to a height of approximately 12-18\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 2500,
+  "germination": [
+    "H",
+    "F"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "ROS05T"
+}

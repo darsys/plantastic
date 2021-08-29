@@ -1,0 +1,24 @@
+{
+  "name": "scolochloa festucacea",
+  "commonname": "white top grass",
+  "description": "White Top Grass, also known as Common River Grass, is a perennial that primarily occurs in the Northern Great Plains. It especially loves seasonally-flooded wetlands and hangs out with bulrush, reed plants and field mints. This grass is vital habitat for nesting waterfowl and can also provide valuable forage for cattle. The seeds of White Top Grass are dispersed by water movement. More seeds are produced during cooler seasons. White Top Grass resists fire by sprouting from rhizomes, which are continuously growing underground shoots. Fire may kill top-growth of the species, but other weeds are also killed, leaving behind a fresh new area for White Top Grass rhizomes to claim.",
+  "prices": [],
+  "seeds/packet": 100,
+  "seeds/ounce": 19000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "sku": "SCO02G"
+}

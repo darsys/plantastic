@@ -1,0 +1,41 @@
+{
+  "name": "ranunculus rhomboideus",
+  "commonname": "prairie buttercup",
+  "description": "Prairie Buttercup, also known as Labrador Buttercup and Prairie Crowfoot, is part of the Ranunculaceae family. It prefers dry sandy prairies and open woods. Prairie Buttercup is easy to identify because it is one of the first prairie plants to start blooming, April-May. It sets a single, 5-8-petaled, yellow flower from the axils of the upper leaves at the end of a hairy stalk. Flowers are usually a third-inch to half-inch across. Most plants have three to twelve flowers. Prairie Buttercup also produces a fruit from the flower center. The flower expands to an oval seed head about 3/8-inch in diameter. The stem leaves are lobed into 3-5 inch-long, narrow segments. A few basal leaves with rounded teeth can be found on the stalks. Stalks can grow to a final height of ten inches. Prairie Buttercup is useful in rock gardens as it prefers dry, rocky conditions. Pollinators and insects enjoy this plant for its nectar, and many birds and small mammals eat the seeds.",
+  "prices": [],
+  "seeds/packet": 75,
+  "seeds/ounce": 37000,
+  "germination": [
+    "C(60)",
+    "L",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "RAN08F"
+}

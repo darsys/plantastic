@@ -1,0 +1,72 @@
+{
+  "name": "sanguinaria canadensis",
+  "commonname": "bloodroot",
+  "description": "Bloodroot emerges from the ground in woodlands before the trees leaf out.  Plants display their beauty in 2 stages.  Stunning white blossoms appear for a very short time early spring, emitting a wonderful fragrance that attracts many kinds of early-flying bees.  At the flowering stage, a light green leaf is wrapped around the stem of the flower.  When the flower fades, the leaf opens in a very unique shape as large as 6\" in diameter.  Bloodroot will go dormant mid-summer.  *This species (in seed) may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code on the right.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 1700,
+  "germination": [
+    "F",
+    "L"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 10
+  },
+  "sku": "SAN02F"
+}

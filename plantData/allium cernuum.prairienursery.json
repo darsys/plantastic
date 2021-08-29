@@ -1,0 +1,70 @@
+{
+  "name": "allium cernuum",
+  "commonName": "nodding pink onion",
+  "description": "Nodding Pink Onion is long-lived, super hardy and looks great in short prairie gardens and meadows. Plant this allium in masses for a stunning late summer effect. It thrives in any moderately rich soil, from rocky hillsides to damp clay.* Every state has agricultural regulations that restrict the shipment of certain plants. We cannot ship this item to the following states: Idaho",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1607/product-4190.png",
+  "seeds/ounce": 7700,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Pink"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "root": "Bulb"
+}

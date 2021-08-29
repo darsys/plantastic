@@ -1,0 +1,28 @@
+{
+  "name": "viola novae-angliae",
+  "commonname": "new england violet",
+  "description": "Viola novae-angliae (New England Violet) is a low growing resident of moist savanna and woods. The deep violet to white flowers are bearded along the side petals, and bloom April through June. V. novae-angliae is also called Viola sororia var. novae-angliae.",
+  "prices": [],
+  "seeds/packet": 50,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 4,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "sku": "VIO15F"
+}

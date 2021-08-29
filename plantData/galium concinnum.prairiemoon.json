@@ -1,0 +1,36 @@
+{
+  "name": "galium concinnum",
+  "commonname": "shining bedstraw",
+  "description": "",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 60000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "GAL04F"
+}

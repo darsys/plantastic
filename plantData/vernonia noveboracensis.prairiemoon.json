@@ -1,0 +1,59 @@
+{
+  "name": "vernonia noveboracensis",
+  "commonname": "new york ironweed",
+  "description": "Growing up to 7ft high, the purple flowers of Vernonia noveboracensis (New York Ironweed) tower over many other wildflower species of late summer and early fall, while providing nectar to foraging bees. The tall dead stalks remain standing well throughout the winter months, giving migrant bird species a place to perch in early Spring.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 25000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 72,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "VER56F"
+}

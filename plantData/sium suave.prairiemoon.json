@@ -1,0 +1,52 @@
+{
+  "name": "sium suave",
+  "commonname": "tall water parsnip",
+  "description": "An emergent plant that prefers full sun and shallow standing water, or at least wet ground.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 13.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 22.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 50000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "SIU01F"
+}

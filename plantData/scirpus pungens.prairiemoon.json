@@ -1,0 +1,54 @@
+{
+  "name": "scirpus pungens",
+  "commonname": "chairmaker's rush",
+  "description": "Chairmaker's Rush is aggressive and therefore may not be suitable for small landscape plantings. \nAlso known botanically as Schoenoplectus pungens and common names: Three-square Bulrush, or Common Threesquare.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 12000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "sku": "SCI10G"
+}

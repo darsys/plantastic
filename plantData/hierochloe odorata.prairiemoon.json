@@ -1,0 +1,47 @@
+{
+  "name": "hierochloe odorata",
+  "commonname": "sweet grass",
+  "description": "Sweet Grass is an aromatic, cool-season perennial growing 10-24 inches in height - and spreading about 2 feet per year by underground rhizomes.  Because of its aggressive, rhizomatous nature it can be difficult to eliminate if it has spread to areas where it is not wanted. Pick a planting site with this in mind.  Despite this vigor once established, Sweet Grass can be difficult to grow from seed, so we recommend trying a few plants and dividing them after a few years.  Many North American indigenous cultures burned Sweet Grass in ceremonies to invite the presence of good spirits. We have these incense braids available seasonally. The Dakota name for Sweet Grass is Wachanga; Omaha is Pezhezonsta; Winnebago is Manuska; and the Pawnee name is Kataru. Other scientific names in use are Torresia odorada and Savastana odorada.  Its natural habitat is wetlands, prairies, and savannas in wet to medium moisture soils. Though Sweet Grass prefers rich, moist soils, it will grow in almost any soil that receives a minimum of a half day of sun. Sandy, well-drained sites will require mulch and watering during times of low rainfall. Add compost to sand or clay soils. The preferred pH range is 6 to 8.  The natural range of Sweet Grass is Greenland to Alaska, south to New Jersey, Ohio, Iowa and Arizona. It can be found in all parts of Minnesota, Wisconsin and the northern third of Illinois.Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 20000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "HIE52G"
+}

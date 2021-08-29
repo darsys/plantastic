@@ -1,0 +1,60 @@
+{
+  "name": "symphyotrichum sericeum",
+  "commonname": "silky aster",
+  "description": "The leaves of Silky Aster feel as soft as a good piece of milk chocolate in your mouth.  Both sides of the alternating leaves are\ncovered with fine hairs that lie flat, creating a lovely silvery green\nappearance.   It's worth growing for the attractive foliage alone!  This Aster sets many pretty violet-purple flowers (15-30 rays around a yellow disk) on wide-set branches early Fall and attracts a multitude of pollinators. Thriving in drier soils, Symphyotrichum sericeum reaches 1-2' in height.   Another scientific name in use is Aster sericeus.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 26000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AST30F"
+}

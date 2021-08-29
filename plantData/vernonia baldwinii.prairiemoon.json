@@ -1,0 +1,55 @@
+{
+  "name": "vernonia baldwinii",
+  "commonname": "western ironweed",
+  "description": "A member of the Sunflower family (Asteraceae), Western Ironweed, also called Baldwin’s Ironweed, has showy bright magenta flowers that bloom in late summer to early fall. It is a great way to attract pollinators because it serves as a late-season nectar source. The Xerces Society for Invertebrate Conservation recognizes this species as having special value because of the large amount of native bees that forage on its flowers. The caterpillars of some moths feed on Ironweed species, including Grammia parthenice (Parthenice Tiger Moth), Perigea xanthioides (Red Groundling), and Papaipema cerussata (Ironweed Borer Moth). Like milkweeds (Asclepias spp.) ironweeds (Vernonia spp.) are bitter to the taste, so herbivorous animals like deer and cattle will avoid consuming it.   This species is found most often on the western side of the Mississippi River valley. Western Ironweed is not picky about soil types, thriving in wet, dry, and rocky conditions. This plant spreads vigorously by rhizomes, so is most appropriate in large prairies or meadows rather than use in home gardens. Because Western Ironweed spreads so aggressively, it is often classified as a common pasture weed. It will readily self-hybridize with other Vernonia spp. like Vernonia fasciculata (Common Ironweed),  Vernonia altissima (Tall Ironweed), Vernonia missurica (Missouri Ironweed), and Vernonia noveboracensis (New York Ironweed) which can make plant ID difficult in the field.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 24000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "VER11F"
+}

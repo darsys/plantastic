@@ -1,0 +1,56 @@
+{
+  "name": "liatris cylindracea",
+  "commonname": "dwarf blazing star",
+  "description": "The shortest of the Liatris species at 1'.  It prefers dry soils and often blooms later than other Blazing Stars; enjoy it well into October.  It won't compete well so keep tall, aggressive plants away.  Also called Cylindrical Blazingstar.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 14000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "LIA04F"
+}

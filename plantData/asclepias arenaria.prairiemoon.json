@@ -1,0 +1,63 @@
+{
+  "name": "asclepias arenaria",
+  "commonname": "western sand milkweed",
+  "description": "A more western Milkweed native from South Dakota and Wyoming, south to New Mexico and Texas. It requires sandy soils and near full sun.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 55
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 2000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 18,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "ASC01F"
+}

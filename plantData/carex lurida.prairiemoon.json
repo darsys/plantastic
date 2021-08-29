@@ -1,0 +1,59 @@
+{
+  "name": "carex lurida",
+  "commonname": "sallow sedge",
+  "description": "Carex lurida Sallow Sedge",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 225
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 12000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "CAR35G"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "tridens flavus",
+  "commonname": "purpletop",
+  "description": "Perennial warm-season grass native to the East Coast and Southern Plains of the United States. It is a bunchgrass that when planted en masse puts a stunning reddish-purple top onto fields and meadows in mid-summer to early autumn. The purple seed heads are covered with an oily substance inspiring another common name, Grease Grass.   Purpletop Grass is often found in pastures, woodland edges, and along railroad lines. Because it is tolerant of road salt, it is often found along roadside ditches – especially in New England.   This species is the larval host of a number of butterflies and moths, including Cercyonis pegala (Common Wood Nymph), Polites origenes (Crossline Skipper), Pompeius verna (Little Glassywing), and Poanes viator (Broad-winged Skipper). Seeds are eaten by birds.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 26000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "sku": "TRI01G"
+}

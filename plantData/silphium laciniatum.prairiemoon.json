@@ -1,0 +1,76 @@
+{
+  "name": "silphium laciniatum",
+  "commonname": "compass plant",
+  "description": "No those aren't sunflowers, those are Compass Plants!   A true icon of the prairies, these lovely plants are an incredible addition to your landscape. Given moist, rich soils, mature compass plants can reach upwards of 8 feet in height.  It is quite a sight to see pollinators flit from flower to flower while birds perch upon the stems.  The name Compass Plant comes from the observation that the leaves have a tendency to orient themselves on a north-south axis.  While this certainly helped disoriented settlers find their way, the real reason behind this intriguing physiology is to maximize water use in the leaves as well as to increase CO2 gain for the plant. Another interesting aspect of Compass Plant biology is their life expectancy.  Given the right conditions, individual plants have been known to live upwards of 100 years! Gardening with Compass Plant is gardening for the future.  Sadly, like all other species that live on the prairies, Compass Plants have taken a real hit from habitat destruction.  Prairies are some of the most endangered habitats on the planet. Where there was once seemingly endless prairie, there are now only echoes of a lost world. As the great Aldo Leopold once said, \"What a thousand acres of Silphiums looked like when they tickled the bellies of the buffalo is a question never again to be answered, and perhaps not even asked.\"\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 660,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 96,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "SIL54F"
+}

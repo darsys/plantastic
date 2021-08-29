@@ -1,0 +1,36 @@
+{
+  "name": "agalinis auriculata",
+  "commonname": "ear-leaf false foxglove",
+  "description": "Ear-leaf False Foxglove prefers the environment of a recently disturbed prairie, e.g. one that has undergone prescribed burning. As an annual, it may not be seen in the same place each year and may not appear at all in some years. However, because the species persists in the seed bank, it has the potential to return when conditions are more favorable. This species of False Foxglove, is noted for its purplish foliage and the earlobe-like basal lobes occurring on some leaves. It is listed as endangered in several states. Members of the  Agalinis  genus serve as a food source for the larvae of the Common Buckeye butterfly. Like the other False Foxgloves, Ear-leaf False Foxglove is partially parasitic on the roots of other plants.   Also called: Tomanthera auriculata and Gerardia auriculata",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 129000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [],
+  "sku": "AGA49F"
+}

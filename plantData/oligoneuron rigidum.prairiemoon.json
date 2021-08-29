@@ -1,0 +1,75 @@
+{
+  "name": "oligoneuron rigidum",
+  "commonname": "stiff goldenrod",
+  "description": "Stiff Goldenrod has larger, flatter flower clusters than most Goldenrods.  The leaves turn nice shades of red in the fall.  For a colorful fall show, plant Stiff Goldenrod with other fall bloomers such as Button Blazing Star, Little Bluestem, New England Aster and Sweet Black-eyed Susan.  As for common names, you may hear it referred to as Rigid Goldenrod or Prairie Goldenrod.  Another botanical name is Solidago rigida. On many sites Stiff Goldenrod can be a prolific self seeder. It does well in a broad range of soil conditions so on small sites or in home garden/landscapes removal of the seed head before the seed is ripe is preferable to weeding unwanted seedlings.  Whatever your preference or situation may be, there is a goldenrod to suit all occasions. Sadly, goldenrods often get blamed for causing the dreaded hayfever. This is simply not true. Their pollen is quite large and sticky so as to better adhere to the body of visiting insects. Because of this, goldenrod pollen cannot become airborne and can never make its way into your sinuses. The true cause of hayfever is the wind pollinated ragweeds, which broadcast copious amounts of lightweight pollen into the air. We cannot stress enough how important goldenrods are on the landscape. Including them on your property will provide ecosystem services well into the fall when most other plant life is shutting down.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 41000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SOL12F"
+}

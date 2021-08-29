@@ -1,0 +1,49 @@
+{
+  "name": "carex pellita",
+  "commonname": "broad-leaved woolly sedge",
+  "description": "Broad-leaved Woolly Sedge tolerates and may prefer calcareous soils, which are alkaline with a pH of 7 to 8. Actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 28000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June"
+  ],
+  "spacing": {
+    "min": 0,
+    "max": 0
+  },
+  "sku": "CAR19G"
+}

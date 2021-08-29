@@ -1,0 +1,67 @@
+{
+  "name": "melanthium virginicum",
+  "commonname": "bunch flower",
+  "description": "Bunch Flower (Melanthium virginicum) prefers consistently rich, moist soil conditions and full sun or dappled shade. It can take many years for this plant to mature, especially if started from seed, but when it does, it is spectacular!  The thick stems can bring it to heights of 5'.  It's not a very well-known native yet, but we think it makes a stunning addition to a garden or formal planting with its large clusters of flowers in June and July. The flowers are white to cream in color, but as the weeks pass the flowers turn green then maroon and finally blackish in color (see photo) adding fall interest to your garden or prairie.  The rootstock of Bunch Flower is poisonous, in fact the roots have been used to kill flies and other intestinal insects. Other names include Virginia Bunchflower Lily and Veratrum virginicum.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 85,
+  "seeds/ounce": 9000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "MEL02F"
+}

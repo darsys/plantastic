@@ -1,0 +1,68 @@
+{
+  "name": "eurybia divaricata",
+  "commonname": "white wood aster",
+  "description": "Also called Aster divaricata, White Wood Aster has white petals with yellow to red centers. It is native to the eastern U.S., from Maine to Alabama.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 44000,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AST07F"
+}

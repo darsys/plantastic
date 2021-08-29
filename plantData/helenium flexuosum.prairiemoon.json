@@ -1,0 +1,59 @@
+{
+  "name": "helenium flexuosum",
+  "commonname": "purple-headed sneezeweed",
+  "description": "Purple-headed Sneezeweed is an interesting plant with winged stems, a dark, globe-shaped \"cone,\" and yellow petals arranged like a flared skirt. It requires a moist to wet soil and full to partial sun.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 120000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "HEL08F"
+}

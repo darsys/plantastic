@@ -1,0 +1,41 @@
+{
+  "name": "geranium carolinianum",
+  "commonname": "carolina cranesbill",
+  "description": "Carolina Cranesbill is an annual; it completes its life cycle during one season but will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 35,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(90)",
+    "L"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "GER03F"
+}

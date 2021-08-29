@@ -1,0 +1,79 @@
+{
+  "name": "asclepias tuberosa",
+  "commonname": "butterfly weed",
+  "description": "Asclepias tuberosa, Butterfly Weed, is most often a distinctive bright orange but there is some variation in flower color, from deep red-orange to yellow. This distinctive color and the absence of the typical milky white sap make identification easy.  Butterfly Weed needs a drier, well-drained location to successfully seed into and grow well. In older mature plants the long tap root can extend down a foot or more. They can be transplanted if dug carefully during dormancy but if enough root material is left behind they will regrow. The leaves are somewhat narrow, up to 1” and tapered, with no stem.  This is a great Milkweed for a sunny location in a dry area. Mature plants in ideal locations can make as many as 20 stems at an average height of 2’. The vivid orange color, low mounded profile, and ability to attract and sustain butterflies make this plant a well-known favorite for all types of gardens.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 4300,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Orange"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 3
+  },
+  "sku": "ASC16F"
+}

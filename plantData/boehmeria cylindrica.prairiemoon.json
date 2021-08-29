@@ -1,0 +1,48 @@
+{
+  "name": "boehmeria cylindrica",
+  "commonname": "smallspike false nettle",
+  "description": "Preferring medium-wet and semi-shady sites, Boehmeria cylindrica, also called Bog Hemp, lacks the stinging hairs of some of its nettle cousins. Stringy heads of tiny yellow-green flowers form between leaf stems in summer. Moths and butterflies are attracted to this modest plant. It serves as a host plant for the larvae of several butterflies including the Red Admiral, Eastern Comma, and Question Mark butterflies. The larvae of the Flowing-line Bomolocha moth also make use of its foliage.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 208000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "BOE04F"
+}

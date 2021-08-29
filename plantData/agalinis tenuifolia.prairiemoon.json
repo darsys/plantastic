@@ -1,0 +1,41 @@
+{
+  "name": "agalinis tenuifolia",
+  "commonname": "slender false foxglove",
+  "description": "Narrow leaves that trend toward purple in the fall earned Slender False Foxglove, or Slender Gerardia, its name. Its flower shape stands out from the other false foxgloves with two petals forming a hood and the other three flaring out. This annual prefers slightly disturbed habitats, but beyond that it's flexible about soil, moisture, and sun conditions. Members of the Agalinis genus serve as a food source for the larvae of the Common Buckeye butterfly.  Like the other False Foxgloves, Slender False Foxglove is partially parasitic on the roots of other plants.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1040,
+  "seeds/ounce": 800000,
+  "germination": [
+    "C(60)",
+    "D",
+    "?",
+    "K"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [],
+  "sku": "AGA56F"
+}

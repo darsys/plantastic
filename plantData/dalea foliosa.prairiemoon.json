@@ -1,0 +1,58 @@
+{
+  "name": "dalea foliosa",
+  "commonname": "leafy prairie clover",
+  "description": "Once a strong presence in medium to dry soil prairies, this species is now on the brink of extinction in natural areas, occurring in small populations in just a few states. Loss of habitat and fire suppression have contributed to its decline. Its form is more leafy than other Prairie Clovers. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1 \noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 15000,
+  "germination": [
+    "A",
+    "I",
+    "J"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "sku": "PET04F"
+}

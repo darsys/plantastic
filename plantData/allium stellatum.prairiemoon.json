@@ -1,0 +1,52 @@
+{
+  "name": "allium stellatum",
+  "commonname": "prairie onion",
+  "description": "Well-suited to rock gardens and dry-mesic areas like rock outcroppings, Prairie Onion is similar to its cousin Nodding Onion, except for its solid, upright stem and stature. It is deer/rabbit resistant and many pollinating insects will visit the late summer blooms.  It is easy to grow from seed but may take many years for a flowering plant - for this reason it may be best to buy a few roots as they respond to yearly bulb divisions well.  Most of the Allium species are edible.  Other common names include: Autumn Onion, Wild Onion or Cliff Onion.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 14,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 8
+  },
+  "sku": "ALL06F"
+}

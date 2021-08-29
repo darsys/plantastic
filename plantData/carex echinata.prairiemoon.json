@@ -1,0 +1,50 @@
+{
+  "name": "carex echinata",
+  "commonname": "large-fruited star sedge",
+  "description": "Carex echinata is found in acidic northern wetlands in sandy or peaty soils. It is an attractive sedge with star-like perigynia.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 49000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "sku": "CAR78G"
+}

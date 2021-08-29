@@ -1,0 +1,71 @@
+{
+  "name": "astragalus racemosus",
+  "commonname": "creamy milk vetch",
+  "description": "Astragalus racemosus is native to dry prairies and range lands from Minnesota west to Montana and from Saskatchewan to Texas. Plants emerge from a heavy taproot and are covered with tiny hairs. Inch-long flowers bloom in May and June and are creamy white with purple lines and tips. The one-inch seed pods are filled with dark brown seeds.  Astragalus racemosus accumulates selenium from soil and can sicken livestock if grazed heavily.  Because of this it is also sometimes referred to as Creamy Poison Vetch. Species of genus Astragalus are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 225
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 6000,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AST60F"
+}

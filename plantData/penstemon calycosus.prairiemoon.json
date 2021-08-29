@@ -1,0 +1,61 @@
+{
+  "name": "penstemon calycosus",
+  "commonname": "calico beardtongue",
+  "description": "The Calico Beardtongue plant has the same form as the more common Foxglove Beardtongue (Penstemon digitalis) but it has pink flowers and can tolerate more shade.  This Penstemon is nice to mix with Foxglove and Tube Beardtongue (Penstemon tubaeflorus) in a planting.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 90000,
+  "germination": [
+    "C(30)",
+    "G"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "PEN01F"
+}

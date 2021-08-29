@@ -1,0 +1,62 @@
+{
+  "name": "elymus riparius",
+  "commonname": "riverbank wild rye",
+  "description": "Riverbank Wild Rye is native to the eastern half of the US. As the name suggests, it does best along rivers and in riparian habitats. It can also survive in wet meadows and prairies. As a cool grass plant it will only actively grow in the spring and fall when the soil is cooler. Plant in wet soil with either partial or full shade and it will thrive. It actively grows during the spring and fall when soil temperatures are cool.Riverbank Wild Rye is commonly used in streambank restoration as it helps control erosion. The seeds, while not abundant, do a good job of self-seeding and help establish more populations along the riverbank. This plant is also deer resistant and is great food and nesting material for songbirds and waterfowl.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 2900,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ELY04G"
+}

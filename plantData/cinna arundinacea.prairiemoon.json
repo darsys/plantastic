@@ -1,0 +1,47 @@
+{
+  "name": "cinna arundinacea",
+  "commonname": "wood reed grass",
+  "description": "This attractive perennial grass has tufts of upright, sturdy, hairless stems of light green or almost blue-green color.  Atop the tall stem is a dense, wavy inflorescence or whole flower head, which droops under the weight of the spikelets. During late summer bloom, it typically towers over other vegetation, its color evolving to light tan as the grains ripen. This grass is typically found in small vegetative colonies or as scattered individual plants in fertile, loamy soil on shady sites. Cinna arundinacea is native to wet woodlands and damp thickets from Quebec and Maine to Ontario and Minnesota all the way south to Georgia, Tennessee, Texas and Arkansas.  In Massachusetts and Vermont is has an at-risk conservation status. It is typically left alone by white-tailed deer and other herbivores.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 81000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "sku": "CIN08G"
+}

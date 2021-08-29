@@ -1,0 +1,66 @@
+{
+  "name": "lespedeza capitata",
+  "commonname": "round-headed bush clover",
+  "description": "The strong standing Lespedeza capitata (Round-headed Bush\nClover) grows to a height of 2-4 feet, with rigid stems that remain well into the\nnext growing season. The stalkless, odorless flowers display cream with a\npinkish throat, and form round, dense clusters, giving way to a deep brown in\nthe fall. The leaves of L. capitata are covered with soft hairs that impart a\nsilvery appearance.Round Headed Bush Clover is a host plant to a number of\nbutterflies and moths, including the Southern\nCloudywing Butterfly, Northern\nCloudywing Butterfly, Hoary\nEdge Butterfly, Silver-Spotted\nSkipper, the Bella\nMoth, and the Common\nPtichodis Moth. The plant is especially high in protein making it a\nfavorite choice of many kinds of mammalian wildlife including deer, rabbits, and\nmuskrat. It can also be used in pastures as livestock forage. The seeds are\neaten by gamebirds and songbirds, including the Mourning Dove, Bobwhite, Turkey,\nand Junco. \n\nThis is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 8000,
+  "germination": [
+    "C(10)",
+    "I",
+    "J"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Green",
+    "Cream"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "LES02F"
+}

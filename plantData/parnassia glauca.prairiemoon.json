@@ -1,0 +1,28 @@
+{
+  "name": "parnassia glauca",
+  "commonname": "grass of parnassus",
+  "description": "Grass of Parnassus tolerates and may prefer calcareous soils, which are alkaline with a pH of 7 to 8.",
+  "prices": [],
+  "seeds/packet": 200,
+  "seeds/ounce": 300000,
+  "germination": [
+    "D",
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 12,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "PAR30F"
+}

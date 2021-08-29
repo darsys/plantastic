@@ -1,0 +1,63 @@
+{
+  "name": "rumex altissimus",
+  "commonname": "pale dock",
+  "description": "Pale Dock is typically found in wet soils along streams and other moist-soil situations.  It can also tolerate medium-moist soils and somewhat shaded areas.  It is most conspicuous later in summer when the seeds turn a russet red-brown color, which contrasts with the dominant green vegetation.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 15000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "RUM02F"
+}

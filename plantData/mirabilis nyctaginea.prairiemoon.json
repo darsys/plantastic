@@ -1,0 +1,54 @@
+{
+  "name": "mirabilis nyctaginea",
+  "commonname": "wild four o'clock",
+  "description": "The genus name, Mirabilis, means marvelous in Latin. Wild Four O'Clock is common in disturbed areas, especially those with poor soils like gravel or clay of roadsides, ditches, railroad tracks and even urban alleys. This easy-to-grow, perennial re-seeds itself readily, but in fertile soil, the Wild Four O’Clock is often outcompeted by its neighbors.  It is native to the north and central US states and adventive in the far Eastern states. In the summer the range of pale pink to deep magenta flowers start to open late-afternoon (guess what time - 4:00!), remain open all night to be pollinated by various insects and even Ruby-Throated Hummingbirds, and close in the morning.  Its flowers are trumpet- or horn-shaped, about half an inch across. Deer typically avoid this plant. The roots and seed are poisonous. The dark green, large leaves are very showy, as is the seeding period (see photos).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 3500,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "MIR01F"
+}

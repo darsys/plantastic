@@ -1,0 +1,72 @@
+{
+  "name": "callirhoe digitata",
+  "commonname": "fringed poppy mallow",
+  "description": "Callirhoe digitata is unique among Poppy Mallows: it stands tall instead of sprawling along the ground, earning it another common name, Standing Winecups; its petals are fringed along the outer edge, unlike other Callirhoe species; and its leaves are also finely divided, with few leaves on the upper stems.  Fringed Poppy Mallow is native to a small area of the lower Midwest and eastern Great Plains. We sell this seed dehulled, as in the seed image, above.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 4300,
+  "germination": [
+    "B",
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "CAL54F"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "scirpus cyperinus",
+  "commonName": "woolgrass",
+  "description": "Dense bunches of seedheads appear as tufts of brown wool in late summer. Does best in damp soil with only occasional standing water. Tolerates acid soils. Great for bogs and wet meadows. ",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1355/product-3613.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Peat",
+    "Muck"
+  ],
+  "moisture": "Wet",
+  "height": {
+    "min": 36,
+    "max": 72
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Bronze"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

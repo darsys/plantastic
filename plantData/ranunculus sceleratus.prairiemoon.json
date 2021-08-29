@@ -1,0 +1,34 @@
+{
+  "name": "ranunculus sceleratus",
+  "commonname": "annual buttercup",
+  "description": "Ranunculus sceleratus completes its life cycle in one year but will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 145000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "RAN10F"
+}

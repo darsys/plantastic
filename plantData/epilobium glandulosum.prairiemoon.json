@@ -1,0 +1,71 @@
+{
+  "name": "epilobium glandulosum",
+  "commonname": "northern willow herb",
+  "description": "Northern Willow Herb, also referred to as Epilobium ciliatum ssp. glandulosum or Fringed Willowherb, is part of the Onagraceae family.  Ascending the stem, the leaves become opposite rather than rosette in pattern. The blade leaves, also on opposite, alternating sides up the stem of the plant, are wrinkled, shiny, and dark green. Glandulosum means “with gradual hairs,” referring to the curved hairs on its tubular ovary. Northern Willow Herb has pale pink flowers, 6-8 mm long, with notched tips. There are usually four petals to each flower. It can be seen blooming July through September. The fruit of the Northern Willow herb is tubular and about two inches long. Northern Willow Herb is a hardy plant that can survive in ditches, roadsides, and other disturbed places so is useful in wetland restoration.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 60000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "EPI04F"
+}

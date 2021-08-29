@@ -1,0 +1,55 @@
+{
+  "name": "solidago patula",
+  "commonname": "swamp goldenrod",
+  "description": "This perennial wildflower can be another great addition to add a pop of bright yellow in the fall to most areas. Despite the name, it will thrive in medium soils.  Swamp Goldenrod has a light to almost-purplish green central stem with alternating leaves along its entirety, growing smaller as they ascend. The upper sides of the leaves are covered with stiff, small hairs while the underside is hairless. The flowers of this plant are found in ray and disk florets that give a messy, scattered appearance, but are very pretty with the green leaves complementing the strong, bold yellow color.Swamp Goldenrod is a great attractor of long and short-tongued bees, wasps, flies and other insects that feast on the foliage as well as other parts of the plant. Larger animals like deer are not great threats to Swamp Goldenrod.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 230000,
+  "germination": [
+    "C(60)",
+    "D",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "SOL11F"
+}

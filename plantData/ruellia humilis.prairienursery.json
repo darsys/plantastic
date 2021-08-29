@@ -1,0 +1,70 @@
+{
+  "name": "ruellia humilis",
+  "commonName": "wild petunia",
+  "description": "Wild Petunia's claim to fame is its lovely violet flower trumpets, a hummingbird favorite! Seldom growing more than a foot tall, this rare plant is perfect for dry, hot locations such as rock gardens and dry sandy or rocky soils. Ruellia humilis also thrives in well-drained loam. Wild Petunia self seeds with seeds that explode, making it able to hold its own with larger, aggressive plants.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1675/product-1860.jpg",
+  "seeds/ounce": 4000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$600.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Lavender"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  }
+}

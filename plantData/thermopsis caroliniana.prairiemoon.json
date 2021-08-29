@@ -1,0 +1,65 @@
+{
+  "name": "thermopsis caroliniana",
+  "commonname": "blue-ridge buckbean",
+  "description": "This Thermopsis is native to the East Coast, USA.  It is closely related to Baptisia species. Another commonly used scientific name is Thermopsis villosa.  For common names, you may hear it called Carolina Lupine, Aaron's Rod, False Lupine, Southern Lupine, Bush Pea, and many others!  This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 8.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12.75
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 21.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 35
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 3600,
+  "germination": [
+    "A",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "THE02F"
+}

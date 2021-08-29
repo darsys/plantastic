@@ -1,0 +1,56 @@
+{
+  "name": "symphyotrichum cordifolium",
+  "commonname": "heart-leaved aster",
+  "description": "Symphyotrichum cordifolium (Heart-leaved Aster) matures to 3' in height and has light blue flowers. It prefers medium to medium-dry soil conditions, and blooms approximately from September to October.  Heart-leaved Aster grows best in partial shade but will tolerate nearly full shade and nearly full sun.  The wonderful array of blue flowers attracts butterflies and bees, and also makes an excellent cut flower.  Other names are Blue Wood Aster and Aster cordifolius.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 140000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "AST04F"
+}

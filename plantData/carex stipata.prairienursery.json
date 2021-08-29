@@ -1,0 +1,66 @@
+{
+  "name": "carex stipata",
+  "commonName": "awl fruited sedge",
+  "description": "Perhaps the most common and adaptable of our wetland sedges, awl fruited sedge thrives in almost any wet soil environment. An important component of wetland seed mixes, it establishes quickly to provide rapid soil stabilization. Sprays of golden yellow seedheads make this a prominent plant of the summer landscape.* Every state has agricultural regulations that restrict the shipment of certain plants. We cannot ship this item to the following states: Idaho, Oregon, Utah.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1352/product-4176.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": "Wet",
+  "benefits": "Deer Resistant",
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Bronze"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

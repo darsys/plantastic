@@ -1,0 +1,46 @@
+{
+  "name": "elymus virginicus",
+  "commonname": "virginia wild rye",
+  "description": "Virginia Wild Rye is a graceful, short-lived perennial similar\nto Canada Wild Rye, but with a smaller, less showy seed head. It actively grows\nduring the spring and fall when soil temperatures are cool. Common companions\nto this cool season grass are warm season grasses like Big\nBluestem, Little\nBluestem, Indian\nGrass, and Switch\nGrass. As shown in the above photo, Virginia Wild Rye turns attractive\nshades of tan and crimson in the fall.\nAs a fast-growing grass, Virginia Wild Rye is a good choice\nfor erosion control and stream bank stabilization. It prefers rich, moist areas\nin clearings or along the forest edge, but can also grow in drier, sunny\nconditions as well. Its tolerance to shade makes it a good pioneer species for\nwoodland restorations, especially when planted along with Bottlebrush Grass.\nThis species readily reseeds.\nVarious insects feed on Virginia Wild Rye and other species\nin the Elymus genus, including leafhoppers, aphids, and leaf beetles.\nCaterpillars of various leaf miner moths mine the leaves of these grasses, and\ncaterpillars of the False\nWainscot Moth also eat the leaves. Livestock enjoy foraging on Virginia\nWild Rye, however plant populations can suffer without use of proper rotational\ngrazing pasture management.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 4200,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "ELY08G"
+}

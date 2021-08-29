@@ -1,0 +1,43 @@
+{
+  "name": "isanthus brachiatus",
+  "commonname": "false pennyroyal",
+  "description": "New! False Pennyroyal is a small annual in the Mint family that grows on dry, calcareous soils. This is one of many plants undergoing changes in taxonomic classification. Before it belonged to the Isanthus genus, it was first classified under the Trichostema genus. This plant is also known by the common names Fluxweed and Glade Bluecurls. In the fictional world of Harry Potter, False Pennyroyal is an ingredient in the powerful Polyjuice Potion, which can turn one wizard into another for a short period of time. When Hermione is explaining how long it will take to make the potion, it is implied that she and Harry and Ron will need to pick it themselves when the moon is full. This plant is not native to Europe, so it would seem that this North American plant must be kept in the Hogwarts greenhouses or grow somewhere else on the Hogwarts grounds.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 14000,
+  "germination": [
+    "F"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 16,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "ISA02F"
+}

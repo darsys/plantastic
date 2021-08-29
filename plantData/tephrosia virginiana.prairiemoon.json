@@ -1,0 +1,78 @@
+{
+  "name": "tephrosia virginiana",
+  "commonname": "goat's rue",
+  "description": "Goat's Rue is an eye-catching plant of dry upland, often sandy or acidic prairies and gravel deposits near several of the major US rivers.  The late-spring to early-summer blooms are like no other prairie plant; the dense clusters of flowers are at the top of the stems with a pale yellow upper petal and two smaller fuschia lower petals.  This legume's seeds form among attractive feather-like, greenish-gray leaves in late summer. Distinctive hairy, flat 2\"-long pods cover the plant, making identification easy. Choose a dry, moderately sunny spot wisely because, once established, Goat's Rue does not divide and does not like to be moved.  In past traditions, Goat's Rue was used to treat ailments such as tuberculosis, rheumatism and bladder problems. The plant also is being studied in cancer research. This perennial has a deep taproot that eventually branches into fibrous roots.  Other common names include Catgut, Devil's Shoestrings, Hoary Pea, Wild Sweetpea, North American Turkey Pea, and Virginia Tephrosia.This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 60,
+  "seeds/ounce": 2500,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink",
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "TEP02F"
+}

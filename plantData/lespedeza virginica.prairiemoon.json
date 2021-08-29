@@ -1,0 +1,74 @@
+{
+  "name": "lespedeza virginica",
+  "commonname": "slender bush clover",
+  "description": "Slender Bush Clover is a perennial plant that has fine white hairs along its stems. The leaves alternate up the plant and are compounded in threes. The pink flowers occur in clusters at the top of the plant. The base of the petals is a darker shade of pink than the rest of the petals. While this is a very showy flower, it does not give off a floral scent. Slender Bush Clover grows readily in mesic conditions and in rocky or sandy soil. It is also very drought resistant and is visited by a variety of bees and butterflies. The seeds are appreciated by some gamebirds as well. Slender Bush Clover grows in dry habitats including prairie, cedar glades and open woods. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(10)",
+    "I",
+    "J"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "LES06F"
+}

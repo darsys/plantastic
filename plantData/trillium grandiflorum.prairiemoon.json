@@ -1,0 +1,66 @@
+{
+  "name": "trillium grandiflorum",
+  "commonname": "large-flowered trillium",
+  "description": "Commonly called White Trillium, Great White Trillium or Snow Trillium, this plant is a \"must-have\" for any woodland area in the Midwest or Northeast.  Trillium grandiflorum's stunning white flowers can reach 4\" in diameter and will take on an equally head-turning pink hue when reaching the end of their bloom cycle (see corresponding photos for the pink-tinted flowers).  The common name Wake Robin is less used today, but it no doubt referred to the early April and May bloom time, corresponding with the appearance of the Robin.  Trilliums are members of the Lily family.  It can be difficult to grow from seed.  We are quoting William Cullina of the  New England Wildflower Society and his book Guide to Growing and Propagating Wildflowers: \"Seed that is cleaned and sown immediately outdoors in late summer will send out a root the next spring and a long narrow cotyledon the spring after that.  After a couple more years, the young plant should be large enough to plant in the garden.\"   Cullina gives this germination advice for genus Trillium: \"Seeds germinate only after multiple cycles of warm and cold, typically 40 degrees, 70 degrees, 40, 70.\"",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 55
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 2300,
+  "germination": [
+    "F",
+    "L"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 14
+  },
+  "sku": "TRI02F"
+}

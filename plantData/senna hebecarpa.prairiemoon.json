@@ -1,0 +1,66 @@
+{
+  "name": "senna hebecarpa",
+  "commonname": "wild senna",
+  "description": "Wild Senna is a versatile plant that we think deserves more recognition as a great choice for garden or restoration projects. Its lovely, bright yellow flowers bloom July-August, attracting many bees and butterflies.  Autumn brings beautiful leaf colors and the formation of long black pods with seeds favored by larger birds like wild turkeys.  A horizontal root system provides strength against winds, allowing the plant's stately (4-6') beauty to be appreciated even after the storm. Some gardeners use this sun-loving plant to form a hedge.  It is virtually indistinguishable from its relative, Maryland Senna (Senna marilandica) until the two species have ripe seeds. The Wild Senna will readily open its pod and the seeds will fall out, whereas the Maryland Senna seed pods will stay tightly closed.  Other than this, it is very hard to tell the two species apart. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 75
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 1400,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 30
+  },
+  "sku": "CAS04F"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "carex prairea",
+  "commonname": "fen panicled sedge",
+  "description": "Fen Panicled Sedge is a cool grass sedge, meaning it only actively grows during the spring and fall when soil temperatures are cool. It has a native range in much of the northern United States, with its westernmost extent being the state of Montana. It prefers full sun and does best in wet, calcareous soils. It can be found in the wild in meadows, marshes, and, true to its name, fens. It is a useful groundcover as it forms in clumps. This plant is also useful in wetland restorations, bioswales, in wet meadows, and in a rain garden.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 84000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "CAR20G"
+}

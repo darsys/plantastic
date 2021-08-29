@@ -1,0 +1,64 @@
+{
+  "name": "glyceria striata",
+  "commonname": "fowl manna grass",
+  "description": "Fowl Manna Grass actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 90000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "GLY06G"
+}

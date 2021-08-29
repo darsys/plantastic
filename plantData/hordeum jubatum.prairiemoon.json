@@ -1,0 +1,26 @@
+{
+  "name": "hordeum jubatum",
+  "commonname": "squirrel-tail grass",
+  "description": "Squirrel-tail Grass is commonly seen on roadsides, ditches, and other disturbed sites. It seems to do well on salted roadsides as well.  It grows actively during the spring and fall when soil temperatures are cool.",
+  "prices": [],
+  "seeds/packet": 200,
+  "seeds/ounce": 12000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "sku": "HOR02G"
+}

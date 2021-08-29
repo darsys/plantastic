@@ -1,0 +1,46 @@
+{
+  "name": "scirpus fluviatilis",
+  "commonname": "river bulrush",
+  "description": "River Bulrush is aggressive and therefore may not be suitable for small landscape plantings; it spreads aggressively by rhizomes.  \nOther botanical names are:  Schoenoplectus fluviatilis  and  Bolboschoenus maritimus  ssp.  fluviatilis.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 4300,
+  "germination": [
+    "C(90)",
+    "M"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 72,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "sku": "SCI07G"
+}

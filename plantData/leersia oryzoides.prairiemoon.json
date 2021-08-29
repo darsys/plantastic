@@ -1,0 +1,75 @@
+{
+  "name": "leersia oryzoides",
+  "commonname": "rice cut grass",
+  "description": "This is a rather hardy grass as it can be found on every continent except South America. Rice Cut Grass grows in a variety of wetlands including floodplains and pond margins. Rice Cut Grass is adaptable to partial sun and even wet sandy soils, though it prefers full sun and wet conditions with silty soil. This grass is vital to the Least Skipper butterfly. The Least Skipper uses Rice Cut Grass as a larval host and as a food source for adults. The seeds also provide a food source for waterfowl.This is actually considered a weed in the Southwest because of the sharp-edged leaves. It often forms a dense stand and is known for its rough foliage which can cut through skin if one is passing through the stand with bare legs.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 34000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 3
+  },
+  "sku": "LEE02G"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "apocynum sibiricum",
+  "commonname": "clasping dogbane",
+  "description": "Clasping Dogbane is also called Indianhemp.  The plant has opposing leaves and dense heads of small greenish-white flowers, which are popular with small insect pollinators.  The species may spread in colonies as horizontal roots form from an initial taproot.  Flowers are followed by long (4\") narrow pods that contain many silk-tufted seeds. Dogbane's botanical name refers to its believed toxicity to dogs and its similarity to hemp.  The plant's strong fibers have made it prized for cordage and threads for centuries.  Visually, younger plants are often mistaken for Milkweeds, but as the plant matures and flowers, there are many noticeable differences. The leaves are hosts for the caterpillars of the moth Hemaris diffinis (Snowberry Clearwing or Hummingbird Clearwing). Dogbanes have the tendency to hybridize with other Apocynum species, making them difficult to ID.",
+  "prices": [],
+  "seeds/packet": 75,
+  "seeds/ounce": 20000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "APO10F"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "tradescantia ohiensis",
+  "commonName": "ohio spiderwort",
+  "description": "The delightful blue flowers of Ohio Spiderwort bloom for an extended period in late spring and early summer. Plant them with Smooth Penstemon for a fantastic combination. The long bloom period and the spikey foilage make this easy-to-grow native an attractive addition in any garden or meadow.\nSpiderworts bloom profusely in the morning and early parts of the day, and tend to close-up in the heat of the afternoon, unless it is cloudy or cooler. This conservatives energy and allows the plant to flower over a longer period. Include some later-blooming prairie flowers and grasses near by, as the late summer foliage of spiderwort tends to look a little worn.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1683/product-3845.jpg",
+  "seeds/ounce": 8000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": "Pollinators",
+  "height": {
+    "min": 24,
+    "max": 48
+  },
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Lavender, Blue"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

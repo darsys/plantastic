@@ -1,0 +1,60 @@
+{
+  "name": "silene regia",
+  "commonname": "royal catchfly",
+  "description": "Royal Catchfly (Silene regia) is a bit awkward when not flowering, but do not let that fool you. Hummingbirds and swallowtail butterflies flock to this species and a stand of Royal Catchfly can turn the eye from a great distance away. When Silene regia is a mature plant it grows up to 4' in height in very well-drained soil, but can grow in sandy soil and gravel as well.  The name catchfly comes from the fact that insects are often stuck all over the stems. A close look will reveal why. Sticky glands cover the plant and small insects alighting upon it often become fatally trapped. There has been much speculation over this. Some even believe it to be a primitive form of carnivorous behavior. In fact, the order to which this species belongs also contains true carnivorous plants like sundews and venus fly traps. However, despite containing digestive enzymes, Royal Catchfly does not obtain any nutrients from its victims. Why bother producing these glands then? Some hypothesize that the sticky hairs are there to keep hungry insects from feeding on the plant. After becoming stuck, the insects inevitably die. This presents another challenge for the plant. It isn't healthy to have rotting insects stuck all over it. This is where the digestive enzymes come in. They quickly breakdown the insect bodies, keeping them from becoming putrid.  Royal Catchfly is rare due to loss of prairie habitat and is endangered in some states but is relatively easy to grow. The bloom period is June-August for this excellent garden plant. Good companion plants are Tall Larkspur (Delphinium exaltatum), Wild Quinine (Parthenium integrifolium), and Little Bluestem (Andropogon scoparius).\nDormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 23000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Red"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SIL04F"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "dodecatheon amethystinum",
+  "commonname": "amethyst shooting star",
+  "description": "Dodecatheon amethystinum (Amethyst Shooting Star) produces a dramatic cluster of five parted, purple to pink colored blossoms. Fused petals face downward to produce a tube, ringed with maroon, yellow and white. Unlike it's relative D. meadia, Dodecatheon amethystinum survives in a very limited native range with populations confined to the steep limestone bluffs of the upper mid-west Driftless region, in addition to a small area of the Appalachians. Growing 4-18\" tall, Amethyst Shooting Star does well in medium soil types with nearly full shade to full sun.  Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May). In some growing seasons, dormant roots may be available for summer (July-Aug) shipping.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 90000,
+  "germination": [
+    "C(60)",
+    "D",
+    "G",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "DOD02F"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "eupatorium hyssopifolium",
+  "commonname": "hyssop-leaved thoroughwort",
+  "description": "NEW!  At the end of the growing season, Eupatorium hyssopifolium blooms in bursts of white flowers throughout a meadow.  It prefers drier growing conditions, but can handle wetter ones so long as the site is well-drained.  Like other Eupatoriums, Hyssop-leaved thoroughwort is a host plant for the Clymene moth. Also called Hyssopleaf Boneset.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 92000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "EUP20F"
+}

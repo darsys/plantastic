@@ -1,0 +1,76 @@
+{
+  "name": "verbesina alternifolia",
+  "commonname": "wingstem",
+  "description": "Native to the Ozark Region, and with high ecological value for pollinators, Wingstem has pleasantly fuzzy leaves and a daisy-like yellow flower. It is a member of the Sunflower family (Asteraceae), the largest family of flowering plants with more than 24,000 documented species. Once marketed to beekeepers as \"Golden Honey Plant,\" it is also called Yellow Wingstem, and formerly classified as Actinomeris alternifolia.\n\n\nThe large yellow flowers of Wingstem feature drooping, reflexed petals around a central disk of florets compared variously to a pin cushion or mop head. Before the blossoms appear, the plant resembles Ironweed, prompting the additional common name of Yellow Ironweed. Wingstem is aggressive and therefore may not be suitable for small landscape plantings.\n\n\nThe Xerces Society for Invertebrate Conservation recognizes Wingstem as having special value to pollinators because it supports a great diversity of bees and wasps, and is a host plant for Chlosyne nycteis (Silvery Checkerspot butterfly,) Celastrina neglecta (Summer Azure butterfly,) and Basilodes pepita (Gold Moth.) Despite the great ecological value of this species and frequent occurrence in native prairies, Wingstem is often left out of field guides.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 225
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 9000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 96,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ACT02F"
+}

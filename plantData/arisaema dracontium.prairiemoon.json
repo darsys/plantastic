@@ -1,0 +1,43 @@
+{
+  "name": "arisaema dracontium",
+  "commonname": "green dragon",
+  "description": "Like its smaller, more common cousin, Jack-in-the-Pulpit, Green Dragon thrives under a variety of conditions, but grows most vigorously in moist, shady, seasonally wet locations. It is also deer resistant!  It has a slimmer spadix or \"Jack,\"  the spongy, many-flowered cylindrical structure, that extends beyond the spathe or \"pulpit\", the leaf-like structure rolled around the spadix, without the overhanging roof or striped purple color of Arisaema triphyllum. It also has just one leaf comprised of 5-15 leaflets arranged in a semi-circle. The fruits are smooth, shiny green, 1 cm wide berries, clustered on the thickened spadix, that ripen in late summer and fall, turning a bright orange-red color before the plants go dormant.  *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code.",
+  "prices": [],
+  "seeds/packet": 10,
+  "seeds/ounce": 600,
+  "germination": [
+    "L"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ARI04F"
+}

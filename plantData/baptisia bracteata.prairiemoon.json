@@ -1,0 +1,73 @@
+{
+  "name": "baptisia bracteata",
+  "commonname": "cream wild indigo",
+  "description": "The Cream Wild Indigo is among the earliest prairie species to bloom.  The cream to light yellow flowers are very showy and will turn into inconspicuous light green seed pods (see images) which then turn to blue-black in the fall.  The attractive green-gray leaves have small white hairs and will turn almost black after a frost.  Both the seed pods and the foliage will provide interest throughout the seasons.  Cream Indigo thrives in well-drained soil in full sun or partial shade. The flowers of Cream Indigo are essential for queen bumblebees as they are one of the first to come out of hibernation in the spring. It is also called Longbract Wild Indigo, Cream False Indigo and Baptisia leucophaea. Species of genus Baptisia are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 10,
+  "seeds/ounce": 1400,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 36
+  },
+  "sku": "BAP08F"
+}

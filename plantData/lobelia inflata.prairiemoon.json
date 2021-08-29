@@ -1,0 +1,75 @@
+{
+  "name": "lobelia inflata",
+  "commonname": "indian tobacco",
+  "description": "Indian “Tobacco” is not a true tobacco but rather a Lobelia. It is native to the eastern half of the United States, from Kansas and Nebraska to the entire east coast. Indian Tobacco is an annual; it completes its life cycle during one season but will re-seed. The flowers are a pale white-purple color with a yellowish base. The stem is hairy, and the leaves are a pointed, elliptical shape with slightly serrated edges. It is common in moist or sometimes dry open to somewhat shaded and often disturbed ground.  The small flowers attract small bees. The plant itself is highly toxic to mammals, so deer will not graze on this plant. It is also toxic to humans, so do not smoke or chew this plant.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 80
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 500000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "LOB04F"
+}

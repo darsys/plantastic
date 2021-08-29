@@ -1,0 +1,74 @@
+{
+  "name": "mimulus ringens",
+  "commonName": "monkeyflower",
+  "description": "Hummingbirds are regular visitors to the bright blue flowers of Monkeyflower. This fast-growing wetland plant is easy to grow from transplants or seeds. Combine with other low growing wetland plants such as Irises and Lobelias for a low profile rain garden. Monkey Flower is a larval host plant and nectar source for the Common Buckeye and Baltimore Checkerspot butterflies.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1664/product-3735.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$375.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Blue"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Rhizome"
+}

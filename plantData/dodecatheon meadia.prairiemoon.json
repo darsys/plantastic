@@ -1,0 +1,72 @@
+{
+  "name": "dodecatheon meadia",
+  "commonname": "midland shooting star",
+  "description": "The early spring plants tend to get the most attention because we so need to see flowers at that time of year. Shooting Stars deserve the acclaim. They are true spring ephemeral of the prairie; they are completely done with their season and go dormant by mid summer. They have beautiful mahogany colored seed pods that are often not noticed because other tall species have over-topped them by that time.  Midland Shooting Star, often called just 'Shooting Star', can become very robust with a few dozen flowers coming out of each plant, especially in moist, rich soils. Wide color variation naturally occurs in any population of Midland Shooting Star; from purple to pale pink to almost white. This species establishes well and will self seed in semi-dry rocky situations or in the shade of a shrub or small tree.  Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May). In some growing seasons, dormant roots may be available for summer (July) shipping.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 80
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 60000,
+  "germination": [
+    "C(21)",
+    "D",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "DOD04F"
+}

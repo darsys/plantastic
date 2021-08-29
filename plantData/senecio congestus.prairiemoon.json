@@ -1,0 +1,43 @@
+{
+  "name": "senecio congestus",
+  "commonname": "marsh fleabane",
+  "description": "Marsh Fleabane, also called Swamp Ragwort or Swamp Groundsel,  is an annual, or sometimes biennial, commonly found in boreal regions. It can be found growing in a variety of wetlands and on the shores of streams and lakes. When in bloom, the plants reach up to 3 feet in height.  It is also classified as Tephroseris palustris.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "SEN03F"
+}

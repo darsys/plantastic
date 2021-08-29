@@ -1,0 +1,66 @@
+{
+  "name": "astragalus bisulcatus",
+  "commonname": "two-grooved milk vetch",
+  "description": "Two-Grooved Milk Vetch is native to the Western United States. It is a showy species for prairies, roadsides, and other upland habitats. Although domesticated animals tend to avoid the plant, it should not be included in rangeland plantings because it accumulates selenium. Species of genus Astragalus are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 6000,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "AST53F"
+}

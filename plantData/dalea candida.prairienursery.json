@@ -1,0 +1,70 @@
+{
+  "name": "dalea candida",
+  "commonName": "white prairie clover",
+  "description": "Pure white flowers grace the tops of this charming little plant in mid-summer. Growing one to two feet tall, this member of the Legume Family is an important component of short prairies. Plant with Purple Prairie Clover for a great color combination! Grows in medium to dry soils, in full sun. The seeds are utilized by a diversity of birds.Legumes such as Prairie Clovers harbor beneficial bacteria called rhizobia. The plants are able to capture nitrogen from the air, and the bacteria assist in \"fixing” it in the plant. The plants act as a natural soil fertilizer when the spent plant material is left to enrich the soil.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1275/product-1802.jpg",
+  "seeds/ounce": 15000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$6.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$9.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Taproot"
+}

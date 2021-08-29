@@ -1,0 +1,64 @@
+{
+  "name": "impatiens pallida",
+  "commonname": "yellow jewelweed",
+  "description": "Impatiens are popular annuals, completing their life cycles in one season. They self-seed with popping pods, but demand the patience implied by their botanical name if started from seed; double dormancy is required before the seed will germinate (see Germ Code F, right).  What's more, if you have ever seen a Jewelweed plant in bloom with dew hanging on it, the reason it is also called Jewelweed is obvious.Touch-me-not is a plant many people have interest in because some say it is an antidote to Poison Ivy and Stinging Nettle. This Yellow Impatiens tends to tolerate drier soil than the Orange - Impatiens capensis.  Another common name in use is simply Yellow Touch-me-not.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 1600,
+  "germination": [
+    "F",
+    "L",
+    "M",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "IMP04F"
+}

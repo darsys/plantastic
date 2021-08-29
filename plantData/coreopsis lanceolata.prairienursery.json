@@ -1,0 +1,71 @@
+{
+  "name": "coreopsis lanceolata",
+  "commonName": "lanceleaf coreopsis",
+  "description": "The golden-yellow flowers of Lanceleaf Coreopsis bloom for weeks on end, creating a fantastic early summer display. Butterflies are regular visitors, and songbirds feed on the ripe seeds in late summer. This durable plant grows in any well-drained soil, and exults in dry sandy soils.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1632/product-1729.jpg",
+  "seeds/ounce": 12500,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$3.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$5.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$120.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

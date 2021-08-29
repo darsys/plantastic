@@ -1,0 +1,71 @@
+{
+  "name": "liatris aspera",
+  "commonName": "rough blazingstar",
+  "description": "The Liatris genus has its share of pollinator magnets, and there's one that thrives in just about any soil type. Liatris aspera is perfect for medium to dry, well-drained soils. At 2–3 feet high it is shorter than other Blazingstars but no less remarkable. This low-growing Liatris is covered with tufted lavender blooms in late summer. The button-like flowers are attractive to butterflies – Swallowtails, Monarch, Sulphurs, Hairstreaks, Fritillaries, Painted Lady, Red Admiral – depending on what butterflies are in your area, they're likely to visit this plant along with hummingbirds and other pollinators.Ideal for dry perennial borders, rock gardens or a low-growing dry meadow, plant it with Butterflyweed, Dotted Mint, Showy Goldenrod, Sky Blue Aster and Little Bluestem. This drought tolerant plant likes well-drained, dry to medium soils, or sandy and rocky soil. Avoid planting it in moist soils, or locations where the soil remains consistently wet during winter.     The species name \"aspera\" is Latin for \"rough,\" which refers to the short stiff hairs on the central stem and the narrow basal leaves, which are very rough. Another distinguishing feature of Rough Blazingstar is the slightly zigzag stem. Other names include Button Snakeroot, Rough Gayfeather and Rough Liatris.Seed Treatment: Review our seed propagation page for additional/specific information.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1657/product-3136.jpg",
+  "seeds/ounce": 13500,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$600.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds",
+    "Hummingbirds",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 48
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Pink, Purple"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "root": "Corm"
+}

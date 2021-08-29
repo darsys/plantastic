@@ -1,0 +1,41 @@
+{
+  "name": "jeffersonia diphylla",
+  "commonname": "twinleaf",
+  "description": "If not for the distinct butterfly-looking 'twinleaves', the single white flower blooming early spring very much resembles Bloodroot. Twinleaf tolerates and may prefer calcareous soils, which are alkaline with a pH of 7 to 8.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 1200,
+  "germination": [
+    "F",
+    "L"
+  ],
+  "light": [
+    "Shade"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "JEF06F"
+}

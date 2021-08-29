@@ -1,0 +1,70 @@
+{
+  "name": "desmodium canadense",
+  "commonName": "canada tick trefoil",
+  "description": "Showiest of all the Tick Trefoils, this plant is covered with bright purple pea-like flowers in the heat of mid-summer. A deep taproot makes this plant incredibly drought-resistant. A member of the Legume Family, it improves the soil by adding nitrogen, and the seeds are used by a variety of birds and other wildlife. Loves clay, and will grow on any moderately rich well-drained or slightly damp soil. Spreads by means of “stick-tight” seeds.\n ",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1277/product-1284.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "color": [
+    "Purple"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Taproot"
+}

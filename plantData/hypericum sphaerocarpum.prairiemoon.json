@@ -1,0 +1,42 @@
+{
+  "name": "hypericum sphaerocarpum",
+  "commonname": "round-fruited st. john's wort",
+  "description": "Other Common Names in use: Roundseed St. John's Wort, Round Seed St. Johnswort",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 34000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "HYP05F"
+}

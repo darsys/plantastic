@@ -1,0 +1,55 @@
+{
+  "name": "castilleja sessiliflora",
+  "commonname": "downy painted cup",
+  "description": "Castilleja sessiliflora (Downy Painted Cup) is a hemiparasitic plant of dry, infertile soil that will attach to other dry soil plants such as short grasses to share their moisture and nutrients (see Germ Code K, right). If you will be starting Downy Painted Cup in a container, good hosts for many hemiparasitic species include low-growing grasses and sedges like Hairy Grama, Blue Grama, Buffalo Grass, Pennsylvania Sedge, Sweet Grass, and June Grass. With a knife make a 2\" deep cut at the base of the host plant. Sow seed in the cut, making sure seed is not more than 1/8\" deep. If host is transplanted at sowing time, the cut is not needed because damaged roots will be available for attachment by the parasite. You may also try sowing hemiparasitic and host species seeds together at the same time. To add hemiparasitic species to existing sites, scatter seed on soil surface (rake in if seed is large) in late fall.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 200000,
+  "germination": [
+    "C(60)",
+    "D",
+    "K"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "sku": "CAS54F"
+}

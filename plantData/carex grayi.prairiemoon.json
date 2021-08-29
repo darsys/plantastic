@@ -1,0 +1,71 @@
+{
+  "name": "carex grayi",
+  "commonname": "common bur sedge",
+  "description": "Carex grayi is an ornamental sedge that grows in moist\nenvironments as slowly spreading clumps. It is an uncommon sedge because it\nthrives in both woodlands and wetlands, as well as being a great choice for\nplanting along streams. Here at Prairie Moon, this species has thrived in rain\ngardens that are in full sun and full shade. Gray sedge will also tolerate\noccasional flooding. \nLike many sedge species, its most attractive (and most\nphotographed) phase is during its mid-summer fruiting period. The star-like\nflower makes Gray sedge an attractive addition to fresh or dried arrangements. Some\nsay the flower looks more like a medieval weapon than a star, and the sedge is\nsometimes called Mace Sedge.\nThe wind-pollinated flowers of Carex species attract few\ninsects but various butterfly larvae will eat the foliage including the Eyed\nBrown Butterfly and the Appalachian Brown Butterfly. The seeds of sedges are food sources for many kinds of\nbirds and mammals, including game birds, song birds, muskrat, and white-tailed\ndeer.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 45,
+  "seeds/ounce": 1200,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "CAR09G"
+}

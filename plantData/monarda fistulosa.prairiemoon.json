@@ -1,0 +1,75 @@
+{
+  "name": "monarda fistulosa",
+  "commonname": "wild bergamot",
+  "description": "We love Wild Bergamot because it can be planted in spring, on bare soil, and will germinate without overwintering; it does not need stratification. Monarda fistulosa, also commonly called Bee Balm or Horse-Mint, has a lovely violet blossom and distinctively aromatic foliage. It is a familiar component of prairie and savanna communities on all but the wettest of soils. Native to most of North America, it often is cited for its historical medicinal applications among indigenous peoples. These include poultices for boils and lacerations, as well as tea infusions for headaches, indigestion and colds and flu. Wild Bergamot is a favorite of butterflies, bees and hummingbirds. Its species name, fistulosa, refers to the tube-like structure of its blossoms, which appear from July through September, nicely complementing nearby yellow composite flowers, like Rudbeckia, Silphium, and Helianthus. Check out our short video about Wild Bergamot.\t\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 70000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "MON02F"
+}

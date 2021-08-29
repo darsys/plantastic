@@ -1,0 +1,55 @@
+{
+  "name": "bouteloua gracilis",
+  "commonname": "blue grama",
+  "description": "Blue Grama is well-known as being a drought-tolerant, clump-forming, native grass.  Blue Grama is a warm-season grass; it actively grows during the summer when soil temperatures are warm.  Often seeded in as a native lawn alternative mixed with Buffalo Grass, it will reach heights of just 1' with attractive blue seed heads it left unmowed.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 16
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 40000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Green",
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 12,
+    "max": 14
+  },
+  "sku": "BOU04G"
+}

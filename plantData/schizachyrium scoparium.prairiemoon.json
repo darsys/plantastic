@@ -1,0 +1,65 @@
+{
+  "name": "schizachyrium scoparium",
+  "commonname": "little bluestem",
+  "description": "Little Bluestem is an iconic warm season grass of the\nprairie habitat that is commonly used in both landscaping and restoration\nprojects. In shortgrass prairies, it is often the dominant species along with Side-oats\nGrama. In tallgrass prairies, companion grasses include Big\nBluestem, Indian\nGrass, and Switch\nGrass. One of the most widely distributed species of grass in the\nUS, Little Bluestem is very drought-tolerant, but it can do well in moist\nsituations too.\nFarmers have used this species for hay, but consecutive years of haying\nwill likely cause the species to disappear. In a garden setting, Little Bluestem is valued for its blue-green\ncolor in the summer and, after the first frost, it turns beautiful shades of\nbrown, copper, and crimson that will remain all winter. The grass gets fluffy\nwhite seed heads that also adds seasonal interest. Some gardeners choose to\nremove the seed fluff to control the spread of young seedlings.Little Bluestem is an excellent plant for wildlife. The\ncaterpillars of several skippers feed on the foliage, including Dusted\nSkipper, Cobweb\nSkipper, Ottoe Skipper,\nIndian\nSkipper, Swarthy\nSkipper, and the Crossline\nSkipper. Other insects that feed on Little Bluestem include grasshoppers, Prairie\nWalkingsticks, the leaf-mining beetles, thrips, spittlebugs, and leafhoppers.\nThe seeds of this grass are eaten by songbirds.\nOther names for this plant include Andropogon scoparius and Beardgrass.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.\nDormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 18
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 15000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Green",
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AND06G"
+}

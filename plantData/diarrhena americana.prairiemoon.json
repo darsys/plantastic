@@ -1,0 +1,68 @@
+{
+  "name": "diarrhena americana",
+  "commonname": "american beak grass",
+  "description": "New! American Beak Grass, also called beak grain, is an excellent source of food for Wild Turkeys and other large birds and small mammels of the forest.  Its most distinct characteristic is the large, blunt seeds, or grains that make this grass distinguisable from other grasses in the late-summer or early-fall.  It's an attractive grass in the spring and summer with shiny green blades that turn golden tan in the fall.  Its short stature make it ideal for landscaping or as a ground cover in shaded, rich soil areas.  It can be used as a stream-bank stabilizing plant in difficult shaded areas; it can form large plant colonies in ideal conditions by the way of creeping rhizomes. It is also resistant to the juglone of Black Walnut trees.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 3000,
+  "germination": [
+    "C(60)",
+    "G"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 3,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "DIA01G"
+}

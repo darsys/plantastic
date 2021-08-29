@@ -1,0 +1,56 @@
+{
+  "name": "phryma leptostachya",
+  "commonname": "lopseed",
+  "description": "Lopseed flower colors can range from nearly white, to shades of pink and purple.  The name Lopseed comes from the drooping seeds along the stem.  This and the purple stem makes it easy to identify.  You'll see Phryma leptostachya in medium-moist woodlands and woodland edges.  Another name in use is American lopseed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 4000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "PHR01F"
+}

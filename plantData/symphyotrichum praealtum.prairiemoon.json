@@ -1,0 +1,72 @@
+{
+  "name": "symphyotrichum praealtum",
+  "commonname": "willow aster",
+  "description": "Willow Aster is an attractive autumn bloomer that often forms dense colonies, spreading aggressively by rhizomes. Its blue-violet flowers cluster at the top of their stems.  Symphyotrichum praealtum gets its common name from its long, narrow willow-like leaves, which grow alternately along the stem and feature pronounced veins along their lower surface.   Another scientific name in use is Aster praealtus.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 130000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AST23F"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "maianthemum racemosum",
+  "commonname": "solomon's plume",
+  "description": "A very nice choice for home landscaping in shaded settings. It will spread by rhizomes, but not aggressively enough to be invasive.  It could be used as a taller ground cover as multiple arching stems 1-2' long will come from a single parent plant.  We call this widely-distributed plant Solomon's Plume, but it is equally known as False Solomon's Seal or False Spikenard.  A former latin name is Smilacina racemosa.  It is most often found in moist, rich woodlands and woodland edges, but can tolerate full sun. Its blooms actually will grow larger with more light. A cluster of star-shaped white flowers appear mid-late Spring and are pollinated by small bees and beetles.  Attractive red berries, sometimes striped brown or purple, will follow for fall interest in your garden, and food for some birds and small mammals who will help distribute the seed.  Solomon's Seal or Solomon's Plume are more suited to a small home woodland landscape, whereas the equally attractive Starry Solomon's Plume, is more aggressive and would take over a larger area in less time.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 225
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 400,
+  "germination": [
+    "F",
+    "L"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "SMI02F"
+}

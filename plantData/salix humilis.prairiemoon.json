@@ -1,0 +1,36 @@
+{
+  "name": "salix humilis",
+  "commonname": "prairie willow",
+  "description": "Dormant bare root plants ship each year during optimal transplanting season: Spring (April-May) and Fall (Oct.).",
+  "prices": [],
+  "seeds/packet": 200,
+  "seeds/ounce": 227000,
+  "germination": [
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": null,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 5
+  },
+  "sku": "SAL08T"
+}

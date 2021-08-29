@@ -1,0 +1,52 @@
+{
+  "name": "onosmodium molle",
+  "commonname": "marbleseed",
+  "description": "Marbleseed grows in dry (or occasionally mesic) prairies and savannas.  Also called Western Marbleseed, a deep taproot develops on this plant making it extremely drought-resistant and suitable to dry, rocky areas.  The light green, hairy stems and leaves give way to a cream to white-colored flower that points downward.  The seeds indeed look like small marbles, or pearls.  Marbleseed is quite rare and probably only found today in cultivation or undisturbed prairie remnants.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 1500,
+  "germination": [
+    "B"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "ONO52F"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "allium canadense",
+  "commonname": "wild garlic",
+  "description": "The seed we sell are actually the top-set bulbs (see corresponding photo). Allium canadense matures to 18\" in height and has light pink to pink flowers.  It is a very versatile plant doing well in almost every sun and soil type: medium-wet through dry soil conditions and full sun to full shade.  The bulbs of Wild Garlic are edible and can be applied to insect stings.  Making tea from the bulb has been used to control coughs and vomiting. Smaller bees are very important pollinators of the Wild Garlic's flowers. Rabbits and deer tend to avoid eating all the Allium species due to the onion scent and the spicy taste of the foliage. Allium canadense attracts hummingbirds, butterflies and bees.  Other common names include Meadow Garlic and Wild Onion. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). In some growing seasons, dormant roots may be available for Summer (July) shipping.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 560,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 18,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 8
+  },
+  "sku": "ALL02F"
+}

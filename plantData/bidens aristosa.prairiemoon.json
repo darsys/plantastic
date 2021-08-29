@@ -1,0 +1,70 @@
+{
+  "name": "bidens aristosa",
+  "commonname": "swamp marigold",
+  "description": "At home in full sun and wetter soils, Bidens aristosa sports brilliant yellow-gold blossoms in late summer and fall. Swamp Marigold is an annual; it completes its life cycle during one season but will re-seed.  Unlike most Bidens or Beggar's Ticks/Tickseed species, the Swamp Marigold's awns are absent so the seed will not easily attach to clothing, shoelaces or fur.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.9
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 90
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 8600,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 3
+  },
+  "sku": "BID01F"
+}

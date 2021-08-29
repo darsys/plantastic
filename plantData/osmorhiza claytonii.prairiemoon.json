@@ -1,0 +1,65 @@
+{
+  "name": "osmorhiza claytonii",
+  "commonname": "sweet cicely",
+  "description": "Sweet Cicely is a perennial that is part of the carrot family. It grows in the wild in mesic forests and on wooded slopes. The white flowers of this plant can be found at the top clustered into four to seven flowers each. The leaves resemble ferns; dark green leaves are compounded in threes one or two times and have serrated edges. All surfaces of Sweet Cicely are hairy, especially on veins on the underside of the leaves. Towards the end of the season dry brown seeds appear that split into two when ripe.This plant would be a good addition to a woodland garden as it thrives in the shade and in wetter soils. Sweet Cicely also attracts beneficial insects that will become food for small mammals and birds. The roots, when dug, are said to give off an anise-like flavor.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 2500,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "OSM02F"
+}

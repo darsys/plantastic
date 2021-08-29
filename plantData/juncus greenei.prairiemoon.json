@@ -1,0 +1,40 @@
+{
+  "name": "juncus greenei",
+  "commonname": "greene's rush",
+  "description": "New! Greene’s Rush is similar to Vasey’s Rush, Path Rush, Inland Rush, and Dudley’s Rush, but as its name suggests, it is distinguishable by its dark green color. It is usually found in wet, sandy, well-drained soils near lakeshores, dunes, and disturbed areas. Rushes can grow reliably with fluctuating water conditions, and because they can ride out intermittent dry spells, they are often used in rain gardens. Greene’s Rush actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 1700000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "JUN07G"
+}

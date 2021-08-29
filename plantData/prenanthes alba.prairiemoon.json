@@ -1,0 +1,62 @@
+{
+  "name": "prenanthes alba",
+  "commonname": "lion's foot",
+  "description": "With white to pale lavender blooms early-fall, this plant is a member of the Aster family. Lion's Foot is for full to part shade and the height greatly depends on the moisture and light of a given area; 2' in drier, very shady sites and 4' in dappled light with moister soils.  Notice the \"lion's-foot\" shape of the leaf in the photograph.  Other common names include Rattlesnake Root and White Lettuce.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 18000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "PRE02F"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "viola nuttallii",
+  "commonname": "yellow prairie violet",
+  "description": "New! Threatened in MN. It can have a cleistagamous flower; a non-opening flower that can self-pollinate. This phenonomeon is well-documented in grasses, but also in peanuts, pansy, and pea plants. Also called Nuttall's Violet. *This species (in seed) may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code, right.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 7400,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 4,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "VIO21F"
+}

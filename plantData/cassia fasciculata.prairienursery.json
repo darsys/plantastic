@@ -1,0 +1,67 @@
+{
+  "name": "cassia fasciculata",
+  "commonName": "partridge pea",
+  "description": "One of the few annuals that grow on the prairie, Partridge Pea is often used in seed mixes to provide first year color. This plant is fairly tolerant of first year mowing maintenance, and the butter-yellow flowers will appear in mid to late summer. Plant at a rate 12 oz. per acre (1/4 oz. per 1000 sq. ft.) in addition to your primary prairie seed mix.Synonyms: Chamaecrista fasciculata.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1272/product-1279.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$3.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$5.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$120.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": "Dry",
+  "benefits": [
+    "Pollinators",
+    "Birds",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Taproot"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "bromus latiglumis",
+  "commonname": "ear-leaved brome",
+  "description": "Ear-leaved Brome is a cool season grass; it actively grows during the spring and fall when soil temperatures are cool.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 7600,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "BRO00G"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "pseudognaphalium obtusifolium",
+  "commonname": "sweet everlasting",
+  "description": "Sweet Everlasting, also known as Rabbit Tobacco, is silvery green due to the appressed hairs that cover its surface. The white flowers are clustered in quarter inch buds with many overlapping bracts. The tips of these buds are usually yellow or brownish. The bracts will eventually spread out and fall off when the seed ripens. Sweet Everlasting’s fruit has a tuff of light brown hairs that will allow it to be carried off by the wind. The plant also gives off a wonderful maple syrup smell, making it a nice addition to any garden. This annual is fairly easy to grow from seed and does well in medium to dry soil, with full sun. Historically, it has been known to be used as a remedy for sore throats, pneumonia, colds, fevers and diarrhea. Formerly classified as Gnaphalium obtusifolium.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 500000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "GNA02F"
+}

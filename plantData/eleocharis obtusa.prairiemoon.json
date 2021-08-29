@@ -1,0 +1,52 @@
+{
+  "name": "eleocharis obtusa",
+  "commonname": "blunt spike rush",
+  "description": "Blunt Spike Rush is an annual; it completes its life cycle during one season but will re-seed. It actively grows during the spring and fall when soil temperatures are cool and spreads by rhizomes.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 450
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 100000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 12,
+  "sku": "ELE03G"
+}

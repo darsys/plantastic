@@ -1,0 +1,53 @@
+{
+  "name": "arnoglossum plantagineum",
+  "commonname": "prairie indian plantain",
+  "description": "The shortest of the Indian Plantains at just 4'.  Another scientific name in use is Cacalia tuberosa \n Another common name in use is Groovestem Indian Plantain.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    }
+  ],
+  "seeds/packet": 35,
+  "seeds/ounce": 4700,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "CAC10F"
+}

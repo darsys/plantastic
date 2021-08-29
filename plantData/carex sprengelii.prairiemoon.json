@@ -1,0 +1,66 @@
+{
+  "name": "carex sprengelii",
+  "commonname": "long-beaked sedge",
+  "description": "Carex sprengelii is native to most of the northern half of the United States. This sedge can typically be found in the wild in rocky soil, but it can thrive in average soils and tolerate some drought, but soils on the moist side are preferred. Plant in the shade or partial shade to ensure it thrives. This is a great sedge for landscaping with a very ornamental seed head and clump-forming nature.Long-Beaked Sedge is, like most sedges, resistant to deer. It does provide shelter for small mammals and food source for migrating song birds when the seeds start to drop in autumn. As a cool season grass, Long-Beaked sedge will actively grow in the early spring and fall when the soil is cool.    Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "CAR26G"
+}

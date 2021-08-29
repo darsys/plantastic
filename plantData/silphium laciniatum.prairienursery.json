@@ -1,0 +1,73 @@
+{
+  "name": "silphium laciniatum",
+  "commonName": "compassplant",
+  "description": "Silphium laciniatum has thick, deeply divided leaves which often orient themselves in a north-south direction, hence the name Compassplant. Slow growing and long-lived, mature plants can have up to 100 large yellow flowers that open from June through September. Birds seek out the very nutritious seeds.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1676/product-2361.jpg",
+  "seeds/ounce": 650,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds"
+  ],
+  "height": {
+    "min": 36,
+    "max": 120
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 24
+  },
+  "root": "Taproot"
+}

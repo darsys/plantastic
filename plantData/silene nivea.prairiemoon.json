@@ -1,0 +1,45 @@
+{
+  "name": "silene nivea",
+  "commonname": "snowy campion",
+  "description": "",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 35000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SIL02F"
+}

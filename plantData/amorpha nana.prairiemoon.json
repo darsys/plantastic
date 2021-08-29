@@ -1,0 +1,72 @@
+{
+  "name": "amorpha nana",
+  "commonname": "fragrant false indigo",
+  "description": "Fragrant False Indigo, sometimes confused for its relative Lead Plant, has bright green leaves compared to the silvery green leaves of the Lead Plant. Showy grape purple flowers piled densely atop one another have a single petal and bright red stamen. Nana, meaning dwarf in Latin, refers to the shrub’s comparatively short stature. With a deep root system making it drop tolerant, this plant prefers dry prairies, rocky slopes, and other well-drained areas. However, sandier soils are best avoided to achieve ideal growing conditions. In addition to pollinators visiting the sweet smelling blossoms, the larvae of the native Silver Spotted Skipper butterfly use the leaves of Amorpha nana as a food source. Also called Dwarf False Indigo. Species of genus Amorpha are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 13100,
+  "germination": [
+    "C(10)",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AMO06T"
+}

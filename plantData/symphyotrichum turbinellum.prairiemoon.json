@@ -1,0 +1,69 @@
+{
+  "name": "symphyotrichum turbinellum",
+  "commonname": "prairie aster",
+  "description": "A native of dry-mesic prairies and savannas, Symphyotricum turbinellum is one of the later-blooming Asters. It grows 1 1/2 to 3' tall and is generally erect, occasionally branching laterally.  It produces compact blossoms 3/4\" or larger in diameter, each with 15-25 lavender-purple ray petals surrounding a yellow to reddish-purple center.   Other common name: Turbinate Aster Other botanical name: Aster turbinellus",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 35000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AST33F"
+}

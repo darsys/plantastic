@@ -1,0 +1,70 @@
+{
+  "name": "ruellia humilis",
+  "commonname": "wild petunia",
+  "description": "Wild Petunia is native to much of the eastern US.  This lovely plant isn't actually a petunia (which are relatives of the tomato) but rather a member of the Acanthaceae family.  Either way, the resemblance is striking.  Standing about a foot in height, Wild Petunia is an excellent addition to a bed with other short plants. Blooming throughout the hottest, driest times of the summer, Wild Petunia is sure to please while other plants are withering away. It is quite a hardy species as well, handling most conditions you could throw at it, save for swampy soils and shade.  In fact, it's so hardy that it can be a bit aggressive, so keep an eye on where seedlings turn up.  It does great as a ground cover, with a sidewalk or something to contain it.  When mature, the seeds literally explode from the plant, traveling upwards of 10 feet!  When in flower, Wild Petunia attracts a wide variety of insect pollinators, but the lavender blooms are especially attractive to long tongued bees and butterflies.  It is also a host plant for the larvae of the Common Buckeye butterfly. \n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 5200,
+  "germination": [
+    "C(70)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "RUE02F"
+}

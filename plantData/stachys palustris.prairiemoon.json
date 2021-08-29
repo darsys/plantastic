@@ -1,0 +1,39 @@
+{
+  "name": "stachys palustris",
+  "commonname": "woundwort",
+  "description": "Woundwort is named for a European species that is also in the Stachys family.  In traditional herbal medicine the European Woundworts were thought to help heal wounds.  Our Woundwort, Stachys palustris homotricha is a wildflower of medium wet soils and full sun.  At three feet tall this could be an interesting addition to rich soil gardens with its stalks of pink to purple flowers that bloom mid to late summer.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 16000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink",
+    "Purple"
+  ],
+  "sku": "STA05F"
+}

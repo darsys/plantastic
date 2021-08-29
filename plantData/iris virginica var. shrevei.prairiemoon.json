@@ -1,0 +1,73 @@
+{
+  "name": "iris virginica var. shrevei",
+  "commonname": "southern blue flag",
+  "description": "Iris virginica var. shrevei, Southern Blue Flag Iris, usually grows in large patches that expand outward from rhizomes. It is 2’-3’ high with the leaves on the flower stem growing slightly taller than the flower. Bloom time is from late spring to early summer. The bloom color is somewhat variable, but is most often a medium to pale blue violet. There is a yellow blotch on the lower sepal where it joins a small upper lip; a mark that helps to distinguish the flower from those of Iris versicolor, Northern Blue Flag Iris.  Below the yellow blotch, white and purple veined nectar guide lines fade to solid violet on the bottom edge. When the seed is close to maturity the weight of the pods will sometimes pull the stalk over to the ground where they will finish ripening and eventually split to drop the mature large brown seeds.  Southern Blue Flag Iris prefers full sun to part shade and will not bloom well if it has more shade than sun. It grows best in moist soils that are not too heavy but will tolerate some brief flooding early in the season and moderate dryness in late summer.  Other common names in use include: Shreve's Iris\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 1000,
+  "germination": [
+    "C(120)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "IRI06F"
+}

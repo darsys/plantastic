@@ -1,0 +1,70 @@
+{
+  "name": "penstemon digitalis",
+  "commonname": "foxglove beardtongue",
+  "description": "Penstemon digitalis (Foxglove Beardtongue) matures to 3' in height and has white to pink flowers. It prefers medium to dry medium soils but can adapt to many light conditions: full sun to part shade such as clearings within forests, woods' edges, and savannas. It is very easy to grow from seed.  The tubular flowers of this plant attract long-tongued bees, including honeybees, bumblebees, Miner bees, Mason bees, and hummingbirds.  Penstemons are called 'Beard Tongues' because the sterile stamen has a tuft of small hairs.  You may choose to pair Penstemon with some of these other native plants: Golden Alexanders (Zizia aurea), Spiderworts (Tradescantia ohiensis), and Prairie Blue-Eyed Grass (Sisyrinchium campestre).  Other common names include Mississippi Penstemon, Smooth White Beardtongue, Talus Slope Penstemon, and simply, Beardtongue.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 130000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "PEN02F"
+}

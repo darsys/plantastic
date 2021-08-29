@@ -1,0 +1,30 @@
+{
+  "name": "helianthus divaricatus",
+  "commonname": "woodland sunflower",
+  "description": "Woodland Sunflower is especially suitable for dry, open woodland or savanna. It resembles a number of other species of sunflower, and some of these species hybridize naturally, making identification difficult. The plants are rhizomatous and spread vigorously, and therefore may not be suitable for small planting areas.",
+  "prices": [],
+  "seeds/packet": 50,
+  "seeds/ounce": 4800,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "HEL43F"
+}

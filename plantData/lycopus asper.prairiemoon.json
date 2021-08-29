@@ -1,0 +1,72 @@
+{
+  "name": "lycopus asper",
+  "commonname": "rough bugleweed",
+  "description": "Rough Bugleweed is native to nearly all of North America except the South East and the eastern seaboard. The leaves are opposite and can be four inches long. Some of the undersides of the leaves can be slightly hairy. Dense clusters of tubular white flowers bloom from the bottom of the plant, up. The flowers can be seen blooming out of the same place where the leaves branch off from the main stem. There might be some tiny purple spots at the mouth of the flower. A plant for a variety of open wetland habitats, Rough Bugleweed grows on shores and in moist ditches, especially where the ground has been recently disturbed. It does best in partial shade and in wetter soils. A good place for this plant would be in a rain garden or near a pond. Bees enjoy this plant and help pollinate it.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 15000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "LYC01F"
+}

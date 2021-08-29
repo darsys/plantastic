@@ -1,0 +1,36 @@
+{
+  "name": "spiraea tomentosa",
+  "commonname": "steeplebush",
+  "description": "Pink spikes of flowers mid to late summer make Steeplebush a popular species. A mound-shaped form with unbranched stems, bright pink flowers, orangeish-red bark, and yellow fall foliage make this a shrub with year-round interest for the landscape.  It grows best in moist acidic soils in full sun.  Slow rhizomatous roots help this beautiful plant to spread.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 300000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "SPI06T"
+}

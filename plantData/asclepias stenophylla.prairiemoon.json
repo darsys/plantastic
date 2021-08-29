@@ -1,0 +1,33 @@
+{
+  "name": "asclepias stenophylla",
+  "commonname": "narrow-leaved milkweed",
+  "description": "New! Narrow-Leaved Milkweed is easily distinguished from other\nAsclepias species by its widely-spaced, opposite leaves that are only about\n¼-inch wide but up to six inches long. Believed to have naturally migrated from\nthe western Ozarks, this plant prefers full sun and well-drained soils, often\nrocky or sandy range lands or hillside prairies. The species has protected\nstatus in some northern parts of its range, where it is rarer than in the Lower\nPlains. A larval host and nectar source for Monarchs, this species’ plants\nbloom through the summer months in hues ranging from white to greenish, with\noccasional hints of light yellow. The seed pods are narrowly tapered, echoing\nthe form of the plant’s foliage.",
+  "prices": [],
+  "seeds/packet": 30,
+  "seeds/ounce": 4800,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "ASC11F"
+}

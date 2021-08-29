@@ -1,0 +1,72 @@
+{
+  "name": "gentiana flavida",
+  "commonname": "cream gentian",
+  "description": "Cream Gentian are slow-growing but long-lived and require little care once established. Bumblebees are the main pollinators because they are the only insects strong enough to pry open the nearly-closed flowers. Cream Gentian is the first Gentian to bloom in late summer.  Bottle Gentian and others (see our website) may wait until September or October to lend late-season color to mostly sunny sites in medium-wet to medium-dry soils. Also known as Yellow Gentian and Gentiana alba.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 8.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12.75
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 21.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 35
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 140000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "GEN06F"
+}

@@ -1,0 +1,3 @@
+{
+    "docker.host": "ssh://damon@hydra.tayoby.com"
+}

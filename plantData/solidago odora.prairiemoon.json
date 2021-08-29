@@ -1,0 +1,56 @@
+{
+  "name": "solidago odora",
+  "commonname": "sweet goldenrod",
+  "description": "New! Sweet Goldenrod, part of the Aster (Asteraceae) family, is native to the North and South Eastern areas of the US.  It is clump-forming and makes a nice fall addition to any dry, even sandy, garden because it does not spread aggressively as some other Goldenrods may.  Also called Anise Scented Goldenrod, the nice-smelling leaves and dried flowers have been used to make tea.  It is deer-resistant.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 250000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SOL13F"
+}

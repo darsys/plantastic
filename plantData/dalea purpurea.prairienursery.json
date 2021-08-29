@@ -1,0 +1,71 @@
+{
+  "name": "dalea purpurea",
+  "commonName": "purple prairie clover",
+  "description": "This member of the legume family has it all: gorgeous purple flowers with golden flecks, and elegant foliage on multiple upright stems all combine to give it great garden form. Plus, this plant is not all that particular about soil type. Loam, clay, sand, or gravel – it is easily grown in any sunny location with average to dry soils. The deep taproot supports a long-lived plant that is virtually impervious to heat and drought. Excellent in a variety of plantings including rock gardens, sunny perennial borders, native plant gardens or naturalized prairie areas.A pollinator favorite, Purple Prairie Clover is a host plant for Dogface Butterfly larvae and provides nectar to many species of butterflies, bees and other pollinating insects. One of the most widespread of the Prairie Clovers, Dalea purpurea is a standard component in prairie restorations and in the rehabilitation of disturbed areas. But it is uncommon in areas that have been disturbed by modern development. Root division can be tricky as it does not like disturbance after it has become established.Legumes such as Prairie Clovers harbor beneficial bacteria called rhizobia. The plants are able to capture nitrogen from the air, and the bacteria assist in \"fixing” it in the plant. The plants act as a natural soil fertilizer when the spent plant material is left to enrich the soil.Seed Treatment: Scarification is helpful but not required. Review our seed propagation page for additional/specific information. As a legume species (member of the pea family) this seed will come pre-treated with Rizobium inoculum.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1633/product-3726.jpg",
+  "seeds/ounce": 20000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$6.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$9.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Purple"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Taproot"
+}

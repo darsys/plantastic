@@ -1,0 +1,31 @@
+{
+  "name": "helianthus strumosus",
+  "commonname": "pale-leaved sunflower",
+  "description": "Pale-leaved Sunflower resembles a number of other species of sunflower, and some of these species hybridize naturally making identification difficult. It occurs naturally in open woodlands savannas and prairies. The plants are rhizomatous and may vigorously occupy small garden space.",
+  "prices": [],
+  "seeds/packet": 60,
+  "seeds/ounce": 4200,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "HEL56F"
+}

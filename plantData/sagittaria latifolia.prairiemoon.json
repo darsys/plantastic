@@ -1,0 +1,54 @@
+{
+  "name": "sagittaria latifolia",
+  "commonname": "common arrowhead",
+  "description": "Common Arrowhead is found in very wet soils.  Attractive white flowers emerge mid to late summer.  Another common name that is atributed to this species is Duck Potato.  The tuberous root is edible to wildlife and has traditionally been eaten by Native Americans.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 61000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "SAG02F"
+}

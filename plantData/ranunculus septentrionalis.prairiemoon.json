@@ -1,0 +1,39 @@
+{
+  "name": "ranunculus septentrionalis",
+  "commonname": "swamp buttercup",
+  "description": "NEW!",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 9,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 0,
+    "max": 0
+  },
+  "sku": "RAN14F"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "symphyotrichum lanceolatum",
+  "commonname": "panicled aster",
+  "description": "Symphyotrichum lanceolatum, previously called Aster simplex, can vary in height, up to 5'.  It seems to thrive in disturbed areas and can form dense colonies.  Common to medium-wet and full-sun sites, it is a white-blooming Aster that can be distinguished by the pronounced curling habit of its dead leaves: they often spiral around the plant's stem.  Other common names: Lance-leaved Aster; White Panicled Aster Other botanical names: Symphyotricum simplex; Aster lanceolatus",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 156000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 36
+  },
+  "sku": "AST32F"
+}

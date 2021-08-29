@@ -1,0 +1,72 @@
+{
+  "name": "anaphalis margaritacea",
+  "commonname": "pearly everlasting",
+  "description": "NEW 3-pack Potted Plants! Pre-order now for Spring 2019 delivery.The stems and elongated leaves of  Pearly Everlasting are covered with white hairs.  Clustered at the top of erect stems, the tiny yellow flowers are enclosed by white papery bracts, often mistaken for petals.  The overall appearance is a pearly mound; a nice shape and color for a garden edge.  Pair it with a contrasting, bright plant like Bush's Poppy Mallow for a stunning display.There are separate male and female flowers, usually on separate plants, and they take on different gender-specific yellow or rust-yellow color as shown in the photo.  Blossoms can be dried for durable bouquets or flower arrangements as they keep their color and shape well. In the spring, this plant is a larvae host for the American Painted Lady- Vanessa virginensis (see photo of a surprise we found in our greenhouse one spring); you are sure to see this well-loved butterfly flying around your plants.  The young larvae create a silken web around the plant to feed.  This can look discouraging if you are trying to grow this plant, but like in many native plant-insect relationships, the plant generally makes a full recovery and flowers later in the summer.  Flowers persist and are profuse late-summer through fall to attract numerous beneficial insects.Pearly Everlasting is drought tolerant as it prefers full sun and dry, even rocky or poor soil conditions.  Moderate shade and medium soils are also tolerated. Its native range is vast from northern Maine to Virginia in the East, and Washington to Arizona in the West. Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 42.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 80
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 155
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 218000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 3
+  },
+  "sku": "ANA10F"
+}

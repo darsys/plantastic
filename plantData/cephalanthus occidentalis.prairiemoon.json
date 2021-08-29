@@ -1,0 +1,72 @@
+{
+  "name": "cephalanthus occidentalis",
+  "commonname": "buttonbush",
+  "description": "Buttonbush is a deciduous shrub that is native to most of the lower 48 states save the Pacific Northwest region and some western states.  It is a member of the Coffee family, Rubiaceae.  Buttonbush can be identified for its densely packed clusters of white, sphere-shaped flowers. These flowers attract butterflies and other pollinators. The fruit produced persists throughout the winter months and the seeds will feed ducks and other waterfowl throughout the winter.  Buttonbush is commonly found in wet open areas, low woods, and swamps, where older shrubs will have many branches and twisted trunks (see photos). Since it is tolerant of very wet soils, it is an ideal candidate for a rain garden or wetland restoration project. Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May). Our bare root tree is 1 year old and we trim to a height of approximately 14\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 6000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": null,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "CEP02T"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "solidago ulmifolia",
+  "commonname": "elm-leaved goldenrod",
+  "description": "Elm-leaved Goldenrod is one of the shorter goldenrods.  Its height tops out at three feet.  It is found in medium to dry soils, and does best in shaded to semi-shaded situations.  The yellow flowers of Goldenrod are appreciated by the insects in the fall when they are getting ready for winter.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 800,
+  "seeds/ounce": 130000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "SOL16F"
+}

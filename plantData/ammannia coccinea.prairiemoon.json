@@ -1,0 +1,64 @@
+{
+  "name": "ammannia coccinea",
+  "commonname": "scarlet toothcup",
+  "description": "New!  Ammannia coccinea, Scarlet toothcup, is an annual in the loosestrife family that gets its name from the appearance of its fruit when ripe. The lower leaves hold 3-5 flowers per axil that range in color from pink to purple. Their flowers attract several butterflies seeking nectar, including the Eastern Tailed-Blue and Checkered White. It is also an important waterfowl food source. Scarlet toothcup can be aggressive in favorable locations such as muddy soils along ponds, river banks, and grassy areas that experience flooding.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 1400000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AMM02F"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "lupinus perennis",
+  "commonname": "wild lupine",
+  "description": "Wild Lupine blooms profusely in spikes with pea-like blue & purple flowers.  Palm-shaped leaves surround the plant as an added attraction, making it a popular choice for gardens or restorations with dry to sandy soils. Lupine requires well-drained soils but will adapt to all dry soil types; sand. loam, gravel and clay.  This legume is essential to the life cycle of the Karner Blue butterfly, a federally-endangered species native to the Great Lakes region. Native Lupine is a spring ephemeral; it will grow and bloom in the spring and then go dormant by mid-summer so plan for summer and fall-blooming plants nearby in a garden to fill in where the Lupine is asleep. When ripe, the seedpod explodes aiding in distribution. Birds and small mammals will feed on the seeds. Check out this cool video of our Wild Lupine seed harvest! This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.    Dormant bare-root plants ship during optimal transplanting season: Fall (October). Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 1100,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 18
+  },
+  "sku": "LUP02F"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "rudbeckia fulgida",
+  "commonname": "orange coneflower",
+  "description": "Orange Coneflower is a butterfly favorite with a mid-summer-to-fall bloom time that can be prolonged by removing spent blossoms (dead-heading). The large, daisy-like flowers have yellow-orange rays and purple-brown centers. Plants remain in a mounded-profile and can form colonies in large plantings on sunny sites with medium-dry to medium-wet soil, although consistent moisture and good circulation seem to be preferred in the establishment years. This Rudbeckia is deer resistant.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 31000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Orange"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "RUD03F"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "cyperus lupulinus",
+  "commonname": "great plains flat sedge",
+  "description": "",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 38000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "sku": "CYP04G"
+}

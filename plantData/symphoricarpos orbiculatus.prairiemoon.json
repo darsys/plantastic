@@ -1,0 +1,43 @@
+{
+  "name": "symphoricarpos orbiculatus",
+  "commonname": "coralberry",
+  "description": "Coralberry is a dense, suckering shrub with lovely red berries that last through most of the winter. Cultivars are often grown in gardens as ornamental plants, but the native, wild species is also very showy. If grown in a landscaped area, cutting the shrub back to the ground in winter or spring will promote a bushier growth form and can help control disease.    This a great bush for insects and wildlife. The flowers provide nectar for bees, wasps, and flies. The caterpillars of the moths Hemaris diffinis (Snowberry Clearwing), Hemaris thysbe (Hummingbird Clearwing), and Hesperumia sulphuraria (Sulfur Moth) feed on the foliage of Coralberry and other Symphoricarpos spp. The berries provide winter food for birds including the Bobwhite and Robin. Sometimes the Coralberry is referred to as Buckbrush because this plant is a favorite of White-tailed Deer. The dense, arching branches also make a nice cover for wildlife.    Another common name, Indian Currant, suggests the berries are edible. However, eating coralberries is not recommended because Symphoricarpos spp. contain saponin, a chemical that can be toxic in large amounts. Many plants contain this toxin, even some edible species in the Pea family (Fabaceae), but the concentration of saponin in Coralberry makes them taste quite bitter and unpalatable. Saponin is highly toxic to fish, and historically Native Americans exploited this fact to stun or kill fish for easier harvest. They would crush large amount of plants that contain saponin, soak them in a lake or a stream, and the stunned or dead fish would float to the top of the water. This fishing method is still used by indigenous people in South America. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root tree is 1 year old and we trim to a height of approximately 12-18\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 5600,
+  "germination": [
+    "F",
+    "H"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "SYM10T"
+}

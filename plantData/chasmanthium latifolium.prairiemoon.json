@@ -1,0 +1,67 @@
+{
+  "name": "chasmanthium latifolium",
+  "commonname": "river oats",
+  "description": "Also called Uniola latifolia or Northern Sea Oats, River Oats is a very ornamental grass that is easily identifiable from its drooping inflorescences and compressed spikelets. The pale green spikelets turn golden-brown by fall. \nCustomer praise for River Oats: \"I have this in front of my yard by the sidewalk. Good in really dry years too. Prodigious self-sower.\"  -Michael J., Staten Island, NY  \"I love this plant!  Does great on slopes where the firm root mass helps hold the soil in place.\"  -Susan O., Iowa City  \"My suburban Chicago 150'x10' boulevard/verge/berm area is planted with this. The self-sowing/spreading characteristic comes in handy for replacing areas damaged by road and sidewalk plows.  I can't imagine a better use for this grass or a better no-maintenance plant for this type of semi-public area. It is a sight to behold in a light fall breeze.\"  -Nathanial P., Wilmette, IL\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).  Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 4000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "UNI08G"
+}

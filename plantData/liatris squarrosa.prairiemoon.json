@@ -1,0 +1,40 @@
+{
+  "name": "liatris squarrosa",
+  "commonname": "scaly blazing star",
+  "description": "Scaly Blazing Star grows to about two and half feet tall. It is suited to dry, sunny habitats, savannas or open woodlands.",
+  "prices": [],
+  "seeds/packet": 150,
+  "seeds/ounce": 7000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "LIA16F"
+}

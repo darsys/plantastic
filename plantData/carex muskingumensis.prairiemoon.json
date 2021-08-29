@@ -1,0 +1,47 @@
+{
+  "name": "carex muskingumensis",
+  "commonname": "palm sedge",
+  "description": "A widely-used Sedge for home landscaping for its attractive \"palm\" formation, clumping behavior and ability to tolerate full sun or full shade.  It would make a good ground cover.  It is easy to grow and care for best in moist, fertile soil and partial sun.  Like most Sedges, it spreads by rhizomes, forming colonies.Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June.Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 7500,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "CAR74G"
+}

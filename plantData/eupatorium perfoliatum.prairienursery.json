@@ -1,0 +1,72 @@
+{
+  "name": "eupatorium perfoliatum",
+  "commonName": "boneset",
+  "description": "The pure white flowers of Boneset (Eupatorium perfoliatum) really stand out in the late summer landscape. Looks great when mixed with the pink wands of Dense Blazingstar. The highly textured leaves clasp the stem, and were once believed to facilitate the setting and healing of bones. Requires a rich moist soil in full sun to light shade.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1639/product-4104.jpg",
+  "seeds/ounce": 200000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 48
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

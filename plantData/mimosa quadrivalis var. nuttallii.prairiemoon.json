@@ -1,0 +1,59 @@
+{
+  "name": "mimosa quadrivalis var. nuttallii",
+  "commonname": "sensitive plant",
+  "description": "Sensitive Plant prefers sunny, sandy sites.  It goes by many names: Littleleaf Sensitve-briar, Schrankia uncinata, and Mimosa microphylla.  Its leaves fold when disturbed, hence its common name. From May-July plants (2-3' tall) bloom in bunches of pink-magenta flower globes, which set seeds in long, prickly pods. Despite the barbs, the pods are nutritious for foraging mammals. The plant's vining stems also are covered by small, backward-curving thorns (see photo). The plant gives off a sulfur smell. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 2000,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "SCH02F"
+}

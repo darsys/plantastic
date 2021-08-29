@@ -1,0 +1,71 @@
+{
+  "name": "elymus virginicus",
+  "commonName": "virginia wild rye",
+  "description": "Virginia Wild Rye is a tall graceful grass that grows in full sun or moderate shade. Fast-growing and very moisture tolerant, this native grass is excellent for stabilizing on wooded hillsides and in ravines, and is also ideal for planting along woodland streams and floodplains. Reseeds readily.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1645/product-1742.jpg",
+  "seeds/ounce": 3900,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$4.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$25.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 48,
+    "max": 60
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "root": "Fibrous",
+  "seedrate_acre": "10 Lbs",
+  "seedrate_1000sqft": "1/4 Lb"
+}

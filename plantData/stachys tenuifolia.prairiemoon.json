@@ -1,0 +1,49 @@
+{
+  "name": "stachys tenuifolia",
+  "commonname": "smooth hedgenettle",
+  "description": "New! Often found in sun or part shade along woods edges or stream banks, Smooth Hedgenettle can form colonies, like other species in its Mint family. It also shares their characteristic square stems; its are mostly smooth, sometimes with sparse hairs along the edges but not the flat sides. Summer blooms form in whorls in a flowering spike at the end of the central stem.The tubular blossoms are light pink and white with upper hoods that overhang a three-lobed lower lip, which accommodates visits from flying insects. The throat of the blossom is splotched with rosy-pink to lavender hues. Long-tongued bees are the plant’s most effective pollinators, though flower flies and short-tongued bees visit often for pollen.The leaves are narrow oblongs or lance-shaped, with toothed edges. They have pointed tips and small hairs on the upper surface and each opposing pair forms at a right angle to the pair below it on the stem.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 34000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 3,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink",
+    "White"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "STA06F"
+}

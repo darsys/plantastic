@@ -1,0 +1,70 @@
+{
+  "name": "penstemon cobaea",
+  "commonname": "showy beardtongue",
+  "description": "Showy Beardtongue is certainly showy with large flowers on a relatively short plant that can cover much of the stem.  The flowers are 2\" tubes in with dark purple lines and white blotches and have a range of color from white, to pink to violet and purple.  It will attract a number of pollinators and even though it may be short-lived it makes ample amounts of seed to re-sow.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 12000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "PEN12F"
+}

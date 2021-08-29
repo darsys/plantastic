@@ -1,0 +1,40 @@
+{
+  "name": "corydalis sempervirens",
+  "commonname": "pale corydalis",
+  "description": "An attractive biennial native for rocky, shallow-soil sites and cooler climates.  Easy to start from seed, it has light to dark pink tubular flowers with yellow tips and greenish-blue leaves.  Being a biennial, it will have basal rosettes at ground-level the first year and flowering plants the 2nd year.  It could fill in any bare spot in a sun or semi-shade garden quite quickly.   Also know as Rock Harlequin, Tall or Pink Corydalis, and Capnoides sempevirens, it is a member of the Fumitory family, like the similar-looking Dutchman's Breeches. It is listed as endangered or threatened in several states.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 55000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "sku": "COR01F"
+}

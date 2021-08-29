@@ -1,0 +1,54 @@
+{
+  "name": "eragrostis trichodes",
+  "commonname": "sand love grass",
+  "description": "This is a warm grass plant, meaning it will only grow during the summer when soil temperatures are warm. It is noticeable for its purplish stem and tends to arch gracefully. This grass has a high tolerance for calcified, sandy soil and likes sunny conditions. These factors make it an excellent plant to stabilize sandier areas prone to erosion, like upland lake and river banks. Sand Love Grass readily reseeds itself and grows quickly in ideal conditions. It is also important to native bees as it provides nesting materials and structures for them in all seasons.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 90000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ERA01G"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "lysimachia quadriflora",
+  "commonname": "prairie loosestrife",
+  "description": "Prairie Loosestrife is native to the Midwestern states and the scattered across the east coast. The flowers of Prairie Loosestrife are yellow and each of the five petals come to a point at the tip. The leaves are only a quarter inch wide and are tapered at both the base of the leaf and the tip. Prairie Loosestrife also produces a rounded yellow fruit from the flowers. It can be found in undisturbed, and especially calcareous, high-quality wetlands including shores, marshes, fens, bogs and swamps. Prairie Loosestrife, like Fringed Loosestrife, has special value to native bees. Despite the similar common names, Prairie Loosestrife is not related to the non-native, invasive Purple Loosestrife. It can be found in undisturbed, and especially calcareous, high-quality wetlands including shores, marshes, fens, bogs and swamps.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 100
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 1
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 90000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "LYS04F"
+}

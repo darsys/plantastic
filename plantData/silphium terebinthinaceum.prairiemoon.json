@@ -1,0 +1,77 @@
+{
+  "name": "silphium terebinthinaceum",
+  "commonname": "prairie dock",
+  "description": "Prairie Dock is among the taller and larger-leaved prairie plants, often maturing to 9' in height. Its sandpaper-textured leaves, 18\" long and 12\" wide, prove too coarse for most rabbits.  These leaves will mature in size in early summer and by late summer the flowering stalk will shoot up with attractive yellow composite flowers.  Because of its height, it competes well with aggressive prairie grasses such as Big Bluestem and Indian Grass.  Prairie Dock attracts bees, including honeybees and bumblebees.  Goldfinches eat and disperse the seeds, helping the plant self-propagate.  A member of the large Aster (Asteraceae) family, Prairie Dock, like most Silphium species, is extremely drought-resistant and long-lived; once it is established it can be difficult to move so choose your spot wisely in a garden setting.  It tends to bloom later than other Silphium (see Other Considerations below).  It may also be called Prairie Rosinweed.Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 35,
+  "seeds/ounce": 1000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": null,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "SIL58F"
+}

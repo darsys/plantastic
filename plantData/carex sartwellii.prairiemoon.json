@@ -1,0 +1,41 @@
+{
+  "name": "carex sartwellii",
+  "commonname": "running marsh sedge",
+  "description": "Running Marsh Sedge is colony forming from rhizomes and displays an attractive infloresence of light brown, papery scales after the seeds have dispersed. Carex sartwellii will tolerate full sun and a range of moisture.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 41000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "sku": "CAR71G"
+}

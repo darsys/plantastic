@@ -1,0 +1,60 @@
+{
+  "name": "stylophorum diphyllum",
+  "commonname": "celandine poppy",
+  "description": "This attractive woodland plant will grow well in zones 4-8 in with little to no care in rich woodland soils.  It can tolerate drier, sunnier sites with some care. Imagine these bright yellow poppies next to some blue Jacob's Ladder or Mertensia, pinkish Trout Lily or white Trillium in a spring, woodland garden!  A welcome, well-deserved sight in April after a long winter.  After seeds drop out of its large, hairy pods, Celandine Poppy will go dormant.  Seedlings will readily emerge everywhere if fresh seed is scattered on the soil surface. Ants typically aid in seed dispersal.  This plant should not be confused with Chelidonium majus, Greater Celandine a Eurasian semi-weedy biennial often present in highly disturbed areas.  The leaves and flowers of the two can be very difficult to distinguish, but they are very different in the seeding stage; Chelidonium has a long, hairless \"legume\" look, while Stylophorum's fuzzy pods (photos above) are unmistakable.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 13000,
+  "germination": [
+    "L",
+    "E"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "STY02F"
+}

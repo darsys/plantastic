@@ -1,0 +1,66 @@
+{
+  "name": "rudbeckia hirta",
+  "commonname": "black-eyed susan",
+  "description": "Black-eyed Susan is an opportunist that thrives easily in disturbed areas.  It has naturalized through most of the continent. A biennial, it blooms and completes its life cycle in its second year but will re-seed.  We include it as an early marker in almost all of our prairie and savanna seed mixes. For a long-lived perennial Black-eyed Susan, choose Sweet Black-eyed Susan (Rudbeckia subtomentosa).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 92000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "RUD02F"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "salix discolor",
+  "commonname": "pussy willow",
+  "description": "We sell the male trees. The male buds (catkins) are showier, and it is the branches of the male trees that most want for ornamental reasons. These catkins appear very early in the spring, often when snow is still on the ground. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root tree is 1 year old and we trim to a height of approximatley 18-24\".",
+  "prices": [],
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": null,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 10
+  },
+  "sku": "SAL06T"
+}

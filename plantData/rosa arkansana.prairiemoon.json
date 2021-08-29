@@ -1,0 +1,51 @@
+{
+  "name": "rosa arkansana",
+  "commonname": "prairie wild rose",
+  "description": "This hardy rose forms a low shrub that provides plenty of color with fragrant, pink-white summer blossoms, foliage that turns orange-red in autumn and bright red rose hips (seed pods) that can provide food for birds and wildlife into winter. Leaves with serrated margins alternate in groups of 7-11 along stems. Above-ground growth dies back after a few years, to be replaced by fresh shoots.Once established, plants spread by rhizomes so location should be chosen carefully. The roots become very stout and extend deep into the soil, making transplanting difficult. This habit gives the species great resistance to drought and fire. Prairie Wild Rose was among the few species that fared well during the 1930s droughts in the American \"Dust Bowl.\" *This species (in seed) may be difficult and/or slow to germinate and\ngrow to maturity.  Please note the germination code.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 2500,
+  "germination": [
+    "F",
+    "H"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "sku": "ROS02T"
+}

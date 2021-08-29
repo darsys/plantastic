@@ -1,0 +1,66 @@
+{
+  "name": "rosa blanda",
+  "commonname": "early wild rose",
+  "description": "All native Rosa species attract a multitude of pollinators, have large attractive flowers, red stems and large rose hips in fall.  They are also semi-aggressive and les suitable for small landscapes.*This species (in seed) may be difficult and/or slow to germinate and\ngrow to maturity.  Please note the germination code.  Dormant bare root plants ship each year during optimal transplanting season: Spring (April/May). Age: 1 yr; approx. 18” of top growth",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 2600,
+  "germination": [
+    "F",
+    "H"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "sku": "ROS04T"
+}

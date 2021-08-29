@@ -1,0 +1,36 @@
+{
+  "name": "stipa viridula",
+  "commonname": "green needle grass",
+  "description": "Green Needle Grass, which is also known by the botanical name Nassella viridula, is a perennial, cool season grass. It grows in a variety of habitats, including areas which have recently been disturbed, but is most often found in full sun and drier soils.   This grass provides good habitat for ground nesting birds, especially waterfowl. The very fibrous root system can reach down 10 feet or more, making this a good plant for bank stabilization. Green Needle Grass is found sparingly in most prairies, and is considered a climax species of a mature Upper Midwestern prairie.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 7500,
+  "germination": [
+    "G",
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "STI04G"
+}

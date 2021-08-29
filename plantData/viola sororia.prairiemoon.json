@@ -1,0 +1,50 @@
+{
+  "name": "viola sororia",
+  "commonname": "common blue violet",
+  "description": "A common plant found in a wide array of habitats across the United States with symbolic cultural significance.  Also called Viola papilionacea, common meadow violet, purple violet, woolly blue violet, hooded violet, wood violet, and the lesbian flower, this violet is a very common plant found in a wide range of habitats. It also happens to be the state flower of Illinois, Rhode Island, New Jersey, and Wisconsin. Freely self-seeding, Common Blue Violet will spread readily. It is sometimes considered a lawn weed because of its prolific and adaptable nature, but together, they are a lovely groundcover and provide early nectar source for bees and other pollinators. Spring is the typical bloom time, but because of the early bloom time, it's not uncommon to see many Viola species bloom again in the early Fall.  There is debate in the botanical community regarding the variation of flower color and fuzziness of stem in Viola sororia. Some argue each morphology represents an individual species, while others argue they are indeed all one species. More study is needed to verify the taxonomic classification of these similar plants.  The flowers and young leaves of the common violet are edible. Viola (violets, violas and pansies) are among the most popular edible flowers in America--and with good reason. Not only are these beautiful little flowers easy to grow, but they are also among the few flowers that actually taste good. The flowers make a nice addition to salads, can be used as a garnish, or made into candies and jellies. Violet leaves are high in vitamins A and C and can be used in salads or cooked like spinach.  This particular plant has interesting cultural significance, as well. During the 1910s – 1950s, it was popular for lesbian and bisexual women to present violets to one another as a discreet way to show affection. This practice is thought to be rooted in the symbolism of the Greek poet Sappho, who was born on the Island of Lesbos. In one of her poems, Sappho describes herself and her lover wearing garlands of violets. It is believed that the practice of exchanging violets was popularized by people in New York, and slowly spread across the U.S.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [],
+  "seeds/packet": 50,
+  "seeds/ounce": 23000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 4,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "VIO10F"
+}

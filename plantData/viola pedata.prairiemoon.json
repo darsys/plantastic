@@ -1,0 +1,45 @@
+{
+  "name": "viola pedata",
+  "commonname": "bird's foot violet",
+  "description": "Viola pedata (Bird's Foot Violet) matures to 3\" in height and has purple flowers with orange centers. The leaves are shaped like bird's feet. Bird's Foot Violet prefers drier soil conditions; preferably sandy soils, and grows best in full sun to partial shade.  Bird's Foot Violet is a bit more fussy than the rest of the violets, but is well worth the trouble! The soil needed for Viola pedata must be well-drained, otherwise the plant could rot. Viola pedata needs to be kept free of weeds and other aggressive plants so as not to be crowded out. It's a short-lived perennial, but it will self-seed readily.  Spring is the typical bloom time, but because of the early bloom time, it's not uncommon to see many Viola species bloom again in the early Fall.     Other great shorter native plants enjoying the same sun and soil conditions include  Pasque Flower (Anemone patens wolfgangiana),  Prairie Smoke (Geum triflorum), and  Common Blue-Eyed Grass (Sisyrinchium albidum).  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 25,
+  "seeds/ounce": 26000,
+  "germination": [
+    "C(60)",
+    "D",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 3,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 6
+  },
+  "sku": "VIO12F"
+}

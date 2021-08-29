@@ -1,0 +1,70 @@
+{
+  "name": "camassia scilloides",
+  "commonname": "wild hyacinth",
+  "description": "Bulbs ship summer (July).  Wild Hyacinth, also called Atlantic Camas, is the only eastern species of its genus, which is in the Lily family and characterized by squat bulbs, similar to those of small tulips in size and shape. Its pale blue-violet flowers begin to bloom from the bottom, progressing toward the top of the spike-like raceme at the end of the plant’s central stalk.  It will thrive in full sun, but also open shade such as a woodland edge.  It likes rich, acidic soils, but can tolerate clay soils with adequate moisture, especially when it is in flower.  The bulbs are edible and were a major food source for some Native American Indian tribes and early European Settlers, but they are very hard to distinguish from Zigadenus elegans bulbs which are deadly poisinous.Attractive to a number of insects seeking nectar and pollen, Camassia scilloides re-seeds itself and, though slow to establish, is fairly long-lived.  By mid-summer, the basal leaves turn yellow and wither away and the plant remains dormant for the rest of the year.  Because of this, we favor summer and fall plantings for the bulbs, over spring. Planted summer through fall, plants will emerge the following spring.  *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code.  Dormant bulbs ship Summer (July-Aug) and Fall (October) only.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 4200,
+  "germination": [
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "CAM02F"
+}

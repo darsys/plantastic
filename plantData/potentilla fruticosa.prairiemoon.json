@@ -1,0 +1,36 @@
+{
+  "name": "potentilla fruticosa",
+  "commonname": "bush cinquefoil",
+  "description": "NEW!Our bare root shrub is shipped with approximatley 18-24” of top growth.Dormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).",
+  "prices": [],
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "POT52T"
+}

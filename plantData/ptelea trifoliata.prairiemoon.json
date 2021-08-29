@@ -1,0 +1,56 @@
+{
+  "name": "ptelea trifoliata",
+  "commonname": "wafer ash",
+  "description": "Wafer Ash, also known as Common Hop Tree, is a small, deciduous,understory shrub or tree with a thin, crooked trunk. This multi-stemmed tree is found from rocky slopes to river valleys, savannas, thickets, and woodlands. It can withstand somewhat-degraded habitats. The root system of Wafer Ash is branching; however, offspring are not produced from runners.It is the northernmost American species in the Rue (Citrus) family and a host for the Giant Swallowtail caterpillar, as the butterfly will only lay eggs on plants in the Citrus family. The flowers of Wafer Ash are greenish-white in color and are found in clusters. Their short 2-week blooming period begins in May. This species is monoecious, meaning that each plant produces both male and female flowers. Each flower is about a quarter-inch across. Male flowers lack the central pistil while females lack anthers and stamens. Flowers will attract bees, flies, and ants. After the blooming period, the tree bears wafer-like samara, a one-seeded, winged fruit. The fruit usually spans a diameter of ¾-inch. The fruit has been used as a substitute for hops in beer and the root bark has been employed in home remedies.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 600,
+  "germination": [
+    "C(60)",
+    "F"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": null,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Green"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 15
+  },
+  "sku": "PTE02T"
+}

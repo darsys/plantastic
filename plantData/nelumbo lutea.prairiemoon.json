@@ -1,0 +1,49 @@
+{
+  "name": "nelumbo lutea",
+  "commonname": "american lotus",
+  "description": "New! This is an emergent, aquatic plant sought after for its huge flower, and also for the decorative dried seed capsules.  Very large, 10\" or more across, and very fragrant flowers appear to float on the water surface; unlike Water Lilys the leaves don't rest on the water surface, they extend above.  Oddly enough, it is listed as noxious in some states and endangered in others; MN lists it as protected.  In natural wetland settings, the plant itself is about 6 feet, but only 1-2 feet of that is above the water.  American Lotus needs calm water, without turbulence or strong wave action, to thrive. To attempt seed germination, use a file or knife to nick the seed coat and then put in water to germinate (Germination Code O - see corresponding photo.  Our seed germinated after about 1 week).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 3,
+  "seeds/ounce": 17,
+  "germination": [
+    "O"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 6,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White",
+    "Yellow"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "NEL01F"
+}

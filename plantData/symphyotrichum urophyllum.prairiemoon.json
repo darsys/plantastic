@@ -1,0 +1,44 @@
+{
+  "name": "symphyotrichum urophyllum",
+  "commonname": "arrow-leaved aster",
+  "description": "Symphyotrichum urophyllum tolerates most sun conditions and sets large, showy clusters of white-blue blossoms in autumn, often causing its wide-set branches to bend. The arrow-like leaves are heart-shaped at the base with fine teeth on the edges and few if any hairs.  The central disks of the 1/2-inch compound flowers at first appear cream or light yellow but become reddish purple with age, surrounded by only 8-18 pale ray petals.  Also called Aster sagittifolius.",
+  "prices": [],
+  "seeds/packet": 1000,
+  "seeds/ounce": 135000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AST29F"
+}

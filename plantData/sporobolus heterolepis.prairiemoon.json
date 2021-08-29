@@ -1,0 +1,76 @@
+{
+  "name": "sporobolus heterolepis",
+  "commonname": "prairie dropseed",
+  "description": "When planning your garden, it is very easy to get caught up in the beauty and splendor of bold and colorful flowers. However, one must not forget about that massive family of flowering plants, the grasses. A great choice of grass for your native landscape is Prairie Dropseed, also called Northern Dropseed. Native to most of eastern North America, this species really hits its stride in the midwestern prairies. When seed stalks emerge late summer, brush up against it for a cilantro smell. It has a wonderful tussock-forming growth habit and takes on a nice golden hue all throughout the fall and winter.Being a C4 plant, it excels in hot, dry conditions where it can really soak up the sun. As with many prairie species, it responds well to fire. The seeds of this species, which drop in the fall, are a great food for seed eating birds.  Sadly, in many areas of its range Prairie Dropseed populations are in decline. Adding this species to your landscape is a great way to lend a helping hand in the persistence of Prairie Dropseed well into the future along with bringing a different element to your native landscape.  This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 225
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 16000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "SPO06G"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "maianthemum stellatum",
+  "commonname": "starry solomon's plume",
+  "description": "Starry False Solomon's Seal or Starry False Lily of the Valley. Starry Solomon's Plume is very easy to grow.  It is rhizomatous and spreads readily in many sun and soil situations, between 1-2' per year.  Attractive leaves, flowers and green berries with maroon stripes that eventually turn bright red give the plant 3-season interest.  Narrower leaves and spike-like rather than feathery white flowers differentiate it from Solomon's Plume (Maianthemum racemosa). A former latin name is Smilacina stellata.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 1100,
+  "germination": [
+    "F",
+    "L"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SMI04F"
+}

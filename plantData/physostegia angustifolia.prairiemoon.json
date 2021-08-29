@@ -1,0 +1,37 @@
+{
+  "name": "physostegia angustifolia",
+  "commonname": "narrow-leaved obedient plant",
+  "description": "Narrow-leaved Obedient Plant is rhizomatous - a fairly fast-spreading underground root system. It has a lighter flower color and earlier bloom time than Obedient Plant.  If you like genus Physostegia, it's nice to have both of these in a planting.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [],
+  "seeds/packet": 300,
+  "seeds/ounce": 22000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 5,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "PHY20F"
+}

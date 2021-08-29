@@ -1,0 +1,35 @@
+{
+  "name": "ipomoea leptophylla",
+  "commonname": "bush morning glory",
+  "description": "Due to its large root system, Bush Morning Glory (also called Man Root) is very drought-tolerant.  But, it is also difficult to move once established so choose your spot wisely.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 10,
+  "seeds/ounce": 250,
+  "germination": [
+    "A",
+    "O"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "IPO04F"
+}

@@ -1,0 +1,78 @@
+{
+  "name": "polygonatum biflorum",
+  "commonname": "solomon's seal",
+  "description": "Also called Polygonatum canaliculatum or Great Solomon's Seal, this plant has long, arching stems that dangle cream-colored flowers early spring.  Large purple seeds and golden leaves add interest in fall.  Germination takes time (note code F, below) but it is well-invested; plants spread slowly and form colonies once established.  Solomon's Seal can grow in full sun or full shade.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 800,
+  "germination": [
+    "F",
+    "L"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "POL52F"
+}

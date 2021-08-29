@@ -1,0 +1,61 @@
+{
+  "name": "silphium integrifolium",
+  "commonname": "rosin weed",
+  "description": "Before flowering, Rosin Weed can be mistaken for Milkweed. While flowering, it resembles a Sunflower although it blooms earlier than the native Sunflowers. It may be the best Silphium choice for a garden setting due to its shorter stature, ability to mature faster, and tough stem that keeps it upright with little to no surrounding plant support.  It is aggressive though, so choose a spot where it can't overwhelm smaller plants.  Though not nearly as tall and stately as its cousin, Compass Plant, Rosin Weed is nonetheless a wonderful choice for a native garden, especially if you are concerned with drought. When it comes to tolerating dry soils, few plants are as hardy as Rosin Weed.  With its deep taproot, this species will keep its composure while other plants whither.  Small rhizomes will extend from this taproot allowing it to form small colonies, albeit slowly.  Unlike many composite flowers, which have fertile disk flowers and sterile ray flowers, Rosin Weed exhibits the exact opposite. It is the showy ray flowers that are fertile.  Rosin Weed attracts a variety of pollinators but it is especially relished by some of our smaller solitary bees. The plant gets its common name from the sticky rosin it produces, which was used as a chewing gum by the Native Americans. Rosin weed is quick to mature once germinated, reaching flowering size surprisingly fast.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 1200,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "SIL52F"
+}

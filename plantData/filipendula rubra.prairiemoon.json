@@ -1,0 +1,48 @@
+{
+  "name": "filipendula rubra",
+  "commonname": "queen of the prairie",
+  "description": "Queen of the Prairie is known for its beautiful spray-like clusters of pink flowers that make it a stand out and give it its regal name. The leaves are large and deeply lobed on zigzag stems, and the plants grow to 5 feet tall. It's best grown in full sun (although they can take some shade), and prefers moist to wet soils. The roots are rhizomatous and will spread, which makes it a great plant for naturalizing in moist meadows, but be aware of the semi-aggressive nature in small garden settings.  *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code on the right. Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 23000,
+  "germination": [
+    "C(90)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "FIL02F"
+}

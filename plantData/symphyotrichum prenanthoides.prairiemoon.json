@@ -1,0 +1,59 @@
+{
+  "name": "symphyotrichum prenanthoides",
+  "commonname": "crooked-stemmed aster",
+  "description": "The narrow leaves of Crooked-stemmed Aster clasp zig-zagging stems adorned by flowers featuring 20-30 pale violet petals surrounding yellow centers.  One of the shorter Asters, it prefers wood edges, stream banks and damp thickets. It blooms in late summer and early autumn.This species is beneficial to pollinators as it attracts large numbers of native bees. Butterflies also enjoy the yellow centers and nectar. Another scientific name in use is Aster prenanthoides.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 120000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AST24F"
+}

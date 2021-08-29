@@ -1,0 +1,34 @@
+{
+  "name": "carex molesta",
+  "commonname": "field oval sedge",
+  "description": "Carex molesta Field Oval Sedge",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 25000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "sku": "CAR40G"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "dodecatheon pulchellum",
+  "commonname": "southern shooting star",
+  "description": "Back in Stock!  This beautiful, but ephemeral, herald of spring delights early pollinators, especially bumble bees. Like its many cousins in the genus, it’s a member of the Primrose family. It’s a westerly species, its native range spreading from Nebraska through the plains and mountains to the southwest and northwest, extending into Canada.Like all Shooting Stars, it thrives on spring moisture but prefers well-drained soils and tolerates light shade. Flower clusters top a round, leafless stem that rises above the rosette of oblong basal leaves. The recurved five-petaled blossoms sport brilliant magenta hues, ranging from deep pink to darker red-violet, sometimes pale to white. A white collar at the base of the petals lies above a yellow ring, under which five stamens join to form the characteristic, downward-pointing “beak.”Found naturally in alpine meadows and along stream banks, it sometimes blooms into August in parts of its range. Its many common names include Cowslip and the leading adjectives Pretty, Few-Flowered (sometimes only three per stalk), Dark Throat, Prairie and Western. Dodecatheons hybridize easily among their species.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 23.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 42.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 80
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 195000,
+  "germination": [
+    "C(21)",
+    "D",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "DOD06F"
+}

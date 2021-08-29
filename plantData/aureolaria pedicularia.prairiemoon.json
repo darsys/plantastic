@@ -1,0 +1,34 @@
+{
+  "name": "aureolaria pedicularia",
+  "commonname": "fern-leaved foxglove",
+  "description": "NEW!  An annual for very dry, even sandy conditions, and partial shade. It is hemi-parasitic so needs a host plant. See Germination Code K, right.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 63000,
+  "germination": [
+    "K",
+    "D"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "AUR04F"
+}

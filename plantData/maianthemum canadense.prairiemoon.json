@@ -1,0 +1,41 @@
+{
+  "name": "maianthemum canadense",
+  "commonname": "canada mayflower",
+  "description": "NEW!  Canada Mayflower is a small white wildflower usually found in boreal coniferous forests. It has a clonal growth form, with some clonal colonies reaching 20 square feet or more! The white flowers bloom in spring, followed by the formation of red berries into the fall. These berries are eaten by birds and small mammals, especially Ruffed Grouse, mice and chipmunks.Canada Mayflower resembles a dwarf Maianthemum racemosum (False Solomon's Seal) or a dwarf Maianthemum stellatum (Starry Solomon's Plume) and is a look-alike for the non-native Lily of the Valley (Convallaria majalis). It looks so similar that an alternative common name is False Lily of the Valley. It is a good choice for acidic soils, but it will not compete well with taller species.",
+  "prices": [],
+  "seeds/packet": 10,
+  "seeds/ounce": 1260,
+  "germination": [
+    "E?"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 8,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 6
+  },
+  "sku": "MAI01F"
+}

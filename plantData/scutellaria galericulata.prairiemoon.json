@@ -1,0 +1,30 @@
+{
+  "name": "scutellaria galericulata",
+  "commonname": "marsh skullcap",
+  "description": "New! Scutellaria galericulata, Marsh Skullcap, is a perennial\nthat grows to about 2 feet in height and displays delicate purple to blue\nblooms from June to August. The lateral stem holds alternating pairs of leaves\nwhere the flowers form. As the name suggest this species prefers wetter soils\nunder full to partial sun.  Marsh\nSkullcap has been used as an ornamental plant for years and in medicine to\ntreat various nervous disorders. There are over 200 different species of\nSkullcap in the world and here at Prairie Moon we carry; Mad-dog Skullcap,\nHoary Skullcap, Heart-leaved, and Small Skullcap.",
+  "prices": [],
+  "seeds/packet": 100,
+  "seeds/ounce": 45000,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "sku": "SCU02F"
+}

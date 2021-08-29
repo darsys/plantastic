@@ -1,0 +1,35 @@
+{
+  "name": "muhlenbergia racemosa",
+  "commonname": "upland wild timothy",
+  "description": "Upland Wild Timothy, also frequently called Marsh Muhly, is a warm season grass; it actively grows during the summer when soil temperatures are warm. It has a beautiful light green color unlike other grasses. It is also rhizomatous so can be considered somewhat aggressive and therefore should not be planted in small areas if you do not want it to overwhelm other plants.  Its ability to grow in full sun to full shade and fairly short stature makes it a nice candidate for drier areas.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 80000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "sku": "MUH08G"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "carex comosa",
+  "commonName": "bottlebrush sedge",
+  "description": "Attractive seedheads make bottlebrush Sedge a lovely addition to rain gardens, shorelines, water gardens and any reliably moist soil. The lime green “bristles” of the seeds resemble a bottlebrush, giving the plant its name. Very adaptable, it grows in any damp soil, in sun to moderate shade.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1350/product-1969.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Moist",
+    "Wet"
+  ],
+  "benefits": "Deer Resistant",
+  "height": {
+    "min": 24,
+    "max": 48
+  },
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Green"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 24
+  },
+  "root": "Fibrous"
+}

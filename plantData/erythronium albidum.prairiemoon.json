@@ -1,0 +1,67 @@
+{
+  "name": "erythronium albidum",
+  "commonname": "white trout lily",
+  "description": "Trout Lily has tulip-like green leaves with silvery-maroon mottled markings. The plants will spread slowly to form colonies, but can take many years to flower. A single, very attractive flower will bloom for just a few days on mature plants early in the spring. The plant will fade into dormancy by mid-summer.Also called dog tooth violets, these lovely spring ephemerals are just what you need to see after a long, dreary winter. White Trout Lilies are spreaders. Their underground roots will bud off new plants and in only a few seasons, a couple plants can spread into many. Trout lilies offer pollinators a much needed meal during a time when little else is available. What is even more impressive is the impact that Trout Lilies can have on their neighbors. Known as the vernal dam hypothesis, research shows that spring wildflowers like Trout Lily actually serve as nutrient pools for the entire forest. Without plants like Trout Lily, spring rains would saturate the soil, where it would then run off into local waterways, taking with it valuable nutrients like nitrogen and phosphorus. Because Trout Lilies grow well at low soil temperatures, they actually take up nutrients that would otherwise be lost during this time. When the warmer summer weather hits and the leaves die back, they then release a lot of nutrients back into soil where vigorously growing plants are ready to take it up. By choosing Trout Lilies for your landscape you are giving back to the surrounding plant communities more than you may realize!  *This species from seed may be difficult and/or slow to germinate.  Please note the germination code on the right. We are quoting William Cullina of the New England Wildflower Society and his book  Guide to Growing and Propagating Wildflowers : \"...they are certainly slow [from seed].  Germination is two-stage, with roots and bulb forming in fall and the thin, grasslike cotyledon emerging the following spring.  It is best to leave the seedlings undisturbed for a year or two, then transfer them in the fall to larger containers or a growing bed.  They will take up to five years to reach blooming size.\"   Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May). In some growing seasons, dormant roots may be available for summer (July) shipping.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 105
+    }
+  ],
+  "seeds/packet": 10,
+  "seeds/ounce": 2000,
+  "germination": [
+    "L",
+    "E",
+    "F"
+  ],
+  "light": [
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "ERY52F"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "asclepias viridiflora",
+  "commonname": "short green milkweed",
+  "description": "LIMIT 2 SEED PACKETS PER CUSTOMER PLEASE!  Asclepias viridiflora (Short Green Milkweed) matures to 1' in height and has light green to green flowers. As the plant matures, the flowers begin to turn yellowish green or purplish green. Short Green Milkweed blooms approximately in July, prefers dry mesic to dry soil conditions and full to partial sun. Asclepias viridiflora has a central taproot.  The flowers attract bumblebees and other long-tongued bees, which are the most common pollinators. Ants are also attracted to the flowers, but they are not as effective as pollinators.",
+  "prices": [],
+  "seeds/packet": 30,
+  "seeds/ounce": 3600,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "July"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 18
+  },
+  "sku": "ASC20F"
+}

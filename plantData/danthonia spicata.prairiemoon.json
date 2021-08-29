@@ -1,0 +1,64 @@
+{
+  "name": "danthonia spicata",
+  "commonname": "poverty oat grass",
+  "description": "Poverty Oat Grass is a species that can be found throughout much of the United States, save some Western states. This cool-season grass prefers light, well-drained soil in full or partial sun. It forms low tufts with basal leaves that tend to curve to right or left. Older leaves often brown and curl inward, giving it its other common name, Curly Grass. Thin flowering culms develop and rise above the tufts. This is a plant useful for a ground cover or erosion control, as it has small rhizomes and deep roots to hold soil in place and spread out easily. The small flowers also attract butterflies.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 25000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "DAN02G"
+}

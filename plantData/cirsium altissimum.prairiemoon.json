@@ -1,0 +1,48 @@
+{
+  "name": "cirsium altissimum",
+  "commonname": "tall thistle",
+  "description": "Tall Thistle lives up to its name, growing up to seven feet in height. The species name, altissimum, means “the tallest.”  Cirsium altissimum can be planted in a variety of habitats, including wooded areas, savannas, swamps, meadows, tallgrass prairies, and in a variety of disturbance levels. Tall Thistle prefers full sun with little shade and a mesic (medium) moisture soil.  It is a biennial; it will reach maturity and flower in year 2 and then die.  It is a active self-seeder though, so the cycle will continue as long as it sets seed.The flowers of are typically purple or pink, 1-2 inches in diameter. These flowers attract a wide variety of pollinators, including bumblebees, long-horned bees, swallowtail butterflies, many beetles and caterpillars. The seeds of Cirsium species are favorites of many bird species, such as goldfinches, sparrows, and indigo buntings. Do not fret about the spines of Tall Thistle. Unlike some of its relatives, the plant can be comfortably touched by bare fingers and skin.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 4800,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 84,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "CIR04F"
+}

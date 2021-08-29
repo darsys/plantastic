@@ -1,0 +1,66 @@
+{
+  "name": "alisma subcordatum",
+  "commonname": "mud plantain",
+  "description": "Mud Plantain is also called American Water Plaintain and Alisma plantago-aquatica.  It sends up a flowering stem from their clumped base leaves. The small flowers have white or pink-tinged petals. Ribbon-like leaves formed underwater rarely are seen on adult plants because they tend to rot.  A typical emergent aquatic plant, Mud Plantain's lower part is often below water while its upper part is exposed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.9
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 90
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 60000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "ALI02F"
+}

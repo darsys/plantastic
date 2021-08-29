@@ -1,0 +1,59 @@
+{
+  "name": "physocarpus opulifolius",
+  "commonname": "prairie ninebark",
+  "description": "The June-flowering plants will begin as pink buds, opening to white.  This same pink stage will appear again as the flowers turn to fruit (see corresponding photo). The bark of old stems will peel in several shades of brown giving it its common name Ninebark.  This native shrub in the Rose family can reach heights of 8-10 feet and almost as wide although older plants can be cut to the ground in the winter to maintain a smaller appearance if it is not needed as a privacy fence.  Prairie Ninebark, or sometimes referred to as Common Ninebark, provides excellent cover for birds with its numerous, arching stems.     Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).This bare root shrub is 1 year old and we trim to a height\nof approximately 12-18\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 34000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 96,
+  "blooms": [
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 6
+  },
+  "sku": "PHY02T"
+}

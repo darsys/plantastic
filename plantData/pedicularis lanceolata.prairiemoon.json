@@ -1,0 +1,58 @@
+{
+  "name": "pedicularis lanceolata",
+  "commonname": "marsh betony",
+  "description": "Marsh Betony is in the Figwort family (Scrophulariaceae) and is a hemiparasitic species that will often attach to a host plant (see Germination Code K on right). It is also referred to as Swamp Lousewort or Fen Betony. It is very different from Wood Betony (Pedicularis canadensis) in that it prefers a location that has more moisture, is much taller than Wood Betony, and blooms late summer into fall.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 44000,
+  "germination": [
+    "C(30)",
+    "K"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "PED04F"
+}

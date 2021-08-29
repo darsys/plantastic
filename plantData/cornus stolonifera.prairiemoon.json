@@ -1,0 +1,46 @@
+{
+  "name": "cornus stolonifera",
+  "commonname": "red osier dogwood",
+  "description": "A large, fast-growing shrub, usually in the 7-9' range but it can reach to 10', especially in rich, moist soils. The dark red stems against a fresh white snow may be its most attractive season, but look forward to white flowers early-spring and white to pale blue fruit late summer.  These berries are a very important food source for a number of different kinds of wildlife in the fall and winter. Also known as Cornus sericea.     Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May). This bare root tree is 1 year old and we trim to a height of approximately 12-18\".",
+  "prices": [],
+  "seeds/packet": 10,
+  "seeds/ounce": 770,
+  "germination": [
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": null,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 5
+  },
+  "sku": "COR60T"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "rosa setigera",
+  "commonname": "illinois rose",
+  "description": "Illinois Rose works well as a \"living fence\" or border, making it a great substitute for the invasive, non-native Multiflora Rose.  It is a shrub with vine-like characteristics that can form a dense row (see photo).  It is also referred to as Climbing Wild Rose or simply, Prairie Rose.*This species (in seed) may be difficult and/or slow to germinate and\ngrow to maturity.  Please note the germination code.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root tree is 2 years old and we trim to a height of approximately 18-24\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 10000,
+  "germination": [
+    "F",
+    "H"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": null,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 6
+  },
+  "sku": "ROS08T"
+}

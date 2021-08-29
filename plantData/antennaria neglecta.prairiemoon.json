@@ -1,0 +1,73 @@
+{
+  "name": "antennaria neglecta",
+  "commonname": "prairie pussytoes",
+  "description": "The late spring flowers look like tiny cat's feet, thus the name. A member of the Aster family, Prairie Pussytoes are found across much of the Midwest and Northeast.  USDA Hardiness zones: 3-7.  Pussytoes usually are grown for their velvety leaves rather than the white to pale pink flower. Flowers will reach up to about a foot in height but the leaves grow at ground level.  Spreading by rhizomes, Pussytoes provide a good ground cover for dry areas such as rock gardens.  Parts of the plant are poisonous so deer and rabbits and other small animals won't touch them.  A. neglecta and A. plantaginifolia can be difficult to differentiate between with their primary differences existing in their leaves. A. neglecta has narrower leaves with 1-2 prominent veins compared to the 3-5 prominent veins seen in the broader leaves of A. plantaginifolia.  *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code.  Dormant bare-root plants ship during optimal transplanting seasons: Spring (April-May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 105
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 200
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 275000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 6
+  },
+  "sku": "ANT02F"
+}

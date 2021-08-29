@@ -1,0 +1,66 @@
+{
+  "name": "aster laevis",
+  "commonName": "smooth aster",
+  "description": "This fabulous aster produces a profusion of lavender-blue, star-like flowers in late autumn. Extremely hardy, Aster laevis defies frosts and keeps on blooming often into November. The attractive flowers have yellow centers which turn reddish later in the season. The numerous blooms, at the end of the multiple branching stems, are each around 1.25\" across. The leaves on Smooth Aster are smooth to the touch which makes this species different from most asters. Sky Blue Aster (Aster azureus) is very similar in looks, but has rough leaves. Smooth Aster is upright with arching branches and is typically about 3' tall – the tough stem allows it to say upright throughout summer and fall. This strong garden perennial will have a long life if it's not over-crowed by other more aggressive plants. It is easily grown in average, dry to medium, well-drained soil in full sun. Attractive to butterflies seeking nectar in the fall, it is also a larval host for the Pearl Crescent (Phyciodes tharos) butterfly. Other names include: Symphyotrichum laeve, Smooth Blue Aster, Smooth American Aster. This Aster occurs naturally in open woods, dry to mesic prairies, man-made or disturbed habitats, meadows and fields.Seed Treatment: Review our seed propagation page for additional/specific information.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1622/product-2746.jpg",
+  "seeds/ounce": 48000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 48
+  },
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Blue"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "carex grisea",
+  "commonname": "wood gray sedge",
+  "description": "Despite\nthe common name, Wood Gray Sedge is not gray. This dark green sedge grows in\nclumps and the leaf blades are hairless. Wood Gray Sedge will\ntolerate disturbed sites, so it is often found along wet roadsides or trails in\nwet woodlands. \nDormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 9000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "sku": "CAR43G"
+}

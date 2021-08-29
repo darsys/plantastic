@@ -1,0 +1,51 @@
+{
+  "name": "agrimonia gryposepala",
+  "commonname": "tall hairy agrimony",
+  "description": "New!",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 650,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AGR02F"
+}

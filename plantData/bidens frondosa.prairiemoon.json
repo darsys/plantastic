@@ -1,0 +1,64 @@
+{
+  "name": "bidens frondosa",
+  "commonname": "common beggarticks",
+  "description": "Common Beggarticks is an annual; it completes its life cycle during one season but will re-seed.  Stick-tights (see detailed seed picture) are bur-like seed of some Bidens species, named as such because they stick to clothing, shoe strings, etc.    Another common name in use is Devil's Beggartick.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 5000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "BID06F"
+}

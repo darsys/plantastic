@@ -1,0 +1,71 @@
+{
+  "name": "solidago speciosa",
+  "commonName": "showy goldenrod",
+  "description": "The flower spikes of Showy Goldenrod create a spectacular show from late summer through early fall. The foot long golden wands add a distinctive flourish to the autumn landscape. Solidago speciosa is an important late season nectar source for butterflies and other pollinators.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1682/product-2515.jpg",
+  "seeds/ounce": 105000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$600.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

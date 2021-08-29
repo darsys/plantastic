@@ -1,0 +1,55 @@
+{
+  "name": "phlox pilosa",
+  "commonname": "prairie phlox",
+  "description": "There is wide variety in flower color on Prairie Phlox, from nearly white to shades of light and dark purple and pink with a slight fragrance. The shape of any Phlox is a good example of how it has evolved with the needs of the butterfly visitor in mind. The flat, broad petals serve as a landing area and the deep and narrow tube in the center of the flower is ideal for a butterfly or moth tongue.  Prairie Phlox is also often called Downy Phlox for the somewhat hairy appearance of the stems and leaves.*Our experience is that this Phlox can be difficult from seed. For best results, Fall plant seed outdoors on a prepared site (germ code M).Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 19000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "PHL10F"
+}

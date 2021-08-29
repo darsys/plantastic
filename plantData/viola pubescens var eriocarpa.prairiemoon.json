@@ -1,0 +1,34 @@
+{
+  "name": "viola pubescens var. eriocarpa",
+  "commonname": "smooth yellow violet",
+  "description": "This violet does not spread by runners or vigorously self seed like some other violets, but will spread slowly by seed in ideal growing conditions: medium moist soil and part shade. Spring is the typical bloom time, but because of the early bloom time, it's not uncommon to see many Viola species bloom again in the early Fall.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [],
+  "seeds/packet": 30,
+  "seeds/ounce": 8500,
+  "germination": [
+    "C(60)",
+    "D",
+    "M"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 6,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "VIO06F"
+}

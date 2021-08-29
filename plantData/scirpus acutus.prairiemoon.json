@@ -1,0 +1,52 @@
+{
+  "name": "scirpus acutus",
+  "commonname": "hardstem bulrush",
+  "description": "Hardstem Bulrush is a typical wetland species.  It is one of the taller bulrush species that can get as tall as six feet and can be aggressive through rhizomatous roots.  It is a cool season grass; it actively grows during the spring and fall when soil temperatures are cool. Another botanical name in use is Schoenoplectus acutus.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 20000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 72,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "SCI02G"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "ranunculus pensylvanicus",
+  "commonname": "bristly buttercup",
+  "description": "Ranunculus pensylvanicus (Bristly Buttercup) is an annual or short-lived perennial.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 37000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "RAN06F"
+}

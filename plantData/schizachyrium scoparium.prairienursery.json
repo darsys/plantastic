@@ -1,0 +1,67 @@
+{
+  "name": "schizachyrium scoparium",
+  "commonName": "little bluestem",
+  "description": "Incomparable color, all season long. The blue-green foliage of Little Bluestem provides a great backdrop for prairie flowers in summer, and then turns a striking crimson in fall. A patch of Little Bluestem waving in the wind is truly beautiful. This clump-forming grass combines well with all prairie flowers. Excels in dry sandy soils. Not recommended for heavy clay or damp soils.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1648/product-2020.jpg",
+  "seeds/ounce": 8800,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$4.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$25.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": "Dry",
+  "benefits": [
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Bronze"
+  ],
+  "root": "Fibrous",
+  "seedrate_acre": "12 Lbs",
+  "seedrate_1000sqft": "5 Oz"
+}

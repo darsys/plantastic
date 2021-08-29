@@ -1,0 +1,68 @@
+{
+  "name": "coreopsis lanceolata",
+  "commonname": "lance-leaf coreopsis",
+  "description": "Lance-leaf Coreopsis waves brightly in late spring and early summer on sunny, even hot sites with dry, sandy or poor soil. The bright yellow, daisy-like flowers are about 1 1/2\" in diameter and bloom singly on long stems. Promptly dead-head spent blossoms to prolong the bloom period. The ray petals have four deep lobes on their margins. This species also is commonly called Sand Coreopsis, or Tickseed because many think the seed looks like Ticks.\n Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 75
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 20000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 16
+  },
+  "sku": "COR02F"
+}

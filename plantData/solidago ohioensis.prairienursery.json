@@ -1,0 +1,69 @@
+{
+  "name": "solidago ohioensis",
+  "commonName": "ohio goldenrod",
+  "description": "Ohio Goldenrod (Solidago ohioensis) has a compact form that belies its large exuberant floral display, late in the season. The foliage is superb, with lush, lance-like leaves radiating out from the base. Excellent for moist clay, it also thrives in good garden soil.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1680/product-3180.jpg",
+  "seeds/ounce": 90000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 48
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Fibrous"
+}

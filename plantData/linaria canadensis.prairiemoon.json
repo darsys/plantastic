@@ -1,0 +1,28 @@
+{
+  "name": "linaria canadensis",
+  "commonname": "blue toadflax",
+  "description": "An annual/biennial that requires sandy soil.",
+  "prices": [],
+  "seeds/packet": 1000,
+  "seeds/ounce": 1400000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "sku": "LIN01F"
+}

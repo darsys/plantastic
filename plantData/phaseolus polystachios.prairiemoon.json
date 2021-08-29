@@ -1,0 +1,46 @@
+{
+  "name": "phaseolus polystachios",
+  "commonname": "wild kidney bean",
+  "description": "NEW!  Sought-after and edible, Phaseolus polystachios is the wild relative of the cultivated varieites of lima beans. Wild Kidney Bean has smaller fruits, but can be dried, stored, and cooked the same as the cultivated varities. This perennial vine will climb if given support. When the seed pods are ripe, they will twist and expell the seeds. Phaseolus polystachios is also known as Thicket Bean.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 5,
+  "seeds/ounce": 220,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 96,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "PHA02F"
+}

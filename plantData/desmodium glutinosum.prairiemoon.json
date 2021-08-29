@@ -1,0 +1,56 @@
+{
+  "name": "desmodium glutinosum",
+  "commonname": "pointed-leaved tick trefoil",
+  "description": "Desmodium Glutinosum (Pointed-leaved Tick Trefoil) is a leguminous plant found in a woodland or woods edge situation. The color is a surprising clear pink tone that is highly visible on a woodland walk. The leaves are crowded together mostly in the middle of the plant and spray outward in a loose whorl. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 840,
+  "germination": [
+    "C(10)",
+    "I"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "DES54F"
+}

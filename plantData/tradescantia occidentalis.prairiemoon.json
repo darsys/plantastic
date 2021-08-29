@@ -1,0 +1,62 @@
+{
+  "name": "tradescantia occidentalis",
+  "commonname": "western spiderwort",
+  "description": "Tradescantia occidentalis (Western Spiderwort) is native to savannas and drier prairies.  Western Spiderwort has foliage that is long and leafy, which also resembles that of the day lily. The beautiful blue green leaves of this plant make it very attractive.  It is heat and drought tolerant.  When grown in fertile soils, Tradescantia occidentalis can become aggressive and self-seeds well.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 9000,
+  "germination": [
+    "M",
+    "G",
+    "C(120)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "sku": "TRA04F"
+}

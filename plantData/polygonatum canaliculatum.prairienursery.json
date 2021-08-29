@@ -1,0 +1,73 @@
+{
+  "name": "polygonatum canaliculatum",
+  "commonName": "giant solomon's seal",
+  "description": "A larger variety of Polygonatum biflorum, Giant Solomon's Seal has larger flowers, with more flowers per cluster, and may be 4+ feet tall. The gracefully arching stems lend a strong architectural element to the prairie garden or meadow with flowers appearing in May or June. In autumn, the deep purple berries and golden in fall foliage is reason enough to plant this long-lived savanna native. Grows between two and four feet tall on any well-drained soil, from rich sand to loam and clay. Spreading slowly by rhizomes, it will form nice patches. Seeds are “double dormant” and often require two years after planting to germinate. Well worth the wait!\nOther names include Polygonatum biflorum var. commutatum",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1312/product-1318.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds",
+    "Hummingbirds"
+  ],
+  "height": {
+    "min": 24,
+    "max": 48
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "White, Cream"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Rhizome"
+}

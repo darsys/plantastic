@@ -1,0 +1,51 @@
+{
+  "name": "gentiana andrewsii",
+  "commonname": "bottle gentian",
+  "description": "Bottle Gentian are slow-growing but long-lived and require little care once established. Bumblebees are the main pollinators because they are the only insects strong enough to pry open the closed flowers (see photo). Cream Gentian is the first Gentian to bloom in late summer.  Bottle Gentian and others (see our website) may wait until September or October to lend late-season color to mostly sunny sites in medium-wet to medium-dry soils. It is a great companion with other late bloomers such as: New England Aster (Aster novae-angliae),  Obedient Plant (Physostegia virginiana), and Prairie Blazing Star (Liatris pycnostachya).  Other common names include Closed Bottle Gentian, and Andrew's Gentian.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 280000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "GEN02F"
+}

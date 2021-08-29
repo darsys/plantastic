@@ -1,0 +1,62 @@
+{
+  "name": "sphaeralcea coccinea",
+  "commonname": "scarlet globemallow",
+  "description": "The most distinct features of this delightful, small, colorful plant are the alternate leaves that are palm-like and covered in a soft, velvet layer of hair, giving the leaves a silvery appearance. The stems are not sturdy and woody, so the plant may lean over or stay close to the ground, almost like shrubbery. From May through June, reddish-orange saucer-shaped flowers will bloom in clusters at the tips of the branches, adding a pop of color to any area.  It is primarily a western species, and the one and only documented sighting as far east as MN ended tragically as our friends at Minnesota Wildflowers share here.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 8800,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Red",
+    "Orange"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "SPH02F"
+}

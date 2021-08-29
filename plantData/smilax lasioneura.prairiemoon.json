@@ -1,0 +1,65 @@
+{
+  "name": "smilax lasioneura",
+  "commonname": "common carrion flower",
+  "description": "Common Carrion Flower is a climbing vine with tendrils that\ncan grow up to 7 feet in ideal conditions, but most plants are smaller in size,\nespecially in the northern part of its range. The vine has blue-black berries\nthat are eaten by game birds and song birds, plus a number of mammals including\nblack bear and racoon. As the name suggests, the flower emits a foul odor which\nvaries in strength by ecotype. As you might guess, this species is primarily\npollinated by flies attracted by the scent, but it also attracts beetles and\nsmall bees. \nThe genus name “Smilax” is Greek for “clasping” and\noriginates from the Greek myth of Crocus and the nymph, named Smilax. Though\nthis myth is told in a number of different ways, it always centers around the\ntragic love story of a mortal man who is turned into a flower (Crocus or\nSaffron), and a woodland nymph who is transformed into a brambly vine (Smilax).\nMany plants in the Smilax genus have a bad reputation for growing\nas woody, thorny thickets, but this species is neither woody or thorny. The\nnon-woody species in the Smilax genus including Carrion Flowers and Smooth\nGreenbrair have been previously separated into the Nemexia genus,\nbut is not currently considered an accepted genus\nby most authorities in plant taxonomy. Other names for this plant include Nemexia\nlasioneura, Smilax herbacea var. lasioneura, Blue Ridge Carrion Flower, Hairy\nCarrion Flower, and Hairy-Nerved Carrion Flower.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 500,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 84,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "SMI55F"
+}

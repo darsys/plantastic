@@ -1,0 +1,66 @@
+{
+  "name": "persicaria pensylvanica",
+  "commonname": "pinkweed",
+  "description": "This annual plant can grow from one to four feet tall. Stems can range from light green to bright red. Pinkweed has large leaves, up to 7” long and 2.5” across. The root system of Pinkweed is a single taproot with smaller lateral roots. Standing water and droughts are tolerated by the plant for short periods of time. Typical habitats of Pinkweed include wet prairies, swamps, areas near rivers and ponds, marshes, ditches, and roadsides.The flowers are crowded around the central stem of the plant. Each individual flower is only about one-eighth inch. The flowers are light pink or white. Pinkweed flowers do not have a floral scent, but attract honeybees, bumblebees, leaf-cutting bees, and other insects. Many insects also feed on the leaves, roots, and other parts of the plant. Pinkweed seeds are an important food source for many bird species, including waterfowl, game birds, and some songbirds, as well as some small rodents. Several turtles, including the Snapping Turtle, Eastern Box Turtle, and Painted Turtle feed on the foliage. The leaves are bitter and peppery, so larger mammalian herbivores often avoid them. Persicaria pensylvanica is also called Pennsylvania Smartweed or Pink Knotweed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.9
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 90
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 13000,
+  "germination": [
+    "C(60)",
+    "D",
+    "?"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "POL40F"
+}

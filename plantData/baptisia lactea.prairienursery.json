@@ -1,0 +1,71 @@
+{
+  "name": "baptisia lactea",
+  "commonName": "white false indigo",
+  "description": "All prairie plants are fabulous, of course, but White False Indigo is truly a marvel among plants. Baptisia lactea (or B. alba) begins its growth cycle in spring when a slender smokey-purple stem emerges from the ground looking like a dark colored asparagus shoot. By late June it has transformed into a six foot tall, startling beautiful, flowering perennial. Long architectural spikes bearing rows of white blooms arise from a base of gray/blue foliage - all elevated on sturdy forked stems.\nIndividual White False Indigo plants are very long-lived. Young transplants can take several (up to four) years of development before they are full grown and producing flowers. The plants have a deep taproot and will not respond well to being moved, so site them carefully. Mature plants can get quite large, with a leafy growth diameter up to four feet wide.\nBaptisias support many pollinators, especially bumble bees, and is a larval host plant for several species of butterflies and moths.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1627/product-1822.jpg",
+  "seeds/ounce": 1600,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$375.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 36,
+    "max": 36
+  },
+  "root": "Taproot"
+}

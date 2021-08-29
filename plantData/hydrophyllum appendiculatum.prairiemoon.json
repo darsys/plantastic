@@ -1,0 +1,40 @@
+{
+  "name": "hydrophyllum appendiculatum",
+  "commonname": "great waterleaf",
+  "description": "Great Waterleaf is a biennial; it grows vegetatively during the first year and completes its life cycle during the second but will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 1000,
+  "germination": [
+    "E",
+    "L"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 2,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "sku": "HYD54F"
+}

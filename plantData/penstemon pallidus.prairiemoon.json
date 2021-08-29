@@ -1,0 +1,71 @@
+{
+  "name": "penstemon pallidus",
+  "commonname": "pale beardtongue",
+  "description": "Pale Beardtongue likes drier soils; rocky, gravel or sand, and blooms earlier than most other Penstemons.  The whole plant is covered in soft white hairs.  Penstemon's tubular flowers are a favorites of long-tongued bees such as bumblebees, carpenter bees, and mason bees.  Deer and rabbits generally do not show much interest in Penstemon species. The seeds are so tiny that they can be carried by the wind. \n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 180000,
+  "germination": [
+    "C(30)",
+    "D",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "PEN08F"
+}

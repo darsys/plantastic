@@ -1,0 +1,76 @@
+{
+  "name": "parthenium integrifolium",
+  "commonname": "wild quinine",
+  "description": "Parthenium integrifolium (Wild Quinine) matures to 4' and has white, dense, cauliflower-looking flowers. It prefers medium soil conditions, and grows best in full sun. Wild Quinine can be seen blooming June through September.  Wild Quinine is typically found in dry areas of prairies and open woods. The leaves have been used for tea in order to reduce fevers, hence the names Wild Quinine and American Feverfew.  The flowers attract Halictine bees, wasps, flies, and beetles. The beetles usually feed on the pollen, while the other insects seek nectar.\nPotted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 7000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "PAR02F"
+}

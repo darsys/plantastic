@@ -1,0 +1,74 @@
+{
+  "name": "silphium perfoliatum",
+  "commonName": "cupplant",
+  "description": "Cupplant is the single best species for attracting birds. It provides food, water and cover. The leaves clasp the stems to form cups that catch rainwater. Songbirds, butterflies and hummingbirds come for a drink, and in fall, goldfinches descend upon the plants to devour the seeds.*Every state has agricultural regulations that restrict the shipment of certain plants. We cannot ship this item to the following states: Connecticut",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1677/product-2380.jpg",
+  "seeds/ounce": 1400,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds"
+  ],
+  "height": {
+    "min": 36,
+    "max": 120
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 24
+  },
+  "root": "Fibrous"
+}

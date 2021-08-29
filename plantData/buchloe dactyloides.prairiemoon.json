@@ -1,0 +1,46 @@
+{
+  "name": "buchloe dactyloides",
+  "commonname": "buffalo grass - cultivar",
+  "description": "A cultivar called BOWIE, medium-green in color.  Buffalo Grass has the ability to survive the colder climates in the North and the hot, drier climates of the South. It requires little to no mowing and can withstand droughts.  It is a rhizomatous plant with maximum height of just 5\", yet a very deep root system once established, for full sun areas and medium to dry soils.   After its winter dormancy, this warm-season grass remains brown until soil temperatures warm significantly. It is best seeded in spring or summer when temperatures are trending warmer. Once established, Buffalo Grass remains green during the hottest times of summer when traditional lawns turn brown without heavy watering.  Buffalo Grass is often planted with Blue Grama and Oats as a cover crop.   Recommended seeding rate: 2-3 lbs./1000 sq.ft.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 3600,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 5,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 4,
+    "max": 6
+  },
+  "sku": "BUC02G"
+}

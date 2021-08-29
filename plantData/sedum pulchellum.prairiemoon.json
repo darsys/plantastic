@@ -1,0 +1,47 @@
+{
+  "name": "sedum pulchellum",
+  "commonname": "widow's cross",
+  "description": "BACK IN STOCK!  Widow’s Cross is an annual, hardy, tough little plant. It thrives in sunny rock gardens and is best in groups. The plant is self-seeding with vivid pink blooms with lime green, alternate leaves and a branching stem. Distinct dustings of minuscule black and red dots on its petals complete the beauty of this plant.  Distinguishing it from similar species is the way its four-petaled flowers perch on horizontal branches at the top of the plant.  The common name of Widow’s Cross refers to the cross shape of its four petals. The Latin name translates to pretty or beautiful, which is a perfect description of the vibrant coloration found during bloom. The plant offers abundant rewards of pollen and nectar to visiting pollinators.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 148000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "May"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "SED05F"
+}

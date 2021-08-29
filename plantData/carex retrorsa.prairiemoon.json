@@ -1,0 +1,53 @@
+{
+  "name": "carex retrorsa",
+  "commonname": "deflexed bottle-brush sedge",
+  "description": "Carex retrorsa has a very hard seedhead that will remain intact through Fall making it an attractive choice for any formal or Rain Garden planting.  Like most sedges, it actively grows during the spring and fall when soil temperatures are cool.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "CAR22G"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "liatris mucronata",
+  "commonname": "bottlebrush blazing star",
+  "description": "Also called Texas Blazing Star and Cusp Gayfeather, Bottlebrush Blazing Star is native to the US South Central states (see 'RANGE MAP' tab).  It can grow to 30 inches but 1-2 feet is more typical, and 18 inches wide. It is a short, showy plant with densely-congested, lavender-pink flowers on a long, thick stem. Pollinators are very attracted to these Liatris and, if left standing over winter, they also provide seeds for migrating birds. These flowers bloom in the late summer to early fall months. Keep in the sun and in dry, sandy soil for best results. An advantage to Bottlebrush Blazing Star is, as with most Liatris species, that they are deer-tolerant and rabbit-resistant.  Mature plants of this Liatris will form extremely deep root systems, like Liatris cylindracea, and will be very drought-tolerant. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 90,
+  "seeds/ounce": 4000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 24
+  },
+  "sku": "LIA07F"
+}

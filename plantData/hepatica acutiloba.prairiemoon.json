@@ -1,0 +1,53 @@
+{
+  "name": "hepatica acutiloba",
+  "commonname": "sharp-lobed hepatica",
+  "description": "This Hepatica is a small, elegant, very early bloomer that prefers well-drained woodland soil, ample moisture, and dappled light.  Flower color is most often pure white but can take on shades of pink and purple. Another latin name used is Anemone acutiloba.\n\nDormant bare root plants ship each year during optimal transplanting season: Fall (October).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 105
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 8600,
+  "germination": [
+    "F",
+    "L"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 8,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "HEP02F"
+}

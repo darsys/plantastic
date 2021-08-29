@@ -1,0 +1,54 @@
+{
+  "name": "asclepias sullivantii",
+  "commonname": "prairie milkweed",
+  "description": "Prairie Milkweed is also called Sullivant's Milkweed, named for William Starling Sullivant, an American botanist of the mid-1800's.  This Milkweed appears generally similar to Common Milkweed but is less aggressive, has slightly smaller flowers, and an overall smooth appearance on the stem, leaves and seed pods.  Visited by hummingbirds and a wide variety of bees and butterflies (including, of course, Monarchs), Prairie Milkweed is one of the plants favored by the larvae of the Milkweed Leaf-Miner fly, which bore holes in the leaves.Easily grown from seed and bearing a very fragrant flower, Prairie Milkweed makes a nice addition to any sunny medium to medium-moist garden.  After just a few years the taproot will extend very deep, protecting the plant in times of drought, but also making it difficult to move so choose your spot wisely.*Please note: Prairie Milkweed can easily hybridize with Common Milkweed.  Pure stands of A. sullivantii are still prone to having bees deposit pollen from other species of Milkweed. While most plants from this seed will be A. sullivantii, a few may show traits of A. syriaca.  Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    }
+  ],
+  "seeds/packet": 55,
+  "seeds/ounce": 4500,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ASC12F"
+}

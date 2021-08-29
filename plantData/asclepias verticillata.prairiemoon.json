@@ -1,0 +1,73 @@
+{
+  "name": "asclepias verticillata",
+  "commonname": "whorled milkweed",
+  "description": "Asclepias verticillata (Whorled Milkweed) has very skinny, \"whorled\" leaves. There are clusters of approximately 20 flowers near the top of each plant. Whorled Milkweed can bloom anytime between July and September, which is later in the year than many other Milkweeds. The white flowers can be a greenish-white on some plants. When the Whorled Milkweed is mature it reaches a height around 2'.  The nectar of the flowers attracts many kinds of insects, including long-tongued bees, short-tongued bees, wasps, flies, butterflies, skippers and beetles. Whorled Milkweed is deer and rabbit-resistant. Note that It is rhizomatous, and will spread. Dormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ASC18F"
+}

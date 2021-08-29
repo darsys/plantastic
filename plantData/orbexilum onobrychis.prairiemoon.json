@@ -1,0 +1,50 @@
+{
+  "name": "orbexilum onobrychis",
+  "commonname": "french grass",
+  "description": "Also known by the scientific name Psoralea onobrychis. French grass is native mostly to the prairies of the lower Midwestern states. The trifoliate leaves look similar to commonly cultivated Soybean crops, but French Grass can be distinguised by the long raceme of purple flowers. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 1200,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "sku": "PSO06F"
+}

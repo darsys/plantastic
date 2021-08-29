@@ -1,0 +1,65 @@
+{
+  "name": "oligoneuron album",
+  "commonname": "upland white goldenrod",
+  "description": "Low-growing (1-2') with showy silver-white blossoms in autumn, Oligoneuron album (Upland White Goldenrod) thrives on dry, sandy soils.  In the Mississippi Valley, it can be found growing in the shallow soils on rocky bluff tops. Formerly called Aster ptarmicoides, its very Solidago-like stems befits its genus reclassification.  Since being called Solidago ptarmicoides, the genus has changed again to Oligoneuron.  Many species have been reclassified as it has become cheaper to do genetic analyses of different species.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 375
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 64000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "AST26F"
+}

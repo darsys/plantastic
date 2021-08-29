@@ -1,0 +1,44 @@
+{
+  "name": "lysimachia thyrsiflora",
+  "commonname": "tufted loosestrife",
+  "description": "Tufted Loosestrife can be found native to the northern half of the United Sates and into Canada. Small yellow flowers are clustered together on hairy stems that protrude up from the leaf axils. No flowers appear at the top of the plant but appear about halfway up the plant. This clustering gives the plant a tufted look about it, hence the name Tufted Loosestrife.This plant grows in a wide variety of wetlands, including openings in forested wetlands, peatlands, wet ditches, wet meadows and marshes. A good place for Tufted Loosestrife would be in a rain garden where it can spread, or a bioswale that has dappled sunlight. This plant is also beneficial to numerous kinds of native bees for pollination. Despite the similar common names, Tufted Loosestrife is not related to the non-native, invasive Purple Loosestrife (Lythrum salicaria).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 82000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "LYS10F"
+}

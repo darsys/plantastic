@@ -1,0 +1,65 @@
+{
+  "name": "chamaecrista fasciculata",
+  "commonname": "partridge pea",
+  "description": "Partridge Pea's yellow flowers with deep-red stamens are not only a cheery summer plant, but are great favorites of bees and other pollinators. The plant’s visual appeal is enhanced by its symmetrical foliage, with blue-green leaves oppositely arranged in groups of 8-15 pairs.  The leaves retreat when touched so another name that may be used is Sensitive Plant.  These leaves are the larval host for the Sleepy Orange and Orange Sulfur butterflies.  Partridge Pea is an annual and a legume so fixes soil nitrogen and forms attractive maroon seed pods in the fall, from which it readily self-seeds in medium to dry soils, growing to 2’ in height.  These seed pods are excellent food for game birds and songbirds that spend the winter with us. It is native to much of the eastern half of the US.  It was formerly called Cassia fasciculata. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 2700,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "CAS02F"
+}

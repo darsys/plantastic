@@ -1,0 +1,31 @@
+{
+  "name": "eriophorum virginicum",
+  "commonname": "tawny cotton grass",
+  "description": "Do not be fooled by the common name of Eriophorum angustifolium, Narrow-leaved Cotton Grass, because it is a member of the sedge family; technically, not a grass at all.  It’s from the fluffy, cotton-like flower and seed head that the very recognizable plant gets its name. Its stem and leaves are simple and green, with alternating attachment. This perennial is a characteristic species in nutrient-lacking wetlands. Narrow-leaved Cotton Grass thrives in and around marshes, bogs, stream banks and wet meadows in acidic soils.In the past, the airy, white seed fronds had a variety of uses, such as candle wicks, paper, pillow stuffing, and wound dressings but no usable thread has been derived from the seed-plumes because the fibers are too short and brittle. Narrow-leaved Cotton Grass is used in traditional Alaskan native cuisine and by the Yupik people for medicinal purposes.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 43000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "sku": "ERI04G"
+}

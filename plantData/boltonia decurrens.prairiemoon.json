@@ -1,0 +1,68 @@
+{
+  "name": "boltonia decurrens",
+  "commonname": "decurrent false aster",
+  "description": "Boltonia decurrens is a heavy bloomer that can reach heights up to seven feet. Naturally adapted to flooding, it is found in open, wet bottom land. Flood controls have contributed to the species' becoming rare in parts of its native range in the central Midwest, though it is found where human disturbance creates suitable habitat.  The many aster-like blossoms produce great quantities of seeds, which often spread by water. The medium-green leaves have prominent wings that extend down the stem at the point of attachment. The white blossoms become tinged with pink or purple with age. The plant also spreads by rhizomes. Another common name in use is Claspingleaf Doll's Daisy",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 150000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 84,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "BOL04F"
+}

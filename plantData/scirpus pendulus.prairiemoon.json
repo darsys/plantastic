@@ -1,0 +1,53 @@
+{
+  "name": "scirpus pendulus",
+  "commonname": "rufous bulrush",
+  "description": "Rufous Bulrush, also known as Pendulous Bulrush or Nodding Bulrush, is an uncommon perennial wetland sedge. It is relatively tall with oblong greenish brown spikelets that turn reddish brown when blooming is over at the end of the summer. The deep green, hairless stems support five to eight alternating leaves, which often droop naturally. It is important to plant Scirpus pendulus in a place with soil that retains moisture, (organic matter is great for this) because it may otherwise wither away. Semi-aquatic leaf beetles, seed bugs, and aphids love to feed on the leaves of the Rufous Bulrush plant while ducks, rails and geese find important nutrition in the seeds. Pollinators are not drawn to this plant; it cross-pollinates through the wind.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 310000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "sku": "SCI03G"
+}

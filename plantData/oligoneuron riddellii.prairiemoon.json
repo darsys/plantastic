@@ -1,0 +1,54 @@
+{
+  "name": "oligoneuron riddellii",
+  "commonname": "riddell's goldenrod",
+  "description": "Riddell's Goldenrod tolerates and may prefer calcareous soils, which are alkaline with a pH of 7 to 8.  Dormant bare root plants ship each year during optimal transplanting season: Spring (April-May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 93000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "SOL10F"
+}

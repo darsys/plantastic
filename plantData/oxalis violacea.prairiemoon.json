@@ -1,0 +1,51 @@
+{
+  "name": "oxalis violacea",
+  "commonname": "violet wood sorrel",
+  "description": "Violet Wood Sorrel is a low-lying (4\"), shy native with small, bell-shaped violet flowers that become white with greenish lines near the blossom’s throat. Leaves and blossoms both open up to the sun, the latter exposing bright yellow anthers, and then fold with shade. Three oval-heart leaflets comprise each leaf. Native bees love this plant, which prefers well-drained soils. It wil spread readily from bulb offshoots that form small colonies in a short amount of time.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). In some growing seasons, dormant roots may be available for Summer (July) shipping.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 50000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 4,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 6
+  },
+  "sku": "OXA02F"
+}

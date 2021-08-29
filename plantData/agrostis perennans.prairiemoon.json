@@ -1,0 +1,36 @@
+{
+  "name": "agrostis perennans",
+  "commonname": "upland bent grass",
+  "description": "NEW!  A versatile perennial grass.",
+  "prices": [],
+  "seeds/ounce": 500000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sku": "AGR02G"
+}

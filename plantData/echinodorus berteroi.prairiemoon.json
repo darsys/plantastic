@@ -1,0 +1,56 @@
+{
+  "name": "echinodorus berteroi",
+  "commonname": "upright burhead",
+  "description": "Upright Burhead is a wetland short-lived perennial.  It can grow in standing water and wet mud.  Young plants could be confused with Mud Plantain, Alisma species.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 107000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "ECH72F"
+}

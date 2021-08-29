@@ -1,0 +1,59 @@
+{
+  "name": "teucrium canadense",
+  "commonname": "germander",
+  "description": "Also called Wood Sage, Wild Basil, and American or Canadian Germander, Teucrium canadense is the most widespread of the 8 Germanders native to North America. Notable pollinators include long-tongued bees, hummingbirds, and hummingbird moths (Sphinginae sub-family). When planted in the right conditions it can be aggressive or weedy, spreading by rhizomes to form large colonies. Like other plants with this reproductive method, they are not well-suited to small landscaped areas.   This plant is easy to confuse with others in the Mint family (Lamiaceae) because of its square stem, opposite leaves, and whorled zygomorphic flowers. Unlike many other mints, the leaves are bitter.   Because of its flavor, Germander was once used as a bittering agent in beer before hops became the standard. It was also often used in Native American and European folk medicine. Even in modern herbal medicine, the plant has been used in teas and capsules for weight control and lowering cholesterol. But in the 1990s it was discovered that Germander has high levels of neoclerodane diterpenoid, which causes liver damage. Use of Germander in herbal remedies has since been banned in many countries. Any perceived culinary or medicinal benefits of this plant are not worth the risk of endangering your health.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 20000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "TEU02F"
+}

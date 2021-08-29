@@ -1,0 +1,39 @@
+{
+  "name": "staphylea trifolia",
+  "commonname": "bladdernut",
+  "description": "One of the first flowers you may notice in spring could be a cluster of white bell flowers on Bladdernut.  The flowers form interesting bladder pods that persist through summer.  This is a woodland species that forms thickets from rhizomes.  Bladdernut likes rich, acidic soils.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root tree is 2 years old and we trim to a height of approximately 12\".",
+  "prices": [],
+  "seeds/packet": 30,
+  "seeds/ounce": 425,
+  "germination": [
+    "F"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": null,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 15
+  },
+  "sku": "STA02T"
+}

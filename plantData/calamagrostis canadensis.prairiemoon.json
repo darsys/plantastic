@@ -1,0 +1,67 @@
+{
+  "name": "calamagrostis canadensis",
+  "commonname": "blue joint grass",
+  "description": "Blue Joint Grass is one of the more abundant native grasses on the continent. It blooms in late spring to early summer with pink-green seeds that are attractive but not highly ornamental. Spreading quickly by shallow rhizomes in moist to wet soils, Blue Joint Grass can help to stabilize stream banks.  Buyer Beware: Some seed sellers do not clean the seeds of this (and other) species as thoroughly as we do at Prairie Moon.  If you find Blue Joint Grass at a price that seems to be too good to be true, check the seed count. If it is far lower than our estimated 280,000 seeds per ounce, then their weight probably includes chaff and other plant parts, which is no bargain! This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 280000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "CAL02G"
+}

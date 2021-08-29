@@ -1,0 +1,67 @@
+{
+  "name": "penstemon grandiflorus",
+  "commonname": "large-flowered beardtongue",
+  "description": "Large-flowered Beardtongue prefers full sun to partial shade, dry mesic to dry conditions, and poor soil containing rocky material or sand. When mature it can reach heights of 2'. Its stunning large, tubular pink to purple flowers bloom for just a few weeks in May or June.  This plant is endangered in some states and is typically rare to see in the wild. Bumblebees like to visit the flowers for nectar and this plant is well liked by birds. Penstemon grandiflorus is one of the showiest of all Penstemons! In the past Native Americans treated toothaches by chewing the root pulp of this plant and then placing it in the cavity. Large-flowered Beardtongue is loved by bees and hummingbirds and is drought tolerant.  Other common names include Showy Beardtongue, Pink Beardtongue, Shell-leaf Beardtongue, Canterbury Bells, and Wild Foxglove.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 14000,
+  "germination": [
+    "C(30)",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "PEN06F"
+}

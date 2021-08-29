@@ -1,0 +1,46 @@
+{
+  "name": "boechera canadensis",
+  "commonname": "sicklepod",
+  "description": "Sicklepod is a biennial plant (it will bloom the second year of its two-year life cycle) and prefers rocky soils. The first year of its life it will form a low rosette of leaves. The second year there will be a tall flowering stem that has alternate leaves. The nectar and pollen of the small white flowers attracts mainly small bees and flies. The fruit is a bean-shaped pod about four inches long. The individual seeds themselves are egg-shaped with a papery wrapping surrounding them. It was previously known scientifically as Arabis canadensis.  Another scientific name is Borodinia canadensis, and another common name is Canadian Rock Cress.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 75000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "BOE02F"
+}

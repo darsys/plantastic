@@ -1,0 +1,72 @@
+{
+  "name": "anemone cylindrica",
+  "commonname": "thimbleweed",
+  "description": "Thimbleweed has a tall, upright stem rising from clumped basal leaves with a whorl of three or more deeply-lobed leaves. The greenish white flowers fruit into a greenish white elongated cluster that resembles the rough part of a thimble. In Greek mythology, a jealous goddess transformed the nymph Anemone into a flower, eternally at the mercy of the north wind.  Also called Long-Fruited Thimbleweed, Anemone cylindrica prefers dry, open spaces.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 26000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 8
+  },
+  "sku": "ANE06F"
+}

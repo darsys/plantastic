@@ -1,0 +1,50 @@
+{
+  "name": "astragalus crassicarpus",
+  "commonname": "ground plum",
+  "description": "Astragalus crassicarpus provides beauty and interesting texture and form in every part of the plant and stage of development. A low-growing, spreading legume, it prefers full sun and well-drained soils. It has pinnate leaves and, in spring, clusters of pea-like blossoms with hues of lavender, purple and white. The thick-walled seed pods typically rest on the ground.  Accounts of food use abound and the young pods are said to have the texture and flavor of garden peas; however, some Astragalus species are toxic so consumption without positive identification is inadvisable.  Species of genus Astragalus are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 5200,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 18
+  },
+  "sku": "AST54F"
+}

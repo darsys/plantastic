@@ -1,0 +1,24 @@
+{
+  "name": "carex tonsa",
+  "commonname": "shaved sedge",
+  "description": "New! One of the earliest sedges to appear in the Upper Midwest.",
+  "prices": [],
+  "seeds/packet": 25,
+  "seeds/ounce": 20000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 5,
+  "blooms": [
+    "April"
+  ],
+  "sku": "CAR88G"
+}

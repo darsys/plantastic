@@ -1,0 +1,62 @@
+{
+  "name": "andropogon gerardii",
+  "commonname": "big bluestem",
+  "description": "Big Bluestem is a warm season grass; it actively grows during the summer when soil temperatures are warm.  It is a big plant, getting over six feet tall in most situations.  In a landscape it can be used as an accent.  It has great fall color in the range of gold and pink.  So well-known as a 'must have' in any tallgrass prairie and a native range of most of North America, 'Big Blue' really has no other common names in use.\nThis seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.\nDormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).\nPotted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 10000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 84,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AND02G"
+}

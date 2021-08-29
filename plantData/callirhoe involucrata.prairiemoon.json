@@ -1,0 +1,68 @@
+{
+  "name": "callirhoe involucrata",
+  "commonname": "purple poppy mallow",
+  "description": "Purple Poppy Mallow, also known as Winecup, is a widespread native plant, although some regions by introduction. Its range today stretches from Oregon to Florida, Texas to Michigan. It is typically located in open woods, thickets, and on rocky hills. Because of its long taproot, Purple Poppy Mallow is very drought-resistant, but will also become difficult to move after just a few years so choose your spot wisely.Purple Poppy Mallow is mat-forming like Bush's Poppy Mallow, making excellent native ground covers.  Its stems spread out about three feet from the base and under a foot tall. The flowers are chalice-shaped (thus the name Winecup) and are about 1.5-2.5 inches in diameter. Their petals are white at the base and gradually become maroon or deep pink at the tips. The flowers open in the morning, but close in the evening. After pollination, the flowers remain closed.  In ideal conditions, relatively dry, well-drained soil and full sun, it will self-seed well. We sell this seed dehulled, as in the seed image, above.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 25,
+  "seeds/ounce": 2100,
+  "germination": [
+    "B",
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 6,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "CAL53F"
+}

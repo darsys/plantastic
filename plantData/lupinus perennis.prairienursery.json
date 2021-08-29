@@ -1,0 +1,57 @@
+{
+  "name": "lupinus perennis",
+  "commonName": "lupine",
+  "description": "The unmistakable blue spires of Lupine are a welcome sight in late spring and early summer. Lupine thrives in dry sandy soils where so many other plants perish, but it will not do well in clay soils. Plant it in sandy soils with Lanceleaf Coreopsis and Prairie Smoke for early season color. Lupine is a low growing plant, with beautiful palmate foliage. \nLupine is the only host plant for the rare Karner Blue butterfly. Habitat loss has led to the decline in Lupine plants in the wild, and put the Karner Blue on the endangered species list. Leaves that have been fed upon by Karner blues have distinctive transparent areas where the caterpillars have selectively eaten the green fleshy parts. Lupine is also a host plant for the Frosted Elfin and the Eastern Persius Duskywing butterflies. ",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1663/product-2867.jpg",
+  "seeds/ounce": 1000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": "Sand",
+  "moisture": "Dry",
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Blue"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Taproot"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "scirpus validus",
+  "commonname": "great bulrush",
+  "description": "Great Bulrush is aggressive and therefore may not be suitable for small landscape plantings.  It is a  cool season grass , meaning it actively grows during the spring and fall when soil temperatures are cool.   \nGreat Bulrush is also commonly called Softstem Bulrush, and botanically, Schoenoplectus tabernaemontani.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 31000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 72,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 4
+  },
+  "sku": "SCI08G"
+}

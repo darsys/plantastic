@@ -1,0 +1,47 @@
+{
+  "name": "desmanthus illinoensis",
+  "commonname": "illinois bundle flower",
+  "description": "Desmanthus illinoensis (Illinois Bundle Flower) is bushy and smooth, growing up to 4' tall. Flowering June through August, the round clusters appear fuzzy due to long stamens projecting from each flower.  These flowers will be visited by some small nectaring bees.  The small numerous paired leaflets are delicate in appearance and resemble those of a fern. Larger, mammal visitors, like rabbits and deer will find this fern-like foliage irrestible.  When seedpods form, these nutritous seeds will bring in various gamebirds including Pheasants, Quail and Prairie Chickens. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 4200,
+  "germination": [
+    "A",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "White",
+    "Yellow"
+  ],
+  "sku": "DES02F"
+}

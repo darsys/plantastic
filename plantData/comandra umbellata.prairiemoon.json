@@ -1,0 +1,42 @@
+{
+  "name": "comandra umbellata",
+  "commonname": "bastard toadflax",
+  "description": "Bastard Toadflax is a hemiparasitic species in the Sandalwood family that will often attach to a host plant to meet nutritional and/or water needs. (see Germination Code K, right). Please note, this seed is VERY difficult to germinate. Since this species is usually found in dry or rocky sites, short grass species with similar requirements (Little Bluestem, Side-oats Grama, June Grass, etc.) should provide the proper host but other dry species may work as well.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 5,
+  "seeds/ounce": 700,
+  "germination": [
+    "K",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 9,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Green"
+  ],
+  "sku": "COM10F"
+}

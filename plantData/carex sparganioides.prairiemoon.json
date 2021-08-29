@@ -1,0 +1,31 @@
+{
+  "name": "carex sparganioides",
+  "commonname": "bur-reed sedge",
+  "description": "New! A nice sedge that tolerates full shade and medium to moist soils.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 19000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "sku": "CAR56G"
+}

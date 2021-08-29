@@ -1,0 +1,39 @@
+{
+  "name": "potentilla paradoxa",
+  "commonname": "bushy cinquefoil",
+  "description": "New!  Bushy Cinquefoil is an annual or perennial; it completes its life cycle during 1-2 seasons but will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 222000,
+  "germination": [
+    "C(90)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 16,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "POT05F"
+}

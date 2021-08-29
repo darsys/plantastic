@@ -1,0 +1,63 @@
+{
+  "name": "vernonia gigantea",
+  "commonname": "tall ironweed",
+  "description": "A member of the Sunflower family (Asteraceae), Tall Ironweed, also called Giant Ironweed, has showy bright magenta flowers that bloom in late summer to early fall. It is a great way to attract pollinators because it serves as a late-season nectar source. The caterpillars of some moths feed on Ironweed species, including Grammia parthenice (Parthenice Tiger Moth), Perigea xanthioides (Red Groundling), and Papaipema cerussata (Ironweed Borer Moth). Other insect feeders include the larvae of Asphondylia vernoniae (Ironweed Bud Midge) and Youngomyia podophyllae (Ironweed Blossum Midge), which form galls on the buds and flowerheads respectively. Both Oecanthus quadripunctatus (Four-Spotted Tree Cricket) and Conocephalus brevipennis (Short-winged Meadow Katydid) also feed on this plant. Like milkweeds (Asclepias spp.) ironweeds (Vernonia spp.) are bitter to the taste, so herbivorous animals like deer and cattle will avoid consuming it.   This species is found most often on the eastern side of the Mississippi River valley. Tall Ironweed prefers wet soil conditions and full sun exposure. This plant spreads by rhizomes to form clumps. Because it can spread aggressively, Tall Ironweed is often categorized as a common pasture weed, but is endangered in New York. It will readily self-hybridize with other Vernonia spp. like Vernonia fasciculata (Common Ironweed) , Vernonia missurica (Missouri Ironweed), Vernonia baldwinii (Western Ironweed), and Vernonia noveboracensis (New York Ironweed) which can make plant ID difficult in the field.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 28000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "sku": "VER10F"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "symphyotrichum pilosum",
+  "commonname": "frost aster",
+  "description": "The many daisy-like flowers of Symphyotrichum pilosum have yellow centers that may become reddish with age. These are surrounded by many (16-35) white ray florets that may be tinged with blue or violet. The flowering stems have needle-like leaves and tend to be erect or horizontal.  Frost Aster helps to extend the floral season, blooming for about six weeks in autumn. Its common name derives from tiny white hairs that sometimes lend its leaves a hoary appearance.  Frost Aster is aggressive, spreading by seeds and rhizomes.   Another scientific name in use is Aster pilosus.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 140000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AST22F"
+}

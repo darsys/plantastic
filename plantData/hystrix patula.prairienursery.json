@@ -1,0 +1,67 @@
+{
+  "name": "hystrix patula",
+  "commonName": "bottlebrush grass",
+  "description": "The seedheads of Hystrix patula resemble a bottlebrush. This cool season grass grows actively during the spring and fall when soil temperatures are cool. Bottlebrush Grass provides texture and interest in shaded areas and is perfect for planting under oaks and other deciduous trees that allow some light to penetrate to the forest floor. Hystrix patula is included in our Woodland edge seed mix. This grass is also known as Elymus hystrix.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1643/product-1740.jpg",
+  "seeds/ounce": 4700,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$50.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$150.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$270.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": "Deer Resistant",
+  "height": {
+    "min": 24,
+    "max": 60
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "color": [
+    "Straw"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

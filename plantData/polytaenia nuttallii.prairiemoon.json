@@ -1,0 +1,50 @@
+{
+  "name": "polytaenia nuttallii",
+  "commonname": "prairie parsley",
+  "description": "Prairie Parsley can be easily mistaken for Wild Parsnip, an invasive non-native weed. Note the distinguishing leaf on the Prairie Parsley in the corresponding photo that looks like flat leaf or Italian parsley, while a Wild Parsnip leaf does not.  Prairie Parsley is a biennial; it dies after it flowers and sets seed. It will come back from the seed it sets however.As a member of the Parsley-Carrot family (Apiaceae), it is a host plant for caterpillars of the Black Swallowtail (Papilio polyxenes asterius).  Other mammals, including cattle and deer, also seem to enjoy the foliage. Given this, and the fact that it also has a long seed stratification time, it is an increasingly rare and conservative plant and should be planted more.Foragers report that the seeds are an acceptable substitute for dill in flavor, the leaves can be boiled, and the tap root, supposedly in desperate times, could be boiled or grilled, but the favor is not good. Given the similarity in appearance with many other plants, native and non, we would not suggest eating any part of Prairie Parsley.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 4000,
+  "germination": [
+    "C(120)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "POL72F"
+}

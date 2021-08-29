@@ -1,0 +1,75 @@
+{
+  "name": "penstemon hirsutus",
+  "commonname": "hairy beardtongue",
+  "description": "Open clusters of trumpet-shaped, lavender flowers grace Hairy Beardtongue from late May to late June, attracting bumblebees, butterflies and hummingbirds. Its early bloom time and hairy stems distinguish it from other Beardtongues. Its preference ranges for medium-wet to dry soils in varied sun conditions make it a versatile choice for home landscaping.Plants typically are 1-2’ tall with opposite, stemless lance-shaped leaves with toothed margins. The blossom shades range from pale hues of purples and blues to white. The long, thin blooms have five petals with a protruding, hairy lower lip that evokes the species’ common name.Because its native range is concentrated in eastern North America, Penstemon hirsutus sometimes is called Northeastern Beardtongue.Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 248000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 18,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 12
+  },
+  "sku": "PEN07F"
+}

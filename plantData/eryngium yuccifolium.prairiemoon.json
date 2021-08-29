@@ -1,0 +1,76 @@
+{
+  "name": "eryngium yuccifolium",
+  "commonname": "rattlesnake master",
+  "description": "Eryngium yuccifolium (Rattlesnake Master) matures to a height of 4' and has white \"bristly\" flowers.  It is typically found in medium-wet to medium soils and prefers sites with full sun.  The latin name, Eryngium yuccifolium, comes from the fact that the leaves look very much like a Yucca plant.  In the past Rattlesnake Master has been used medicinally by Native Americans as a diaphoretic. The roots have also been used to treat liver troubles.  Other common names include Button Snakeroot, Yucca-leaf Eryngo, Corn Snakeroot, Water-eryngo, Rattlesnake Flag, and Rattlesnake Weed.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 7500,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ERY02F"
+}

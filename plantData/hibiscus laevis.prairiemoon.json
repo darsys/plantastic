@@ -1,0 +1,76 @@
+{
+  "name": "hibiscus laevis",
+  "commonname": "rose mallow",
+  "description": "The large, lovely and plentiful blossoms of Hibiscus laevis evoke associations with its more tropical cousins in southeast settings. The flowers are light pink, darkening toward the center and, like orchids, feature a central column that combines the flower’s sexual parts, pistil and stamens. Rose Mallow prefers sunny, wetter areas, where it is slow to develop in spring but grows and blooms dramatically in the heat of summer. Its thick stems transfer nutrients from a massive rootstock.  Other names in use are Hibiscus militaris, Smooth Rose Mallow and Halberd-leaved Rose Mallow (likening its lobed leaves to an ancient sword).\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.Fun fact: Marshmallows were born from the sweet sap of the Mallow plant, found throughout the word in wet locations like Marshes.  Marsh + Mallow. Over 2000 years ago, Ancient Egyptians used sap from the Mallow root, mixed with honey and grain to make cakes for their Pharaohs. Hipppocrates also cherished the sweet sap in his medical treatments. Fast forward to the 15th centuries and we find evidence of sweet mallow liquids as treatments for sore throats, toothaches, and diarrhea. Leave it to the French to change the use of the Mallow plant from mainly medicinal to a candy in the 1800's.  French Confectioners found that mallow sap boiled with corn syrup and egg whites created the delictable, soft treat, found today at the end of our campfire sticks!",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 2800,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "HIB02F"
+}

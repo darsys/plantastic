@@ -1,0 +1,41 @@
+{
+  "name": "ruellia strepens",
+  "commonname": "smooth wild petunia",
+  "description": "Do you love hummingbirds? If so, Smooth Wild Petunia, also called Smooth Ruellia, will attract them (as well as a variety of other pollinators) to your gardens, while being resistant to deer.  Ruellia strepens typically flourishes in rich thickets, open woods and along streams and ponds, where for two to three summer months they sport trumpet-shaped blossoms, pinkish-lavender to blueish-violet with a white base. Their stems are long with alternating leaves and they are much less hairy than other members of the species; hence the name Smooth Wild Petunia.  A fun characteristic of Ruellia strepens is that once the flowers have finished blooming, they are replaced with seed capsules containing several seeds.  These capsules explode, projecting seeds several feet.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 6800,
+  "germination": [
+    "C(70)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "sku": "RUE04F"
+}

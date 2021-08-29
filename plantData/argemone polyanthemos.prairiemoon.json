@@ -1,0 +1,44 @@
+{
+  "name": "argemone polyanthemos",
+  "commonname": "prickly poppy",
+  "description": "Prickly Poppy is an annual of sandy soils, including flood plains and uplands, often preferring soils of poor quality. It is native to the Great Plains and further west. Its large flowers are white and crinkled with a bright yellow center. It has and a waxy green or blue-green stem that is somewhat prickly. All parts of the plant are poisonous, so this in combination with its prickles causes grazers to avoid it. The long succession of showy blooms makes the Prickly Poppy a good candidate for landscaping.",
+  "prices": [],
+  "seeds/packet": 70,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ARG08F"
+}

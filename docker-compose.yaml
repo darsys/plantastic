@@ -1,0 +1,24 @@
+version: '3.5'
+services:
+  plantastic:
+    container_name: plantastic
+    image: mcr.microsoft.com/vscode/devcontainers/javascript-node:14
+    # restart: unless-stopped
+    # user: node
+    # entrypoint: /usr/local/share/docker-init.sh
+    command: sleep infinity
+    volumes:
+      - /var/run/docker.sock:/var/run/docker-host.sock
+      - /share/Sync/projects/plantastic:/plantastic:cached
+    ports:
+      - "3003:3000"
+    # environment:
+    #   - PHP_TZ="America/Chicago"
+
+# volumes:
+#   etc:
+
+networks:
+  default:
+    external:
+      name: services_bridge

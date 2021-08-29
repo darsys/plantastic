@@ -1,0 +1,40 @@
+{
+  "name": "solidago caesia",
+  "commonname": "blue-stemmed goldenrod",
+  "description": "Blue-stemmed Goldenrod, sometimes referred to as Wreath Goldenrod, is a well-behaved woodland species. It forms attractive loose clumps with arching stems and long, thin leaves. Small clusters of bright yellow flowers form in the leaf axils for about half the stem's length. Stem color in mature plants has a dark, somewhat bluish tone.  Whatever your preference or situation may be, there is a goldenrod to suit all occasions. Sadly, goldenrods often get blamed for causing the dreaded hayfever. This is simply not true. Their pollen is quite large and sticky so as to better adhere to the body of visiting insects. Because of this, goldenrod pollen cannot become airborne and can never make its way into your sinuses. The true cause of hayfever is the wind pollinated ragweeds, which broadcast copious amounts of lightweight pollen into the air. We cannot stress enough how important goldenrods are on the landscape. Including them on your property will provide ecosystem services well into the fall when most other plant life is shutting down.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 112000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "SOL07F"
+}

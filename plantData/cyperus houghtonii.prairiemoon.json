@@ -1,0 +1,42 @@
+{
+  "name": "cyperus houghtonii",
+  "commonname": "houghton's flat sedge",
+  "description": "Found in open, sandy sites, Cyperus houghtonii (Houghton's Flat Sedge) is rare or threatened through much of its native range but is found in healthy populations in Wisconsin.  Commonly associated with disturbed areas, the plant forms a hard, corm-like rhizome. Smooth leaves angle sharply from common points on the unbranched stem and a spiky flower forms in mid-summer. It is very similar to Cyperus schweinitzii (Rough Sand Sedge).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 32000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "sku": "CYP03G"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "helianthus laetiflorus",
+  "commonName": "showy sunflower",
+  "description": "Aptly named, this is one of the largest and showiest of all the native sunflowers. The high contrast between the bright yellow petals and dark black centers give this sunflower a distinctive appearance. Blooming late in the summer, the seeds ripen just in time for migrating birds to gorge on them as they make their long journey south. Growing three to six feet tall, it spreads rapidly by rhizomes, so give this plant some room. Plant in patches for best effect.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1290/product-1296.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$600.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay",
+    "Gravel"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds"
+  ],
+  "height": {
+    "min": 36,
+    "max": 72
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Rhizome"
+}

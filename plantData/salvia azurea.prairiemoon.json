@@ -1,0 +1,62 @@
+{
+  "name": "salvia azurea",
+  "commonname": "blue sage",
+  "description": "Salvia azurea, Blue sage is an easy and beautiful plant for medium to somewhat dry soils. This is a Salvia that has no trouble over-wintering in southern Minnesota without winter protection even though it originates in the middle states.  In a prairie planting or naturalized setting the unusual clear blue blooms are visible from a distance despite the plants relative sparseness. If you rub or brush against the leaves they will emit the aromatic smell typical of Salvia species. The bloom period of Blue Sage is in late summer through early fall, attracting lots of bees and butterflies to the nectar.  This plant has a tendency to \"lodge\" or flop over, especially in rich soils, so if you are not growing it in a plant community with grasses and other clumps to lean on, avoid fertilizer and possibly pinch or stake and provide sturdy neighboring plants with more mass to them.  Salvia azurea is easy to grow from seed and will spread a bit by seed into adjacent open areas.  This species might also be called Azure Blue Sage or Pitcher Sage.Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 7000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "SAL04F"
+}

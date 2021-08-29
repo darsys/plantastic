@@ -1,0 +1,72 @@
+{
+  "name": "eurybia macrophylla",
+  "commonname": "big-leaved aster",
+  "description": "Big-Leaved Aster gets its common name from its large, heart-shaped foliage, which has coarse-toothed edges reaching 8\" across.. It's often planted for these large leaves as a shaded ground cover rather than for the sometimes sparse fall flowers. The flowering stems reach one to two feet in height, topped by blossoms with 9 to 20 thin, white-violet rays surrounding a yellow center. Eurybia macrophylla is common to northern woodlands, where it often forms a dense ground cover, spreading by rhizomes.  Another scientific name in use is Aster macrophyllus Dormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 27000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 36
+  },
+  "sku": "AST16F"
+}

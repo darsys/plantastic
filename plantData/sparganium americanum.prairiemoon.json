@@ -1,0 +1,50 @@
+{
+  "name": "sparganium americanum",
+  "commonname": "american bur reed",
+  "description": "A forb (wildflower) that could be confused for a grass.  Grass-like stalks boast yellowish-white small ball flowers in summer, followed by green-brown fruit (seed heads). Found in the wettest of soils, it's a great aquatic/emergent plant to place in or near stream banks, lake shores, pond edges, etc. The flowers will attract native pollinators, the seeds are an important food source for waterfowl and muskrats will feed on the entire plant. American Bur Reed is listed as endangered in IL.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 4000,
+  "germination": [
+    "F",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "SPA01F"
+}

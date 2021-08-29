@@ -1,0 +1,47 @@
+{
+  "name": "asclepias hirtella",
+  "commonname": "tall green milkweed",
+  "description": "Asclepias hirtella (Tall Green Milkweed) matures to 4' in height and has white-green flowers that tend to be the most prolific of the upland Milkweeds.  Each umbel has up to 100 flowers.  Another characteristic is its narrow, alternate leaves; most Milkweeds have opposite leaves.  Similar in appearance in flower color and narrow leaves is Whorled Milkweed; but it is shorter and has thinner leaves.   Tall Green MIlkweed prefers medium-wet through dry soil conditions and grows best in full sun to partial shade.  It will reproduce by seed rather than by its central taproot which makes the plant very drought-tolerant.  Like most Milkweeds, it blooms mid-summer: June, July, and August.  It is attractive to butterflies and bees mostly notably honeybees, bumblebees, and leaf-cutting bees.",
+  "prices": [],
+  "seeds/packet": 50,
+  "seeds/ounce": 4300,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ASC06F"
+}

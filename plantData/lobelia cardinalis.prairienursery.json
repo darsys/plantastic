@@ -1,0 +1,73 @@
+{
+  "name": "lobelia cardinalis",
+  "commonName": "cardinal flower",
+  "description": "The scarlet blooms on Cardinal Flower can last for a month or longer in late summer. The bright red flowers offer an important nectar source for hummingbirds and swallowtail butterflies. Occurring naturally in wetlands, Lobelia cardinalis requires a moist, rich soil and responds magnificently to cultivation. Short lived, it may require replanting every few years, but is well worth the effort.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1661/product-1846.jpg",
+  "seeds/ounce": 300000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$32.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$48.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$80.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$1,200.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Moist",
+    "Wet"
+  ],
+  "benefits": [
+    "Butterflies",
+    "Hummingbirds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 60
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Red"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

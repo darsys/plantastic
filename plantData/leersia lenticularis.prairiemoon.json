@@ -1,0 +1,28 @@
+{
+  "name": "leersia lenticularis",
+  "commonname": "catchfly grass",
+  "description": "Catchfly Grass grows in shady river bottoms and moist forests that are seasonally flooded, or on shaded slopes with groundwater seepage, especially where the forest canopy is thin. It does best in areas that are sunny or only partially shaded, where it will spread rhizomatously. It is native to most Midwestern, South and Southeastern states. Catchfly Grass is currently threatened in the state of Minnesota due to alterations to the natural water level cycles along the Mississippi River. This is primarily caused by controlled shipping traffic, upstream water pollution, and invasive species. It is limited to the southeastern corner of the state, as that is the northernmost extent of its range.",
+  "prices": [],
+  "seeds/packet": 45,
+  "seeds/ounce": 5300,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "zones": [],
+  "sku": "LEE01G"
+}

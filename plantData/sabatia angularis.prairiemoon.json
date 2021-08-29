@@ -1,0 +1,31 @@
+{
+  "name": "sabatia angularis",
+  "commonname": "rosepink",
+  "description": "Rosepink is of the Gentiana family so it is also called Rose Gentian.  It is a biennial meaning it grows vegetatively during the first year and completes its life cycle during the second but will re-seed.  Also known as Marshpink or Bitterbloom, Rosepink flowers can be all shades of pink to nearly white.",
+  "prices": [],
+  "seeds/packet": 300,
+  "seeds/ounce": 130000,
+  "germination": [
+    "C(90)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "SAB02F"
+}

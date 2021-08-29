@@ -1,0 +1,65 @@
+{
+  "name": "helianthus angustifolius",
+  "commonname": "swamp sunflower",
+  "description": "NEW! This late blooming sunflower is an excellent choice for a damp sunny spot in a garden.  Its salt tolerance makes it suitable for coastal gardens as well.  Swamp Sunflower has attractive, dark green foliage throughout the growing season and puts on a show of bright yellow blooms in the fall.  Unlike other species in its genus, Helianthus angustifolius doesn't spread aggressively, but rather forms a gradually growing clump.Swamp Sunflower grows in sunny wet habitats throughout the southeastern U.S., you may even see it in roadside ditches.  The leaves can serve as a host plant for the Silvery Checkerspot butterfly among others.  By attracting butterflies and caterpillars, it offers a food source for many species of birds including waxwings, orioles, thrushes, and cardinals.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.9
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 90
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 29200,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 96,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "HEL40F"
+}

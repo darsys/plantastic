@@ -1,0 +1,40 @@
+{
+  "name": "gentiana puberulenta",
+  "commonname": "downy gentian",
+  "description": "Gentiana puberulenta, Downy Gentian, is often found growing in short clumps (12”) in areas that are minimally disturbed. Downy Gentian prefers drier soils with full sun to partial shade. It is always a delight to see the relatively large deep blue-violet flower bloom during the late summer months of August into early October when the golden fall colors dominate.  The flowers of Downy Gentian open in the morning and then close at night, or they can remain closed during cloudy weather. It can survive an autumn frost but does not do well in extreme heat or prolonged drought. This flower is also pollinator friendly and will attract many types of bees late in the season. The name ‘Gentian’ actually comes from King Gentius, who discovered and benefited from the medicinal properties of the Gentiana genus. The roots of Downy Gentian in particular are said to be an antidote to certain snakebites, and it has anti-inflammatory and antiseptic properties. *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 435000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "GEN09F"
+}

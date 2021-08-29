@@ -1,0 +1,67 @@
+{
+  "name": "lespedeza capitata",
+  "commonName": "roundhead bushclover",
+  "description": "Plant this native Lespedeza for the birds: The sturdy stalks make excellent perches, and the seeds are retained late into the fall and winter, serving as an important food supply for our feathered friends. The inconspicuous white flowers emerge in summer on three to five foot tall stems, but the main attraction is the bronze seedheads that provide autumn and winter color. Prefers dry, well-drained soils, and does particularly well on dry, sandy soils. Grows in full sun to very light shade.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1296/product-1302.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Gravel"
+  ],
+  "moisture": "Dry",
+  "benefits": [
+    "Birds",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Taproot"
+}

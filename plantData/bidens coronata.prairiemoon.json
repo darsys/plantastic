@@ -1,0 +1,66 @@
+{
+  "name": "bidens coronata",
+  "commonname": "tall swamp marigold",
+  "description": "Damp spot? Tall Swamp Marigold or any of the Bidens species will give you glorious yellow color from late summer through late fall. Bidens coronata is similar to Bidens aristosa mutica but can be distinguished by flower bracts that are curly and sparsely fringed or bristled.  Tall Swamp Marigold is an annual; it completes its life cycle during one season but will re-seed.  Sticktights (see detailed seed picture) are the bur-like seeds of some Bidens species, so named because they stick to clothing, shoestrings, etc.   Other common names in use: Crowned Beggarticks, Tall Tickseed-sunflower.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 6500,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "BID04F"
+}

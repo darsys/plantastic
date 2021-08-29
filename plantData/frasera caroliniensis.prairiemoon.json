@@ -1,0 +1,46 @@
+{
+  "name": "frasera caroliniensis",
+  "commonname": "american columbo",
+  "description": "American Columbo is an herbaceous, perennial plant with basal leaves in a rosette pattern. This rather unusual plant will remain short, not flowering for many years (sometimes 15 or more), until it shoots up to nearly eight feet tall and blooms. The stem of this flower shoot is green to purple in color. The flowers themselves are light green to white, with four petals and a central green ovary. It is not a very common plant in the eastern part of North America. It is listed as Threatened in New York and Endangered in Pennsylvania.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 3000,
+  "germination": [
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 72,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "FRA10F"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "symphyotrichum novae-angliae",
+  "commonname": "new england aster",
+  "description": "New England Aster is a late bloomer like most Asters. Maturing to 5' tall, it is rich with purple flowers with orange-yellow centers from late summer to October. Popular with pollinators, it thrives in full sun or light shade in all but the driest soils. Before New England Aster blooms, it is easy to identify the plant because of the hairy stem and leaves that clasp the stem in a distinctive manner, nearly encircling it, unique from other Asters (see photo).  The colors of the New England Aster can vary from purple, violet, and lavender to all shades of pink. Bees and butterflies are attracted to it, and the nectar of the flower provides an excellent source for Monarchs and other butterflies late into the fall.  New England Aster is drought-tolerant and deer-resistant.  When the plant is blooming, the lower leaves can often dry up causing some to think the plant is dying or has disease. This is normal, so don't be alarmed.   On many sites Asters can be prolific self seeders. New England Aster in particular does well in a broad range of soil conditions, so on small sites or in home garden/landscapes removal of the seed head before the seed is ripe is preferable to weeding unwanted seedlings. It is also called Aster novae-angliae.\nPotted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 66000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "AST18F"
+}

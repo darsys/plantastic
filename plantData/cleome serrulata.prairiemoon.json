@@ -1,0 +1,52 @@
+{
+  "name": "cleome serrulata",
+  "commonname": "rocky mountain bee plant",
+  "description": "Cleome serrulata (Rocky Mountain Bee Plant) matures to 4' in height and has pink flowers. It prefers mesic to dry mesic soil conditions and full sun. This Cleome blooms approximately July and August and is an annual plant - but it will re-seed.  The pink flowers attact bees and the seeds are important food for doves and other small birds. Rocky Mountain Bee Plant is drought tolerant.  Other common names include Cleome and Spider Flower.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 2600,
+  "germination": [
+    "C(30)",
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "sku": "CLE02F"
+}

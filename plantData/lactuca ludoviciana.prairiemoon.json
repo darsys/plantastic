@@ -1,0 +1,35 @@
+{
+  "name": "lactuca ludoviciana",
+  "commonname": "prairie lettuce",
+  "description": "A biennial that prefers disturbed areas of high-quality natural habitats, Prairie Lettuce is listed as rare, endangered, or extirpated in some states. It can be distinguished from most other wild lettuce species by its brown latex sap (as opposed to white.) The flowerheads often fail to open, but are self-fertile. Flowerheads will open on bright sunny days in the morning and can vary in size from 1/8 to 3/4 in. Each flowerhead has 20-55 widely spreading ray florets that are usually a light purple or blue, but sometimes white to yellow. The tips of the rays are toothed and often pale bronze.   Prairie Lettuce is also known as Lactuca campestris and Louisiana Lettuce.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 25000,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink",
+    "Yellow"
+  ],
+  "sku": "LAC03F"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "silphium trifoliatum",
+  "commonname": "whorled rosin weed",
+  "description": "Whorled Rosin Weed is a perennial forb for full to partial shade. Its leaves attach to the stem in a 'whorled' formation (see photo). Although it shares a similar common name with Silphium integrifolium (Rosin Weed), the plants are noticeably different. Like other species of Silphium, it features large yellow composite flowers blooming late summer, similar to a sunflower.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 40,
+  "seeds/ounce": 1300,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "SIL60F"
+}

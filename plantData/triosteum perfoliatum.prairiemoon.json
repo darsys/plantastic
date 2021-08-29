@@ -1,0 +1,70 @@
+{
+  "name": "triosteum perfoliatum",
+  "commonname": "late horse gentian",
+  "description": "Late Horse Gentian is a member of the Honeysuckle family (Caprifoliaceae) and is also known as Fever-wort and wild coffee, because the berries resemble coffee beans. It grows in dry spots in hardwood forest openings and on the edge between prairies and boreal forests. The state of Massachusetts lists this species as endangered. Native pollinators often visit this perennial that blooms a dainty maroon colored flower in May or June. Bumblebees are especially adept at feeding on the nectar of its flowers because of their long tongues.  All the Triosteum spp. are a host plant for the caterpillars of the moth Hemaris diffinis (Snowberry Clearwing). The berries are a good way to distinguish this species from Early Horse Gentian, a similar plant. Late Horse Gentian has yellow-orange berries, while the Early Horse Gentian has red-orange berries. This plant can also be distinguished from other Horse Gentians by its leaves which are completely attached to the stem, and rotate 90 degrees up the stem with each new set.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 450,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Red"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "TRI54F"
+}

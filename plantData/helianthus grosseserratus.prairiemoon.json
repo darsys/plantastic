@@ -1,0 +1,49 @@
+{
+  "name": "helianthus grosseserratus",
+  "commonname": "saw-tooth sunflower",
+  "description": "Saw-tooth Sunflower can reach heights of 8 feet and blooms well into the fall. Although its name would suggest otherwise, the leaves are only slightly serrated.  Sawtooth Sunflower can be distinguished from other Sunflowers by its red, smooth stems.  Most sunflowers are rhizomatous and can also be aggressive and therefore may not be suitable for small landscape plantings.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 15000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 96,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "HEL44F"
+}

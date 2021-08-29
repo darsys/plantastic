@@ -1,0 +1,76 @@
+{
+  "name": "lythrum alatum",
+  "commonname": "winged loosestrife",
+  "description": "Despite the same genus and similar comon name, Winged Loosestrife should not be confused with the non-native, invasive Purple Loosestrife (Lythrum salicaria) that threatens our North American wetlands.  Winged Loosestrife can be found growing in the same wet-mesic prairies and meadows, fens, marshes and the borders of water bodies. Its habitat is now vulnerable to its invasive relative Purple Loosestrife, and, since they look similar, many people cannot differentiate between the two in the wild.  Winged Loosestrife plants and their flowers are smaller than the related invasive Purple Loosestrife, and the native species has winged stems. Winged Loosestrife has single purple flowers blooming on short stalks that arise from a leaf axil. The pale purple petals have a darker purple mid-vein and resemble the texture of wrinkled tissue paper.  Winged Loosestrife is beneficial to pollinators and birds.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 900
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 3000000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "LYT02F"
+}

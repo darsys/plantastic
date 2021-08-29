@@ -1,0 +1,23 @@
+{
+  "name": "echinochloa crusgalli - cover crop",
+  "commonname": "barnyard grass",
+  "description": "Barnyard Grass (or Japanese Millet) is an annual cover crop for wet to medium soils. Ideally it is for wetland seedings, spring or fall. Use 1 lb per acre when planting with your native seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 4
+    }
+  ],
+  "seeds/ounce": 8200,
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "sku": "ECHCC"
+}

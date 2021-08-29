@@ -1,0 +1,64 @@
+{
+  "name": "agastache foeniculum",
+  "commonname": "anise hyssop",
+  "description": "Anise Hyssop has very showy flowers, fragrant foliage and seems to be of little interest to deer. It self-seeds readily and often blooms the first year. New seedlings are hardy and can be transplanted easily. It's a bee, hummingbird, and butterfly magnet and makes an excellent addition to herb gardens, borders, perennial gardens, and prairies. When the leaves of the Anise Hyssop are crushed they smell like licorice and have been used to make tea and cold remedies.  Other common names in use: Lavender Hyssop or Blue Giant Hyssop.\nPotted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to select up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 90000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 16
+  },
+  "sku": "AGA02F"
+}

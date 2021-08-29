@@ -1,0 +1,46 @@
+{
+  "name": "saxifraga pensylvanica",
+  "commonname": "swamp saxifrage",
+  "description": "Swamp saxifrage is a wet to medium wet soil species that will tolerate full sun to full shade.  Flower stalks emerge early in spring with greenish yellow flowers.  The leaves are clustered in a rosette at the ground.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 400000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Green"
+  ],
+  "sku": "SAX02F"
+}

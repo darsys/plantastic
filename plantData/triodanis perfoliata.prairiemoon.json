@@ -1,0 +1,35 @@
+{
+  "name": "triodanis perfoliata",
+  "commonname": "venus' looking glass",
+  "description": "Sometimes called Clasping Bellflower or Specularia perfoliata, this annual is in the Bellflower family (Campanulaceae) and native to the Southern Plains. It will form a blue or violet colored flower in the spring. The Plasterer bee (Colletes brevicornis) has a specialized preference for the nectar of this flower. This relationship between plant and pollinator is referred to as “oligolecty” within ecology.   Of the 7 native Triodanis spp., Venus’s Looking Glass is the most common. The only state where all 7 occur is Texas. The interesting name comes from an early botanical description of a similar-looking plant native to Europe, also called Venus’ Looking Glass (Legousia speculum). In that species, the seeds are said to be so shiny that they appeared to be tiny mirrors, or looking glasses. The seeds of T. perfoliata are too small to appear shiny to the naked eye.  Venus' Looking Glass is an annual; it completes its life cycle during one season, but will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 3000000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "sku": "TRI52F"
+}

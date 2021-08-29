@@ -1,0 +1,74 @@
+{
+  "name": "liatris spicata",
+  "commonName": "dense blazingstar",
+  "description": "Dense Blazingstar produces bold purple flower stalks late in the season after other blazingstars are finished. This clump-forming plant has a delicate tuft of grass-like foliage at its base from which one or more stalks will grow. The leaves become sparse as they move up the rigid stems. Commonly reaching four feet in height, it can grow 5' - 6' high in ideal conditions. Liatris spicata is native to moist meadows and marsh margins of the midwest and east, but is more common in flower gardens than in the wild. It is highly adaptable and easily grown in average, medium, well-drained soils. Very similar in appearance to Prairie Blazingstar (Liatris pycnostachya), Liatris spicata has even more flowers per head and also has ironed (smooth pressed) floral bracts which do not curve outward. The floral bracts of L. pycnostachya are recurved. A standard component of butterfly gardens, water feature margins, rain gardens, and naturalized moist prairies. Butterflies, bees, hummingbirds all visit this plant. It is a host plant for the rare Glorious Flower Moth (Schinia gloriosa). Birds feed on the seeds in fall. Other names include Dense Gayfeather, Marsh Blazingstar and Marsh Gayfeather.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1660/product-3203.jpg",
+  "seeds/ounce": 12000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Hummingbirds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Pink, Purple"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "root": "Corm"
+}

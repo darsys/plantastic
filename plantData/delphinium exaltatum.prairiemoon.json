@@ -1,0 +1,69 @@
+{
+  "name": "delphinium exaltatum",
+  "commonname": "tall larkspur",
+  "description": "This Larkspur has a much later bloom time than other Delphinium species. It is blooming in July when others, like Dwarf Larkspur, are already dormant.  Many shades of purple, from a deep violet to a pale lavender, can appear in one small population of plants, as represented in the photos.  These tubular flowers are a favorite of hummingbirds and bumblebees.  The palmate leaves are large and attractive.It has a limited native range and would likely winter-kill in zone 3 and does not respond to hot, humid climates beyond zone 8. The plant is poisonous to herbivores like deer and rabbits so makes a nice choice in a landscape, but tall, thin stems may require some staking or support.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 6500,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "DEL01F"
+}

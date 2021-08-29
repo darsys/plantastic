@@ -1,0 +1,49 @@
+{
+  "name": "sparganium eurycarpum",
+  "commonname": "great bur reed",
+  "description": "Great Bur Reed is a wet soil, full sun wildflower (although it can be mistaken for a grass) that gets up to four feet tall.  The flowers and seed heads give interest during most of the growing season.  Lime green balls become beautiful white flowers that turn into spiked green balls that eventually turn a contrasting brown color.  Aquatic mammals like muskrats will feed on the foliage and rhizomoutous roots, and the seeds are an important food source for waterfowl.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 90,
+  "seeds/ounce": 500,
+  "germination": [
+    "F",
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "SPA02F"
+}

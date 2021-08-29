@@ -1,0 +1,70 @@
+{
+  "name": "silphium perfoliatum",
+  "commonname": "cup plant",
+  "description": "As the specific epithet \"perfoliatum\" suggests, each pair of leaves clasp the stem, making it look like the stem has pierced through them. The leaves themselves form a small basin that allows rain water to collect in tiny pools around the stem, hence the cup comparison. It has been suggested that this may be a primitive form of carnivorous behavior in the plant world. Certainly, one can see how this would set the stage for more specialization in that niche but, at least currently there has been no evidence of the plant gaining any nutritional benefit from the insects that may have drowned in there. It is more likely that this anatomical feature is a way of deterring potential flower predators from crawling up the stem in search of a meal. Indeed, for insects, these pools can form a considerable barrier against vertical movement. Either way, standing at around 8 feet in height, a patch of Cup Plant is a pleasant sight. Easy to start from seed, you will no doubt enjoy them for years to come.  Standing tall at around six feet (more in wetter soils, less in drier soils), its yellow blossoms can be seen starting in July when the butterflies visit them, and then later when the birds begin to feed on its seeds. Cup Plant is quite easy to grow in average garden soil and in diverse prairie plantings in heavier or wetter soils. It can be readily started from seed by fall planting outdoors, or, if planted in spring, a period of 60 days of moist, cold stratification is recommended prior to sowing (see Germination Code C(60) on the right). A vigorous plant throughout its range, this species can be\ninvasive when planted outside of its historic regions.  Check the range map\ntab to see if this species is historically native to your state.  If your\nstate shows blue-green coloring instead of lime green, this species is best not\nplanted there.\nDormant bare root plants ship each year during optimal transplanting season: Fall (October or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 1400,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 72,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "SIL56F"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "carex brevior",
+  "commonname": "plains oval sedge",
+  "description": "Plains Oval Sedge is a hardy, versatile plant that can grow in a variety of conditions. It is most commonly found in dry, disturbed areas, but it can also adapt to wetlands and seasonally flooded sites such as swamps and floodplains. The fruiting stage of of Plains Oval Sedge displays prickly oval spikes that become an attractive golden brown in the fall.  Coupled with its short stature, and mounded profile, it makes an excellent addition to a landscape.  Also called Shortbeak Sedge, Plains Oval Sedge actively grows during the spring and fall when soil temperatures are cool, like most sedges (cool-season growers).This sedge is drought tolerant and can tolerate controlled burns. It is also resistant to deer and rabbits.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 29000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 10
+  },
+  "sku": "CAR39G"
+}

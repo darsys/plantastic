@@ -1,0 +1,59 @@
+{
+  "name": "bouteloua curtipendula",
+  "commonname": "side-oats grama",
+  "description": "Bouteloua curtipendula, or Side-oats Grama, is a rarity among native grasses in that it sports tiny attractive flowers during its summer bloom time (see detailed photos.) Bracts hang uniformly from one side of the stem while brilliant red-purple anthers dangle below and delicate white stigmas protrude above. When the seed heads dry, they have a distinctly oat-like appearance.  Side-oats is a warm-season grass that grows actively during the summer months when soil temperatures are warm. Its current range is throughout North America and south to Argentina, and it is cited as a food source or larval host for at least five types of skipper moths. Bouteloua curtipendula’s rhizomatous clumping tendency and moderate height make it a good companion for spring-blooming wildflowers like Shooting Stars or Prairie Smoke.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 14
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 6000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 24
+  },
+  "sku": "BOU02G"
+}

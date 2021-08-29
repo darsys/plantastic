@@ -1,0 +1,50 @@
+{
+  "name": "porteranthus stipulatus",
+  "commonname": "western indian physic",
+  "description": "Sometimes we all need a break from big, showy blooms in favor of more subtle beauty. Western Indian Physic is one answer to remedy such a situation. Native to much of the Midwest and eastern US, Indian Physic is a sun loving perennial that will make most people take a second look at your garden. Blooming from May until June, the white blossoms are reminiscent of apple blossoms, which are a distant relative of Indian Physic. Attractive to pollinators, this tall, slender forb is a great choice for a native sun garden and looks its best next to species like Columbine. In many parts of the country where fire has been suppressed, the drier forest communities that support Indian Physic are being lost to more wet loving communities. Adding this species to a native sun garden will assure that this species will remain on the landscape for generations to come!  The fall foilage and seed heads also provide seasonal interest (see detailed photo).   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 6000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "POR10F"
+}

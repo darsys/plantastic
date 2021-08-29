@@ -1,0 +1,77 @@
+{
+  "name": "penthorum sedoides",
+  "commonname": "ditch stonecrop",
+  "description": "Ditch Stonecrop is a rather unusual looking plant. Long tapered leaves branch off from the stem and alternate. At the top are clusters of small greenish-yellow flowers that branch out, almost looking like octopus tentacles. Towards the end of the season the flowers turn a rusty red-orange color as the fruit matures. They are a stunning and welcome site in the late-fall.  Ditch Stonecrop likes partial shade to full sun and wet soil. It can be found in the wild in ditches, along shorelines, and in marshes. It may spread by rhizomes to form a colony if the conditions are right.Ditch Stonecrop is part of the Crassulaceae family, but it lacks the succulent-like leaves of other members of the stonecrop family. Other common names for it are Star Fruit and Virginia Stonecrop. It was traditionally used by Native Americans to treat a variety of ailments.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 1040,
+  "seeds/ounce": 1300000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Green",
+    "Red"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "PEN52F"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "hypericum virginicum",
+  "commonname": "marsh st. john's wort",
+  "description": "",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 230000,
+  "germination": [
+    "D",
+    "?"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "HYP06F"
+}

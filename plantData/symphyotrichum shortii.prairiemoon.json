@@ -1,0 +1,55 @@
+{
+  "name": "symphyotrichum shortii",
+  "commonname": "short's aster",
+  "description": "An attractive inhabitant of dry woodlands and savannas, Symphyotrichum shortii grows to about 3' in height. Its stems are round and slender. The central stems end in foot-long clusters of compound flowers, each with 10-20 pale blue-violet ray florets surrounding a yellow disk that ages to reddish purple.  The leaf margins of Short's Aster are mostly smooth, distinguishing it from most other woodland Asters, which have toothed leaf edges. Also called Aster shortii.Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 60000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "AST31F"
+}

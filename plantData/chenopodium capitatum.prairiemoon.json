@@ -1,0 +1,46 @@
+{
+  "name": "chenopodium capitatum",
+  "commonname": "strawberry blite",
+  "description": "Bright red clusters of half-inch berries give this plant its most striking feature. In the same family as Lamb’s Quarters, it shares weedy tendencies, especially on disturbed ground, and after fire. The leaves (1-4” long) are triangular or arrow-shaped, coarsely-toothed and often curly, alternating on hairless, ridged stems that extend 8 to 40 inches.Found through most of the U.S. and Canada, Strawberry Blite can tolerate light shade, but prefers sun. Its light-green flowers form in whorls around upper stems. They have both male and female organs and are wind-pollinated, developing tight clusters of bright berries on raised, half-inch stems.Most sources list this plant as an annual, but one insists it is technically a monocarp, living until one crop of seeds is produced, then dying. Other sources tout the edibility of both the foliage and berries, and you may see it be called \"Strawberry Spinach\" but note that the flavors are mild to bland and that moderation should be exercised because the plants contain mildly-toxic saponins and oxalates.A botanical synonym is Blitum capitatum. Its many common names include Blite Goosefoot, Strawberry Spinach, Strawberry Goosefoot, Beetroot, Indian Paint and Indian Ink (due to its purported use as a dye by indigenous peoples).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 16000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Red",
+    "Green"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "CHE03F"
+}

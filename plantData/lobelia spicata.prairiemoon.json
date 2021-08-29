@@ -1,0 +1,54 @@
+{
+  "name": "lobelia spicata",
+  "commonname": "pale spiked lobelia",
+  "description": "A perennial yet short-lived dainty Lobelia for medium soil prairies, savannas and woodland openings.  In a natural prairie, Pale-spiked Lobelia is an understory plant blooming among the taller forbs and grasses mid-late summer.  The seed pods that develop from the attractive flowers hold seeds so tiny that they can be distributed by gusts of wind. The leaves and stems of this plant have a film on them that makes them unpalatable to most mammals.  The flowers are visited mostly by small bees: miner bees, mason bees and the like.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 900000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "LOB10F"
+}

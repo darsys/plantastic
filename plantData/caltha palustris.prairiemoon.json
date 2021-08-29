@@ -1,0 +1,52 @@
+{
+  "name": "caltha palustris",
+  "commonname": "marsh marigold",
+  "description": "Caltha palustris (Marsh Marigold) matures to 2' in height and has large, yellow flowers noticiably blooming early spring in the wetlands. Attractive glossy, heart-shaped leaves add to its appeal.  This foliage is acidic so mammalian herbivores generally avoid it.  It grows in all light conditions, from full sun to full shade.  Marsh Marigold, a member of the Buttercup (Ranunculus) family, can be planted along stream banks or near water gardens in small clumps or large patches. It can tolerate standing water in the spring during its bloom season.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 26000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "CAL62F"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "agalinis purpurea",
+  "commonname": "purple false foxglove",
+  "description": "The most common of False Foxgloves, Purple False Foxglove is generally found in wetter areas like bogs, along shores, or in meadows. It’s an attractive annual with showy tubular flowers up to 1-inch long that vary between pink and purple with a reddish spotted, pale pink throat. Often, the narrow green leaves are tinted with purple. Members of the  Agalinis  genus serve as a food source for the larvae of the Common Buckeye butterfly. Like the other False Foxgloves, Purple False Foxglove is partially parasitic, using specialized roots to tap into the roots of other plants.",
+  "prices": [],
+  "seeds/packet": 300,
+  "seeds/ounce": 440000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "sku": "AGA50F"
+}

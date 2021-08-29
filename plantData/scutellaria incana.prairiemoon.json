@@ -1,0 +1,43 @@
+{
+  "name": "scutellaria incana",
+  "commonname": "hoary skullcap",
+  "description": "Provides weeks of blooms in open woodlands late summer.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 140,
+  "seeds/ounce": 17000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "SCU01F"
+}

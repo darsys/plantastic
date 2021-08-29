@@ -1,0 +1,49 @@
+{
+  "name": "bromus ciliatus",
+  "commonname": "fringed brome",
+  "description": "As a cool season grass, Fringed Brome grows actively during the spring and fall when soil temperatures are cool. It can tolerate a wide array of sun but prefers moist soil. This grass can be found growing in prairies and marshes. This would make a great addition to a rain garden, bioswale, or wetland. As it grows in a clump, this provides habitat for birds and small mammals.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 10000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "BRO02G"
+}

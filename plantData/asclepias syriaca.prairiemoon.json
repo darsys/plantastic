@@ -1,0 +1,73 @@
+{
+  "name": "asclepias syriaca",
+  "commonname": "common milkweed",
+  "description": "The large flower can vary in color from nearly white to deep pink-purple. The fragrance is very delicate and pleasing and numerous native pollinators will benefit during its long bloom time.  Common Milkweed looks similar to Prairie Milkweed (Asclepias sullivantii) and Showy Milkweed (Asclepias speciosa). Monarch butterflies lay their eggs exclusively on Milkweed plants, making them the sole food source for their larvae.  Once found in abundance in nearly every farm field, ditch, and disturbed site, Common Milkweed numbers have been in dramatic decline in recent years, due in part to suburban development and the increased efficiency of herbicides used in conjunction with herbicide-tolerant, genetically modified row crops. It spreads readily by seed and underground rhizomes and its taproot can withstand drought.  Common Milkweed is one of the easiest and fastest to establish of the Milkweeds and planting more, even in small urban pockets, can provide personal satisfaction while helping to counter increasing threats to our Monarch butterfly population.  Plant seeds late fall or early spring, no more than 1/4\" deep, on a fairly weed-free site. Collecting and cleaning your own Common Milkweed seed pods is easy.  Watch our VIDEO! Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 4000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "ASC14F"
+}

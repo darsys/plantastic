@@ -1,0 +1,80 @@
+{
+  "name": "baptisia alba",
+  "commonname": "white wild indigo",
+  "description": "A quick grower in spring, White Wild Indigo has striking charcoal-gray stems, blue-green leaves and pea-like blossoms forming on long spikes, making it quite showy, but without floral scent. This plant is popular with insects. Bumblebees pollinate the flowers and caterpillars of several skippers, butterflies and moths feed on the foliage. Adult Wild Indigo Weevils eat the leaves and flowers of this and other Baptisia species; their grubs attack the seeds in the pods. New sprouts of White Wild Indigo can be mistaken for asparagus when they push from the ground in spring. After the first frost, the entire shrub-like plant turns black, adding a stunning contrast to the copper-color of Little Bluestem, or the remaining yellow of Showy Goldenrod in a fall landscape.  As fall progresses to winter, the strong stems crack at the base and winds carry this plant, like a tumbleweed, across the prairie distributing the seed. Other names in use:  Baptisia leucantha and White False Indigo.Species of genus Baptisia are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.  \nDormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 1700,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "BAP06F"
+}

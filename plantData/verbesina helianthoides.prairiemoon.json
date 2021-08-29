@@ -1,0 +1,40 @@
+{
+  "name": "verbesina helianthoides",
+  "commonname": "yellow crownbeard",
+  "description": "Verbesina helianthoides (Yellow Crownbeard) is also known as Gravelweed and Actinomeris helianthoides.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 14000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "VER20F"
+}

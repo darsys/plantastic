@@ -1,0 +1,31 @@
+{
+  "name": "talinum rugospermum",
+  "commonname": "fame flower",
+  "description": "The Fame Flower is a rare, perennial succulent that occupies a narrow ecological niche in dry, open, sandy locations with little competition. It is extremely drought tolerant, but is intolerant of fire. This plant is often found in dry, harsh environments where there is little fuel for fires, like rock outcroppings and on sand dunes along the Mississippi River.   Despite its rare occurrence in the wild, this species is relatively easy to germinate and will persist quite well in a sunny, sandy garden spot, so long as the garden is carefully cultivated and free of weeds. Each flower on the plant only opens for one afternoon on one day of the year. This unusual flowering pattern may limit pollination, possibly contributing to Fame Flower being endangered in multiple states.Another botanical name is Phermanthus rugospermus.",
+  "prices": [],
+  "seeds/packet": 100,
+  "seeds/ounce": 80000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 8,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "TAL06F"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "vernonia missurica",
+  "commonname": "missouri ironweed",
+  "description": "Perhaps the showiest of Ironweeds, Vernonia missurica's bright magenta, rayless composite flowers have over 30 disk florets (other Vernonia species typically have less). Also unlike other Ironweeds, Missouri Ironweed has many dense white hairs on the underside of its leaves, often lending them a silvery appearance.   A member of the Sunflower family (Asteraceae), Missouri Ironweed blooms late summer to early fall. It is a great way to attract pollinators because it serves as a late-season nectar source. The caterpillars of some moths feed on Ironweed species, including Grammia parthenice (Parthenice Tiger Moth), Perigea xanthioides (Red Groundling), and Papaipema cerussata (Ironweed Borer Moth). Like milkweeds (Asclepia spp.) ironweeds (Veronica spp.) are bitter to the taste, so herbivorous animals like deer and cattle will avoid consuming it.    This species is found most often near the central and southern Mississippi River valley. Missouri Ironweed will thrive in recently disturbed areas, as well as undisturbed high quality habitats. Although Missouri Ironweed is common in some states, it is endangered in Ohio. This plant’s dominant reproductive method is to spread by rhizomes, and readily self-hybridizes with other Vernonia spp. like Vernonia fasciculata (Common Ironweed),  Vernonia altissima (Tall Ironweed), Vernonia baldwinii (Western Ironweed), and Vernonia noveboracensis (New York Ironweed) which can make plant ID difficult in the field. Expect to wait 3 years for it to flower.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 22000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "VER54F"
+}

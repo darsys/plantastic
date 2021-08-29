@@ -1,0 +1,73 @@
+{
+  "name": "symphyotrichum oolentangiense",
+  "commonname": "sky blue aster",
+  "description": "Sky Blue Aster has blue to blue-violet flowers. It is easy to grow and is drought tolerant. Blooming late summer to fall, like most Asters, it attracts butterflies and other beneficial insects such as small bees, flies, small to medium-sized butterflies, skippers, and wasps.  Sky Blue Aster prefers full or partial sun and can grow in many different types of soil as long as it is well-drained. The leaves are smaller when heading upward along the stem, and are typically heart-shaped at the base.  It is also scientifically named Aster oolentangiensis and Aster azureus.Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 80000,
+  "germination": [
+    "A",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "AST02F"
+}

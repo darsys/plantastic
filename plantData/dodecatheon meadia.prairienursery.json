@@ -1,0 +1,70 @@
+{
+  "name": "dodecatheon meadia",
+  "commonName": "shootingstar",
+  "description": "The delicate nodding blooms seem to fly upward and away from the pointed red and yellow flower center, resembling a shooting star. The leafless stalks arise from a lush foliage base, creating the perfect backdrop for the exquisite flowers.\nA spring bloomer, and true prairie ephemeral, Dodecatheon meadia goes completely dormant in late summer. Best grown in lightly shaded garden or naturalized area. Fall transplanting is best, but early spring planting is also fine. Propagate by division. Dig the mature crowns in the fall when dormant, then divide and replant.\nBumble bees are the chief pollinators of Shootingstar, and the pollen must be extracted from a narrow tube formed by the united stamens. The bees accomplish this by vibrating their bodies against the tube to shake the pollen out, a technique known as ‘buzz pollination.’\nOther names include Midland Shootingstar and Prairie Pointers.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1634/product-1731.jpg",
+  "seeds/ounce": 75000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$60.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$100.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$1,500.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White, Pink, Lavender"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

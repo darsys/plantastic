@@ -1,0 +1,67 @@
+{
+  "name": "helianthus mollis",
+  "commonname": "downy sunflower",
+  "description": "Characteristic fine, soft, downy hairs cover the stems and leaves of Downy Sunflower, giving it a blueish-gray-green appearance. This classic composite Sunflower will bloom for many weeks in July-September.  Its preference is for poor, drier soils, those with gravel, rock or clay, where it will form dense stands. But it will do well and actually grow taller in nutrient-rich medium soils, too. There is evidence that the root system has an allelopathic agent that prevents other plants from growing around it.  Downy Sunflower is very aggressive--a quality some might look for, but in a small landscape setting it's a plant that could easily take over an entire area.  Also, removal of the seed head before the seed is ripe is preferable to weeding unwanted seedlings.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 450
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 7000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "HEL52F"
+}

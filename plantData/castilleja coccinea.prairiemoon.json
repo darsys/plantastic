@@ -1,0 +1,53 @@
+{
+  "name": "castilleja coccinea",
+  "commonname": "indian paintbrush",
+  "description": "Indian Paintbrush is a sought-after prairie beauty that prefers bright sites with medium-dry to medium-wet soils. An annual or biennial, its vivid scarlet bracts nearly hide small, greenish flowers and appear to have been dipped in paint.  May and June are the typical bloom time, but because of its annual or biennial nature, you can see flowers blooming as late as October.  A hemiparasitic plant is one that its roots seek out those of host plants, usually grasses, and tap into them for nutrition (see Germination Code K).  If you will be starting Indian Paintbrush in a container, good hosts for many hemiparasitic species include low-growing grasses and sedges like Hairy Grama, Blue Grama, Buffalo Grass, Pennsylvania Sedge, Sweet Grass, and June Grass. With a knife make a 2\" deep cut at the base of the host plant. Sow seed in the cut, making sure seed is not more than 1/8\" deep. If host is transplanted at sowing time, the cut is not needed because damaged roots will be available for attachment by the parasite. You may also try sowing hemiparasitic and host species seeds together at the same time. To add hemiparasitic species to existing sites, scatter seed on soil surface (rake in if seed is large) in late fall.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 300000,
+  "germination": [
+    "C(60)",
+    "D",
+    "K"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "Red"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "CAS52F"
+}

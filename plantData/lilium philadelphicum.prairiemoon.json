@@ -1,0 +1,47 @@
+{
+  "name": "lilium philadelphicum",
+  "commonname": "prairie lily",
+  "description": "Prairie Lily is also commonly called Wood Lily. It is a smaller lily, only reaching only a foot in height, and has funnel-shaped, red-orange petals with brown spots near the base. The leaves alternate and have are narrow and elliptical in shape, and taper to a point. This lily grows in prairies as well as open woods. It can handle a variety of moisture levels as well, ranging from mesic prairies to saturated fens. It is a conservative species nonetheless, typically only found in relatively undisturbed natural areas.  The nectar and pollen of the lily attract bees, hummingbirds and larger butterflies, such as swallowtails and Monarchs. Bulbs were harvested by Native Americans for food and medicine. The bulbs were traditionally cooked and then applied to surface wounds.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 45,
+  "seeds/ounce": 15000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Orange"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 9,
+    "max": 12
+  },
+  "sku": "LIL04F"
+}

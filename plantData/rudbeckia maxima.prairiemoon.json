@@ -1,0 +1,49 @@
+{
+  "name": "rudbeckia maxima",
+  "commonname": "great coneflower",
+  "description": "This Rudbeckia species is native only to the southern states of Arkansas, Oklahoma, Louisiana, and Texas, but has been introduced into Missouri. It grows easily in average soils in full sun, but can be grown in partial shade and a variety of soils. Great Coneflower can also tolerate droughts and heat well. For these reasons it can be used as an accent in a variety of gardens and landscapes. This showy flower also attracts many different kinds of butterflies and pollinators while not being attractive to deer. Towards the end of the season you can leave the plant standing so Goldfinches can enjoy the seeds. Great Coneflower is also rhizomatous, so it can form colonies and spread slowly.Another name for Great Coneflower is Cabbage Leaf Coneflower due to the blueish green leaves that have a waxy texture.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 4000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 72,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "RUD07F"
+}

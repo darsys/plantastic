@@ -1,0 +1,80 @@
+{
+  "name": "ceanothus americanus",
+  "commonname": "new jersey tea",
+  "description": "A deciduous shrub that grows just 3' tall and is compact and rounded by nature.  The dried leaves of New Jersey Tea make a flavorful tea that was popular during the Revolutionary War.  Deep tree-like roots of this shrub make it drought-tolerant but difficult to move once established so choose your spot wisely.  Light preference is full or part sun and medium-dry soil.  Deer and rabbits do like this shrub, especially when it is young so protect new transplants in the early years. Seed germination can be aided by hot water treatment (see Germ Code B). \nPotted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 300
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 7600,
+  "germination": [
+    "B",
+    "C(60)",
+    "H"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 36
+  },
+  "sku": "CEA02T"
+}

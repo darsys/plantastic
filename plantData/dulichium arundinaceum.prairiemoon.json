@@ -1,0 +1,38 @@
+{
+  "name": "dulichium arundinaceum",
+  "commonname": "three-way sedge",
+  "description": "This unique sedge is easily identified by its alternate 3-ranked leaves up the stem. This means when you view the plant from the top all the leaves will be lined up neatly in a “three-way” pattern. Flower spikes arise from the leaf axils in the late summer. Three-way sedge thrives in a very wet habitat.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 39000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "sku": "DUL02G"
+}

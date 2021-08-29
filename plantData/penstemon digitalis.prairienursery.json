@@ -1,0 +1,75 @@
+{
+  "name": "penstemon digitalis",
+  "commonName": "smooth penstemon",
+  "description": "Penstemon digitalis is one of the few Penstemons that thrives in clay. The white flowers bloom for a month or longer, and look great with the blue flowers of Ohio Spiderwort and Blue Eyed Grass. At 3' high this clump-forming perennial does well in full sun to light shade, and tolerates seasonally damp conditions.\nThe tubular flowers attract long-tongued bees such as bumblebees and mason bees, as well as hummingbirds. Other common names include Foxglove Beardtongue and Mississippi Beardtongue.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1668/product-1853.jpg",
+  "seeds/ounce": 100000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$375.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

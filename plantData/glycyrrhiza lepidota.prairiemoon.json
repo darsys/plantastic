@@ -1,0 +1,52 @@
+{
+  "name": "glycyrrhiza lepidota",
+  "commonname": "wild licorice",
+  "description": "Wild Licorice is different from the European species used to flavor licorice candy, Glycyrrhiza glabra.  However, the root does taste like licorice, and like other licorice, it is made sweet by glycyrrhizin.  Glycyrrhiza lepidota is the host plant for the Silver-Spotted Skipper. Other Common Names in use: American Licorice. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 6
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 9.75
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 3900,
+  "germination": [
+    "A",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "sku": "GLY52F"
+}

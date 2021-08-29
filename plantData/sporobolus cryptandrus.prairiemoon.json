@@ -1,0 +1,43 @@
+{
+  "name": "sporobolus cryptandrus",
+  "commonname": "sand dropseed",
+  "description": "As the name implies, Sand Dropseed prefers a dry sand prairie; slightly heavier dry soils will be fine also.  Bobwhite quail are known to eat the seed.  Topping out at about three feet, this is one of the shorter prairie grasses.  Sand Dropseed is a warm-season grass; it actively grows during the summer when soil temperatures are warm.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 200000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "sku": "SPO04G"
+}

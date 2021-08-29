@@ -1,0 +1,71 @@
+{
+  "name": "celastrus scandens",
+  "commonname": "bittersweet",
+  "description": "Our dormant vine is UNSEXED.  We grow this vine from seed or cuttings.  'Unsexed' means the plant is not old enough to show male/female characteristics.  The female produces the ornamental berries, but a male is needed for pollination; both male and female should be grown semi-close to eachother to get the ornamental fruit that many desire.  We recommend buying a few roots to increase your odds of getting both sexes.  Started from seed, it can take many years to get flowers/berries.  Bittersweet is a woody perennial vine of hardwood forests found native west to the Dakotas, east to New England, and spanning south to Oklahoma, (Zones 3-8) in medium to dry soils, full to partial sun.  This vine can reach up to 50 feet if it has tree trunks to twine on.  If not, it will make more of a shrub-like shape and will eventually spread out over surrounding vegetation.  Some may not like this aggressive behavior of the American Bittersweet, but this is nothing compared to the aggressiveness of the similar-looking Oriental Bittersweet (Celastrus orbiculatus), also called Asian Bittersweet.  To distinguish American Bittersweet from Oriental Bittersweet, notice the placement of the flowers/berries; on the American they hang in terminal panicles of 5-60 berries whereas on the Oriental there are small clusters of 2-4 berries all along the stem.  The leaves are usually rounder on the Oriental Bittersweet.  Both Bittersweets have a bright red fruit that is surrounded by a yellow/orange 'jacket' when ripe.  There is evidence that the two vines may be hybridizing  Dormant bare root plants ship each year during optimal transplanting season: fall (October) or spring (April/May). This bare root tree is 3 years old and we trim to a height of approximately 12-18\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 1800,
+  "germination": [
+    "C(120)",
+    "L"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": null,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "CEL02T"
+}

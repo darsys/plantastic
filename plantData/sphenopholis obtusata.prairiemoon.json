@@ -1,0 +1,53 @@
+{
+  "name": "sphenopholis obtusata",
+  "commonname": "prairie wedgegrass",
+  "description": "Prairie Wedgegrass  is an annual or short-lived perennial bunchgrass with a vast range throughout the United States, Canada, Mexico and the Caribbean. You will find it in many different kinds of habitats including prairies, woodlands, marshes, stream banks, and dunes. It is an important native wetland species, and can be used for riparian restorations and stream bank stabilization. This species establishes well in recently disturbed areas, which can make it a good competitor in areas with invasive species.The relationships between this plant and wildlife is not very well studied, however, it is edible to horses, cattle, and other livestock. Sometimes this plant is also called Prairie Wedgescale, Aira obtusata, Sphenopholis obtusata var. lobata, or Sphenopholis obtusata var. pubescens.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 142000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "SPH10G"
+}

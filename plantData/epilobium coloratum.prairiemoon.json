@@ -1,0 +1,52 @@
+{
+  "name": "epilobium coloratum",
+  "commonname": "cinnamon willow herb",
+  "description": "Cinnamon Willow Herb is named for its cinnamon-colored seed hairs. It is also called Purpleleaf Willow Herb because its leaves have purple veins. It can grow up to 3-feet tall.  The plant can tolerate occasional flooding. Habitats include poorly-drained prairies, moist, wooded areas, bogs, marshes, and edges of rivers and ponds.  Each flower has four petals, white to light pink, each less than a centimeter in diameter. Though the flowers are small, large plants compensate by producing many blossoms, attracting bees and flies. Many caterpillars eat the foliage of Cinnamon Willow Herb. In the fall, the leaves turn a bright red.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 250000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 3,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "EPI03F"
+}

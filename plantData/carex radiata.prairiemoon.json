@@ -1,0 +1,49 @@
+{
+  "name": "carex radiata",
+  "commonname": "straight-styled wood sedge",
+  "description": "This Sedge forms thick clumps that will stand 12\" tall but then flop over as the seed begins to ripen. The fine dark color of the foilage and preference for full to partial shade make Carex radiata a nice addition to any shaded landscape.  It is a cool-season species meaning it actively grows during the spring and fall when soil temperatures are cool.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 55
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 41000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 12,
+  "blooms": [
+    "June"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "CAR63G"
+}

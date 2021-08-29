@@ -1,0 +1,38 @@
+{
+  "name": "lathyrus venosus",
+  "commonname": "veiny pea",
+  "description": "A perennial vine, Veiny pea's bloom is a showy 3-6\" raceme of 5-30 individual pea-like flowers, with each flower comprising a rich magenta to pink upper lip with darker veins and white to pink lower wing petals. It spreads slowly by rhizomes so is not considered aggressive. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 10,
+  "seeds/ounce": 770,
+  "germination": [
+    "H",
+    "I",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "LAT10F"
+}

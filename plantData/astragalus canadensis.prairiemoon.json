@@ -1,0 +1,71 @@
+{
+  "name": "astragalus canadensis",
+  "commonname": "canada milk vetch",
+  "description": "Canada Milk Vetch is a common plant found throughout the US\nand Canada. This adaptable species can thrive in a variety of environments\nincluding prairies, woodlands, and stream banks. As a garden plant, Canada Milk\nVetch provides great leaf texture. The green flowers make an interesting addition\nto cut flower arrangements. \nCanada Milk Vetch is a common nectar source for bumblebees\nand honeybees, and for food for animals including deer, wild turkey, groundhogs,\nrabbits, and livestock. Also called Canadian Milk Vetch, or Rattle Weed, it attracts\nhummingbirds, song birds, and butterflies, including the Western Tailed Blue Butterfly larvae.\nAlthough generally not considered poisonous, caution is\nadvised with any member of the Astragalus genus as they are known to contain at\nleast some level of toxic glycosides. Take special care grazing livestock in\npastures with Canada Milk Vetch; cattle fatalities have been reported after\ngrazing in fields containing this plant.  \nSpecies of genus Astragalus are legumes.\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 120
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 17000,
+  "germination": [
+    "C(10)",
+    "H",
+    "I"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "AST52F"
+}

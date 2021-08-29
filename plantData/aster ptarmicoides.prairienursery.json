@@ -1,0 +1,66 @@
+{
+  "name": "aster ptarmicoides",
+  "commonName": "white aster",
+  "description": "Low-growing, bright, showy and covered with white blooms from late August into October. Plant White Aster with Showy Goldenrod for a fabulous fall show! Thrives in almost any soil, from dry sand to moist loam, in full sun to light shade.Other names include Solidago ptarmicoides, Oligoneuron album, Upland White Goldenrod, Prairie flat-top-goldenrod, Stiff aster and Sneezewort aster.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1654/product-2756.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Gravel"
+  ],
+  "moisture": "Dry",
+  "benefits": [
+    "Pollinators",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 24
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

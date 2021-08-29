@@ -1,0 +1,46 @@
+{
+  "name": "euphorbia cyathophora",
+  "commonname": "fire-on-the-mountain",
+  "description": "Fire-on-the-Mountain is also called Painted Leaf and Wild Poinsettia, because it is closely related to the common Poinsettia. Similar to that plant, Fire-on-the-Mountain typically produces red to orange-red tipped leaves adjacent to its green flowers. This annual is found on dry, open sites near the northern limit of its range, where it often grows less than two feet tall.  It tends to prefer poor quality soils with disturbance, or a rocky/sand component, but it can adapt to a more fertile, medium moisture soil.  Further to the south, moister, shadier habitat is more typical, where it can grow up to three feet tall and can be a weed. The species is most common in the tropics, its range extending well into South America, and has been introduced in parts of Asia and Australia as a cultivated ornamental, where has become invasive.Most members of the Euphorbia (Spurge) family have a milky sap in the stem that will irritate eyes and mouth if it comes in contact. For this reason, it is deer and rabbit resistant.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 2300,
+  "germination": [
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [],
+  "sku": "EUP53F"
+}

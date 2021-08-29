@@ -1,0 +1,71 @@
+{
+  "name": "uvularia grandiflora",
+  "commonname": "bellwort",
+  "description": "A member of the Lily family, Bellwort is an excellent early-blooming native shade plant for the woodland garden, shaded border front, wildflower garden or naturalized area. It spreads slowly by rhizomes so you can achieve a mass planting look under shade trees or along wood margins in a relatively short amount of time. The Bellwort flowers and leaves have an overall droopy appearance when in bloom. However, after seeds are set, the leaves of Uvularia take on a different look, somewhat like a needle threading the stem through the leaves.  Bumblebees, Mason bees, Halictid bees, and Andrenid bees feed from the nectar and collect pollen from the flowers which bloom April to May. Bellwort is easily grown in average, well-drained soil in partial to full shade. Other common names in use are Largeflower Bellwort or Great Merrybells  *This species may be difficult and/or slow to germinate from seed.  Please note the germination code on the right.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 10,
+  "seeds/ounce": 700,
+  "germination": [
+    "L",
+    "E"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "UVU04F"
+}

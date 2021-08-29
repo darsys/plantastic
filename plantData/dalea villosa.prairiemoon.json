@@ -1,0 +1,58 @@
+{
+  "name": "dalea villosa",
+  "commonname": "silky prairie clover",
+  "description": "Silky Prairie Clover grows in clumps in open, sandy sites and is quite rare to see in the wild.  Its leaves are smaller and twice as numerous as those of Purple Prairie Clover.  Both leaves and stems are covered with soft fine hairs, giving a grey appearance. Flowering spikes bloom from the bottom up in July and August. Long yellow stamens protrude from the purple flowers, which may vary from rose-pink to white. It could be confused with Lead Plant, but Lead Plant blooms about 1 month prior.  This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 14000,
+  "germination": [
+    "A",
+    "I",
+    "J"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "PET08F"
+}

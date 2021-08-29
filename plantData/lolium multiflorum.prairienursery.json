@@ -1,0 +1,32 @@
+{
+  "name": "lolium multiflorum",
+  "commonName": "annual rye nurse crop",
+  "description": "Annual rye is a widely used nurse crop for prairie seedings. Planted with your prairie seed in spring or fall, it will reduce weed growth, prevent soil erosion and provide shade for young prairie seedlings. If using an erosion blanket, Annual Rye is not required. In Zone 4 and colder Annual Rye will usually winter-kill (except in milder winters). In Zone 5 and warmer Annual Rye will typically survive the winter and will require mowing the following spring and summer.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1491/product-1874.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$2.25"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$2.50"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$3.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$2.00"
+    }
+  ],
+  "seedrate_acre": "Spring:5Lb, Fall:15Lb",
+  "seedrate_1000sqft": "Spring:2oz, Fall:6oz"
+}

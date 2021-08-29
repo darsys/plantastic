@@ -1,0 +1,54 @@
+{
+  "name": "muhlenbergia glomerata",
+  "commonname": "marsh muhly",
+  "description": "Marsh Muhly actively grows during the summer when soil temperatures are warm and spreads by rhizomes.  Other common names in use include Spiked Muhly.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 225000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "MUH04G"
+}

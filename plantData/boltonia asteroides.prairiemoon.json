@@ -1,0 +1,57 @@
+{
+  "name": "boltonia asteroides",
+  "commonname": "false aster",
+  "description": "A robust bloomer, Boltonia asteroides - False Aster provides a bright white presence from late summer to the first frosts, a time when the predominant native flower color is yellow. Hundreds of aster-like blossoms on a single plant are an inch across and feature yellow centers surrounded by narrow white ray petals that sometimes are tinged pink to purple. Narrow gray-green leaves and sturdy stems add to the plant's visual appeal.   False Aster prefers wet to medium soil conditions and grows best in full sun to partial shade. Profuse blooms can be expected in wetter soils and sunny sites, and the height can vary greatly from 3' to 5' depending on soil moisture. Standing water is even tolerated for short periods so it's a great choice for Rain Gardens.  It is rhizomatous by nature so will spread, but not aggressively. Many insects are attracted to this plant, including butterflies, long and short-tongued bees, wasps, flies, skippers, moths, and beetles. It has a wide native range, from zone 3 to 10.  Good companion plants include Goldenrods, Asters, Joe-Pye Weed, and numerous prairie grasses.  Other frequently used names are Boltonia latisquama recognita and White Doll's Daisy or False Chamomile.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 3.2
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 5.2
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 160000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "BOL02F"
+}

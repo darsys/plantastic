@@ -1,0 +1,58 @@
+{
+  "name": "gentianopsis crinita",
+  "commonname": "fringed gentian",
+  "description": "Gentianopsis crinita (Fringed Gentian) matures to just 12\" and has bright blue to purple flowers. Fringed Gentian prefers wetter soil conditions, and grows best in full sun. Most Gentians bloom late: August, September, and October.  This plant is now rare due to habitat loss. As with all threatened native plants, Fringed Gentian should never be picked or transplanted!  The flowers open on sunny days, but generally remain closed on cloudy days. Individual plants live for only one or two years, but do reseed when given the proper conditions. Ants are highly attracted to Gentianopsis crinita because they like the taste and crave the nutrition of the nectar, so in response, some specialists believe, the fringe on the petals provides a measure of protection.  Other names in use are: Small Fringed Gentian and Gentiana crinita.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 105
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 200
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 200000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 12,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "GEN04F"
+}

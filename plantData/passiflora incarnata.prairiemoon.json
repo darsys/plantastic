@@ -1,0 +1,59 @@
+{
+  "name": "passiflora incarnata",
+  "commonname": "purple passion flower",
+  "description": "Purple Passion Flower is a perennial vine with an intricate, unusual flower. The fall fruit is a large, edible yellowish-orange berry. It spreads by root suckers.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 8.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12.75
+    }
+  ],
+  "seeds/packet": 15,
+  "seeds/ounce": 700,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": null,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "zones": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 8,
+    "max": 12
+  },
+  "sku": "PAS02T"
+}

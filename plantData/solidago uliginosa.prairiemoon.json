@@ -1,0 +1,31 @@
+{
+  "name": "solidago uliginosa",
+  "commonname": "bog goldenrod",
+  "description": "Bog Goldenrod will develop a sturdy, upright stem, two-to-five fee tall, in medium to wet soils,  The leaves are smooth and toothless and decrease in size further up the smooth, hairless stem. The deep red stem color often is overlooked because of the perky, yellow flower clusters that encircle the stalk with wand-like plumes.  This wonderful species is low-maintenance and resistant to deer, while attracting butterflies and other pollinators.",
+  "prices": [],
+  "seeds/packet": 300,
+  "seeds/ounce": 130000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "SOL18F"
+}

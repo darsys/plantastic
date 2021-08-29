@@ -1,0 +1,53 @@
+{
+  "name": "lobelia cardinalis",
+  "commonname": "cardinal flower",
+  "description": "Bare Root Plants ship spring only.  Cardinal Flower is named for its beautiful scarlet red flowers which are an important nectar source for hummingbirds and swallowtail butterflies. Lobelias produce a secondary compound known as \"lobeline,\" which deters herbivores. The flowering spikes open from the bottom to the top and bloom for several weeks. They grow best in moist, rich soils in full sun to partial shade. Cardinal flower is a showy plant great for the garden or wetland planting.  Parent plants will not persist for more than a few years, but it is a prolific self-seeder and fast grower.  As long as the tiny seeds can make soil contact, you will have a revolving colony of new red blooms each year.  Its blossoms also make excellent cut flowers.\nDormant bare root plants ship each year during optimal transplanting season: Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 400000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Red"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 16
+  },
+  "sku": "LOB02F"
+}

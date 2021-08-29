@@ -1,0 +1,53 @@
+{
+  "name": "eleocharis palustris",
+  "commonname": "great spike rush",
+  "description": "Great Spike Rush actively grows during the spring and fall when soil temperatures are cool. It is rhizomatous.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 16.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 51000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "ELE04G"
+}

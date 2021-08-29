@@ -1,0 +1,37 @@
+{
+  "name": "zigadenus elegans",
+  "commonname": "white camass",
+  "description": "As the alternative names Mountain Death Camas, Poison Camas, Poison Sego, and Death Camas might suggest, this plant is highly poisonous. All parts of this plant contain a steroidal alkaloid called zygadenine which can kill both humans and animals. Ingestion causes salivation, nausea, vomiting, coma, and death. Just one bulb, raw or cooked, can be fatal.   The plant was first recorded by none other than Lewis and Clark on July 7 of 1806 in Montana. Early settlers confused Zigadenus bulbs with the edible bulbs of the Lily family (Liliaceae), including Camassia spp. and wild onions (Allium spp). Do not make the same mistake. No plants in the genus Zigadenus should ever be eaten. Never consume a wild plant unless you can positively identifiy it.",
+  "prices": [],
+  "seeds/packet": 1000,
+  "seeds/ounce": 42000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ZIG02F"
+}

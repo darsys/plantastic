@@ -1,0 +1,64 @@
+{
+  "name": "thalictrum dasycarpum",
+  "commonname": "purple meadow rue",
+  "description": "This 6' beauty may be the most graceful plant that you encounter in a medium-wet prairie or savanna.  The stems are distinctly purple, thus the name.  Like its smaller, fern-like woodland cousin, Thalictrum dioicum (Early Meadow Rue), Purple Meadow Rue politely displays its delicate, yellow, tassle-like flowers in late spring.  It is hardy from zones 3 to 8.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(60)",
+    "G"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 72,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "THA02F"
+}

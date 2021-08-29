@@ -1,0 +1,76 @@
+{
+  "name": "elymus canadensis",
+  "commonName": "canada wild rye",
+  "description": "This fast-growing prairie grass makes an excellent native nurse crop for prairie seedings. Seeded at a rate of two to three pounds per acre with a prairie seed mix, Canada Wild Rye will mature in the first or second year while other prairie grasses and flowers are still developing. The beautiful curving seedheads resemble cultivated rye. Grows on practically any soil, including bare sand, gravel, and raw clay subsoil. ",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1644/product-3185.jpg",
+  "seeds/ounce": null,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$4.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$25.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 48,
+    "max": 60
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Straw"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous",
+  "seedrate_acre": "10 Lbs",
+  "seedrate_1000sqft": "1/4 Lb"
+}

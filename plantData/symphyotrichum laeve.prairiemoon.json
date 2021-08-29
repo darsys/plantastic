@@ -1,0 +1,78 @@
+{
+  "name": "symphyotrichum laeve",
+  "commonname": "smooth blue aster",
+  "description": "The leaves on Smooth Blue Aster are indeed smooth to the touch. The similar-looking Sky Blue Aster (Symphyotrichum oolentangiense) has rough leaves, as do many other Asters.  The tough stem often takes on a shade of blue also and will allow Smooth Blue Aster to stand tall during its long late summer to mid fall bloom.  A non-aggressive rhizomatous root system allows the plant to spread slowly.  In a garden setting, Smooth Blue Aster will persist for many years if taller, aggressive plants are kept back.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 8.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12.75
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 21.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 525
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 55000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "AST10F"
+}

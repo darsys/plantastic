@@ -1,0 +1,55 @@
+{
+  "name": "mentzelia decapetala",
+  "commonname": "ten-petal mentzelia",
+  "description": "New!  A Biennial or short-lived perennial with fragrant flowers.  Like an Evening Primrose, it opens late-afternoon through morning.  It is poisonous to livestock (accumulates Selenium).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 21000,
+  "germination": [
+    "?",
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Cream"
+  ],
+  "sku": "MEN12F"
+}

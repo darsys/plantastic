@@ -1,0 +1,75 @@
+{
+  "name": "lobelia siphilitica",
+  "commonName": "great blue lobelia",
+  "description": "Covered in deep blue flowers in late summer and early fall, Great Blue Lobelia can form colonies of flowered spikes in medium to wet soils, especially with a little shade. Longer lived than the Cardinal Flower, it also attracts hummingbirds. Planted together, the two Lobelias offer a stunning color combination. Excellent for damp clay soil.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1662/product-3785.jpg",
+  "seeds/ounce": 470000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$16.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$40.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$600.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Blue"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

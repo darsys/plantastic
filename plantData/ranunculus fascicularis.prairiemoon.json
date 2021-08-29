@@ -1,0 +1,35 @@
+{
+  "name": "ranunculus fascicularis",
+  "commonname": "early buttercup",
+  "description": "The earliest Buttercup to bloom; mid-April here in SE MN.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). In some growing seasons, dormant roots may be available for Summer (July) shipping.",
+  "prices": [],
+  "seeds/packet": 75,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 9,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "RAN02F"
+}

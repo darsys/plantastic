@@ -1,0 +1,45 @@
+{
+  "name": "hypericum majus",
+  "commonname": "great canada st. john's wort",
+  "description": "The flowers are yellow but the seed pods are red.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 2000,
+  "seeds/ounce": 3000000,
+  "germination": [
+    "C(60)",
+    "?"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "sku": "HYP01F"
+}

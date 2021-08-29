@@ -1,0 +1,67 @@
+{
+  "name": "sporobolus heterolepis",
+  "commonName": "prairie dropseed",
+  "description": "The showiest prairie grass for gardens, Prairie Dropseed's magnificent fountain of fine textured, emerald-green leaves adds a touch of elegance to any planting. Considered by many to be the most handsome of the prairie grasses, it makes a well-defined and distinctive border when planted 18 to 24 inches apart. Plains Indians ground the seed to make a tasty flour. Plant seed in fall or early spring for best results.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1651/product-2034.jpg",
+  "seeds/ounce": 14000,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$75.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$135.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Birds",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 48
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Straw"
+  ],
+  "root": "Fibrous",
+  "seedrate_acre": "10 Lbs",
+  "seedrate_1000sqft": "1/4 Lb"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "scrophularia marilandica",
+  "commonname": "late figwort",
+  "description": "Most are not aware that Figworts are one of the best nectar species for attracting native butterflies, bees, other insects - and birds, including the Ruby-throated Hummingbird!   Large, serrated leaves and sturdy stalks boast shiny reddish-brown small flowers that appear to drip with nectar.  Figworts are given a special rating by the Xerces Society because of their value to insects: \"Special Value to Native Bees: recognized by pollination ecologists as attracting a large numbers of native bees.\" and \"Supports Conservation Biological Control: A plant that attracts predatory or parasitoid insects that prey upon pest insects.\"  In the fall, these leaves and stalks will turn maroon (see photo on left above) with tear-drop shaped seed pods filled with tons of tiny seeds.  Late Figwort grows well in average garden soils, both on the wet or dry sides, and thrives in full sun but also tolerates up to 70% shade.  A close inspection of the flowers is needed to tell Early Figwort apart from Late Figwort, though, as their common names suggest, their flowering times rarely overlap.  Early Figwort blooms from May until July whereas this Late Figwort blooms from July until October.  Each can reach heights of over 5 feet and will readily re-seed in the right conditions. Their beauty is hard to capture in photos; these are definitely plants best enjoyed close-up and in person. The tissues of Figworts contain many acrid compounds and thus they are usually not browsed upon by herbivores. Rarely available from most nurseries, planting these strange Figworts will surely bring joy and novelty to any native landscape.\n Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 170000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 72,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Red",
+    "Green"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "SCR04F"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "echinacea purpurea",
+  "commonname": "purple coneflower",
+  "description": "A prairie classic!  Purple Coneflower (Echinacea purpurea) has a fibrous root system with short woody rhizomes. It is a drought-tolerant perennial that is also deer resistant. Purple Coneflower can be found as far east as Georgia. Plains Indians used the root to treat rattlesnake bites, bee stings, headaches, toothaches, sore throats, and distemper in horses. Coneflowers are still widely used today in pharmaceutical preparations.  The flowers are a golden red to purple and may release a slight fragrance in strong sunlight. They are much-loved by bees and is a host plant for the Ottoe Skipper.  Blooms appear June-September and some Purple Coneflowers may re-bloom in the fall. Echinacea purpurea matures to 4' in height. The preference is full or partial sun, and moist to medium conditions. Growth is best in fertile loam, but the soil can contain some gravel or clay.  Common names are Narrow-leaved Purple Coneflower, Sampson Root, Red Sunflower, and simply, Echinacea.\nPotted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 45
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 6600,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "ECH08F"
+}

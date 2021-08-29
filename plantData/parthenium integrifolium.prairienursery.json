@@ -1,0 +1,71 @@
+{
+  "name": "parthenium integrifolium",
+  "commonName": "wild quinine",
+  "description": "Rare and unusual, Parthenium integrifolium is a garden-worthy plant with everything one could want in a great perennial: good form, excellent foliage, long bloom time, and resistance to insects and disease. The pure white flowers make a fantastic combination when planted with Prairie Blazingstar.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1667/product-2894.jpg",
+  "seeds/ounce": 6800,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$375.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Deer Resistant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 18
+  },
+  "root": "Taproot"
+}

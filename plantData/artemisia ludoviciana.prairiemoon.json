@@ -1,0 +1,61 @@
+{
+  "name": "artemisia ludoviciana",
+  "commonname": "prairie sage",
+  "description": "Spreading by rhizomes, Prairie Sage can form dense colonies that give a distinctive silver-green accent to large plantings on sunny sites with mesic to dry soil. Its stems and foliage are covered with woolly gray or white hairs and topped by nodding clusters of yellowish disk flowers that bloom through summer. The plants reach heights of 3’ and are easily propagated by rhizome cuttings in spring, tip cuttings in early summer or by division of mature plants. Prairie Sage, also called White Sagebrush, is aggressive and rhizomatous and therefore may not be suitable for small landscape plantings.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 250000,
+  "germination": [
+    "C(30)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "ART02F"
+}

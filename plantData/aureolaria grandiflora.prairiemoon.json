@@ -1,0 +1,61 @@
+{
+  "name": "aureolaria grandiflora",
+  "commonname": "yellow false foxglove",
+  "description": "This showy plant occurs primarily in the partial shade conditions of oak savannas.  It shows some preference for calcareous soils and so may be found near a fen or in a limestone glade.  Members of the Aureolaria genus (formerly classified as the Gerardia genus) serve as a host plant for the larvae of the Baltimore Checkerspot butterfly. This False Foxglove also attracts numerous native bees and the Ruby-throated Hummingbird. Yellow False Foxglove is hemiparasitic.  This means that it has modified roots that roots seek out those of host\nplants and tap into them for some of their nutrition, but they are not totally reliant on them and can perform photosynthesis.  Unlike the other hemiparasitic plants we sell, Yellow False Foxglove uses members of the\nwhite oak group as host plants.  To establish them, sow seed\nin the late fall near white oaks on a site that has been prepared to minimize competition.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 50000,
+  "germination": [
+    "C(60)",
+    "D",
+    "K",
+    "?"
+  ],
+  "light": [
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "sku": "AUR02F"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "ludwigia alternifolia",
+  "commonname": "seedbox",
+  "description": "Seedbox grows in mesic to somewhat wet prairies and along the edges of marshes and swamps in sandy soils in full sun or partial shade. It requires an acidic soil with a pH of 4 to 6. Seedbox can be identified by it’s small yellow flowers and long, lance-shaped leaves. The flower grows from where the leaf and the stem meet. The stem has a reddish color to it. The flowers eventually produce a cube-shaped fruit that surrounds the seed, giving this plant its name. This would make a good addition to a rain garden in a sunny area.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 1300000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Wet"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "LUD02F"
+}

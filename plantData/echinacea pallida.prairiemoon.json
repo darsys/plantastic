@@ -1,0 +1,78 @@
+{
+  "name": "echinacea pallida",
+  "commonname": "pale purple coneflower",
+  "description": "Pale Purple Coneflower should be planted in well-drained\nsoil in full to partial sunlight. Most native Coneflowers dislike soil that is\nkept excessively moist or has poor drainage and they will start to rot in these\nsituations. Once the taproot is established it is extremely drought-tolerant\nand needs little care, but then also may be difficult to move. In the past all\nof the Purple Coneflowers were used as medicinal plants by the Native\nAmericans. There is still a market for the roots, which are used to make herbal\nmedicines and tonics.\nPale Purple Coneflower grows up to 3' feet tall and has very\npale purple to pink flowers.  It blooms\nin early summer when only a few of the sun loving plants are in bloom and\nprovides nectar for hummingbirds and butterflies, and the leaves provide food\nfor the Ottoe-skipper larva.  Also\neasy-to-establish and a prairie icon is its cousin, Purple Coneflower (Echinacea purpurea), which has a deeper purple flower and will bloom just at\nthe tail end of Pale Purple Coneflower's bloom cycle.  Planting these two together will give you\nmany, many weeks of Echinacea blooms. \nDormant bare root plants ship each year during optimal\ntransplanting season: Fall (October) or Spring (April/May).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June.   Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4.8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 7.8
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 180
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 5200,
+  "germination": [
+    "C(90)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 18
+  },
+  "sku": "ECH04F"
+}

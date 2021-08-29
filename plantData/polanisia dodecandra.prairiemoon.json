@@ -1,0 +1,58 @@
+{
+  "name": "polanisia dodecandra",
+  "commonname": "clammy weed",
+  "description": "Clammy-weed, also called Red-Whisker Clammy-weed, is a rather unusual looking annual that is native to almost all the lower 48 states and parts of southern Canada. It can be identified by its white flowers and reddish-purple stamens that are nearly an inch long. The stamens protrude past the white petals, which give the entire plant a fringed look. The name Clammy-weed comes from the hairs covering the plant that exude a sap that makes the handler feel as if they have clammy hands after touching it. The leaves are compounded in three’s and oval shaped. The fruits of Clammy-weed look like long green beans pointing up to the sky and are usually two and a half inches in length. Clammy-weed does best in full sun and dry, sandy or rocky soil. It readily adapts to a variety of soils where the soil has been highly disturbed. It will do well in any climate condition. Clammy-weed easily self-sows itself once fall starts.  Because of the glandulous hairs covering the entire plant, Clammy-weed is deer resistant. It is also popular amongst a wide variety of butterflies, despite its sulpher-like smell to us.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 6500,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "POL01F"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "eupatorium serotinum",
+  "commonname": "late boneset",
+  "description": "Eupatorium serotinum is closely related to Tall Boneset but has several distinguishing characteristics. It tends to grow taller (5' or more), has long-stemmed, coarse-toothed leaves with a single prominent vein running their lengths and the flower heads are denser, with 12-15 blossoms. These small white flowers are popular with a wide variety of bees, flies, butterflies and beetles. The foliage is bitter so is not often eaten by deer and other mammals.  Late Boneset prefers full sun or partial shade in medium soils from wet-mesic to dry and blooms in late-summer through fall",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 6.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 10
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 130000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "EUP12F"
+}

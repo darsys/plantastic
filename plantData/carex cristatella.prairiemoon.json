@@ -1,0 +1,49 @@
+{
+  "name": "carex cristatella",
+  "commonname": "crested oval sedge",
+  "description": "Crested Oval Sedge actively grows during the spring and fall when soil temperatures are cool. Other Common Names in use: Crested Sedge",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    }
+  ],
+  "seeds/packet": 750,
+  "seeds/ounce": 58000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "sku": "CAR07G"
+}

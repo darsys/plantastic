@@ -1,0 +1,67 @@
+{
+  "name": "pedicularis canadensis",
+  "commonname": "wood betony",
+  "description": "Wood Betony is a hemiparasitic species so even though it can photosynthesize it will often attach to a host plant, such as a short grass species (see Germination Code K on right). Wood Betony's leaves are red when emerging from the ground in early April (see corresponding photo). The yellow blooms look like a pinwheel when you view them from directly above and are a favorite of eary season bumblebees. Wood Betony can be easily identified by the early April-June bloom time and the preference for a somewhat dry or readily drained location. It is also called Canadian Lousewort.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 750
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 33000,
+  "germination": [
+    "C(30)",
+    "K"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "PED02F"
+}

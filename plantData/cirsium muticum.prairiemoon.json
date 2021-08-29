@@ -1,0 +1,40 @@
+{
+  "name": "cirsium muticum",
+  "commonname": "swamp thistle",
+  "description": "Swamp Thistle produces vibrant purple to pink flowers and is weakly armed compared to other thistles. It is biennial but will re-seed in appropriate habitat. It is best grown in full sun to moderate shade on wet soils.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 7000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 84,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "CIR11F"
+}

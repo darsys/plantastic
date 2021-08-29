@@ -1,0 +1,72 @@
+{
+  "name": "coreopsis tripteris",
+  "commonname": "tall coreopsis",
+  "description": "As its name implies, Coreopsis tripteris (Tall Coreopsis) stands quite tall reaching heights of 7' and in some cases up to 9'.  Because of its height, it would be best to start with a few plants to form a loose colony.  Arranged in a flat-topped cluster, the flowers comprise a disk of yellow, deepening to purple-red.  This Coreopsis blooms late-summer and into fall, unlike the spring-summer blooms of Prairie Coreopsis and Lance-leaved Coreopsis.  The leaves are divided into three lobes with the lower leaves on the stem being quite large, up to 6\".  Tall Coreopsis can be aggressive, especially in recently disturbed, moist soils, and therefore may not be suitable for small landscape plantings. Also called Tickseed.\nPotted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 14000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 84,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "COR06F"
+}

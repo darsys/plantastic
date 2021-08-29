@@ -1,0 +1,55 @@
+{
+  "name": "ratibida columnifera",
+  "commonname": "long-headed coneflower",
+  "description": "Long-headed Coneflower has a deep central taproot making it very drought-tolerant, but it is susteptible common mammal herbivory.  The species name columnifera means 'in the shape of a column' which of course describes the most distinguising feature, the tall central cone. Typcially, the 4 to 12 yellow petals that hang downward from the cone are not as long as the cone itself. This part of the flower is sterile.  It's the hundreds of disk florets on the cone that will develop into seeds; the plant self-seeds well.  Ratibida pinnata, Yellow Coneflower (also commonly called Gray-headed Coneflower), is much taller than the average 2-3 feet of Long-headed Coneflower. Other names in use include Upright Prairie Coneflower.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 3.25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 75
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 42000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "RAT02F"
+}

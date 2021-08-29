@@ -1,0 +1,72 @@
+{
+  "name": "chamaenerion angustifolium",
+  "commonname": "fireweed",
+  "description": "Fireweed has willow-like leaves and red stems like other plants in its genus (like Northern Willow Herb), but its stunning magenta blossoms make it unique. It can be a vibrant addition to sunny, moist sites, but it spreads aggressively by rhizomes so care is needed in small landscape plantings. Well-known and widespread in Northern Minnesota and Wisconsin, it is also very common in Alaska and throughout the Northern hemisphere.  It is found sporadically in Illinois and Iowa.  Provided ample amounts of sun and decently moist soils, this member of the willow herb family can rise to surprising abundance in a very short amount of time. Its common name comes from its sudden appearance after a wildfire. A forested site completely devoid of this species can quickly become a dense stand of bright pink fireweed following a modest burn. In fact, in the right circumstances, this plant can become quite aggressive. The upside to this is that it is a widely used species both as a nectar source for pollinators as well as a food source for lepidoptera. Once established, this species requires little care. The one thing it can't handle, however, is competition. If other species are allowed to grow in and over top it, Fireweed will quickly succumb.  It was formerly called Epilobioum angustifolium.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants (3-packs) ship when all plants are well-rooted and transit-ready, early May through June.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 55
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 105
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 200
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 500000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "EPI02F"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "pycnanthemum verticillatum var. pilosum",
+  "commonname": "hairy mountain mint",
+  "description": "Hairy Mountain Mint is easy to grow from seed and easy to care for once established.  It is clump-forming and can spread by rhizomes readily so is not the best native plant for small areas but roots can be easily cut back once a year to prevent spreading. The maximum height of 3' will be in average soils and full sun.  1-2' is more likely in drier soils and part shade.  The small white to lavender flowers have subtle purple spots and are packed with nectar inviting all kinds of bees, wasps, flies, beetles, moths and butterflies. It indeed is one of THE natives to have to attract pollinators.     Mammals, small and large, will not bother this plant due to its strong mint smell.  A simple walk-by and brush up against this plant will yield that familar mint fragrance. The leaves and stems are more hairy than other Pycnanthemum species, giving it its Common Name, Hairy Mountain Mint.  It is also referred to as Whorled Mountain Mint.\n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). Potted plants (trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 185000,
+  "germination": [
+    "A",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "PYC02F"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "bidens polylepis",
+  "commonname": "bearded beggarticks",
+  "description": "A strong grower, Bidens polylepis can become weedy in sunny, wet locations; its bright yellow blossoms are popular with insect pollinators in late summer and fall.  Bearded Beggarticks are an annual; they complete their life cycle during one season but will re-seed. It also differs in seeming not to require over-wintering for germination.",
+  "prices": [],
+  "seeds/packet": 75,
+  "seeds/ounce": 8600,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 36
+  },
+  "sku": "BID10F"
+}

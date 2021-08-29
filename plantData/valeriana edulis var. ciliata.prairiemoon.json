@@ -1,0 +1,47 @@
+{
+  "name": "valeriana edulis var. ciliata",
+  "commonname": "hairy valerian",
+  "description": "NEW! Hairy Valerian, also referred to as Valeriana ciliata, Tobacco Root or Edible Valerian, is classified as Threatened in MN and 3 other states.  It was once more abundant in MN, but with large natural wet prairies and fens nearly gone, it clings to life in just a few rare pockets in the state.  It could also be found on drier sites but only if it has access to a vein of moisture.  The leaf hairs may be its most distinguishable feature; the leaves are smooth but have short, dense, white hairs on the outer edge, giving it a silvery glow. The seeds are distributed by the wind.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 22000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "VAL07F"
+}

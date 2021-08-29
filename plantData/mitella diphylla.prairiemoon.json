@@ -1,0 +1,71 @@
+{
+  "name": "mitella diphylla",
+  "commonname": "bishop's cap",
+  "description": "You'll fall in love with the tiny snowflake-like, fringed flowers atop the thin stems of Bishop's Cap. Other easily identifiable characteristics include a single pair of leaves half way up the stem. The plants spread slowly by rhizomes so make a wonderful addition to any spring wooded area.  Bishop's Cap can tolerate drier full shade sites, although its preference is for medium soils and partial sun in the spring months.  It may also be referred to as Miterwort or Twoleaf Miterwort  *This species may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code on the right.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 23.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 42.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 80
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 56000,
+  "germination": [
+    "L",
+    "M"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "sku": "MIT04F"
+}

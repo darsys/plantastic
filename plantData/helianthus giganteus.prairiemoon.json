@@ -1,0 +1,62 @@
+{
+  "name": "helianthus giganteus",
+  "commonname": "tall sunflower",
+  "description": "Blooming July to October, the the flowers of Helianthus giganteus (Tall Sunflower) consist of 10-20 yellow rays arranged in loose clusters. The overall height can, as the name implies, be quite tall, reaching 8' with purplish stems and spreading hairs. H. giganteus grows well in moist soil and full to partial shade. However, it is aggressive and rhizomatous and therefore may not be suitable for small landscape plantings.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 10000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 96,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "HEL41F"
+}

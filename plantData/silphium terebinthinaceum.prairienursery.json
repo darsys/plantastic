@@ -1,0 +1,69 @@
+{
+  "name": "silphium terebinthinaceum",
+  "commonName": "prairie dock",
+  "description": "Prairie Dock (Silphium terebinthinaceum) is a truly unique plant with a towering stalk of flowers rising from a remarkable cluster of large basal leaves. Sunflower-like blooms last for a month or longer. Very long-lived, individual plants can flourish for decades. Birds love the seeds.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1678/product-2398.jpg",
+  "seeds/ounce": 1100,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Birds"
+  ],
+  "height": {
+    "min": 36,
+    "max": 120
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 24
+  },
+  "root": "Taproot"
+}

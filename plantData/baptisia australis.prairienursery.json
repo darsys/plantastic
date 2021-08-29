@@ -1,0 +1,71 @@
+{
+  "name": "baptisia australis",
+  "commonName": "blue false indigo",
+  "description": "Rising 3–5 feet from woody stems, Blue False Indigo forms a bush at maturity. Dense clusters of deep blue flowers surround this robust perennial on upright, 4–16 inch long spikes. In its first few years this long-lived plant develops mostly below ground. And while it may not flower for the first few seasons, the spring blossoms get showier and more developed as the plant matures. The attractive bluish-green foliage provides a good backdrop to other flowering plants later in summer. Its seed pods are also very attractive. Blue Flase Indigo makes an excellent specimen plant. It is also beautiful in a naturalized setting and looks good in small groups as well. The branching form makes wide spacing advisable. The tough rootstock can be divided in fall or spring when the plant is dormant.The juice of Blue False Indigo turns purple upon exposure and makes a fair substitute for indigo dye. Other names include Wild Blue Indigo.Seed Treatment: Review our seed propagation page for additional/specific information. As a legume species (member of the pea family) this seed will come pre-treated with Rizobium inoculum.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1625/product-4012.jpg",
+  "seeds/ounce": 1600,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": "Medium",
+  "benefits": [
+    "Pollinators",
+    "Hummingbirds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Blue"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 36
+  },
+  "root": "Taproot"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "elymus canadensis",
+  "commonname": "canada wild rye",
+  "description": "Canada Wild Rye is a cool-season grass; it actively grows during the spring and fall when soil temperatures are cool.  It is one of the first grasses to be prevalent throughout a planting, but after several years it largely will have given way to other grasses and wildflowers.  The nodding seed heads are readily identifiable.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 5200,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "ELY02G"
+}

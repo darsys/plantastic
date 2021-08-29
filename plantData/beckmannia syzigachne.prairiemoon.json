@@ -1,0 +1,52 @@
+{
+  "name": "beckmannia syzigachne",
+  "commonname": "american slough grass",
+  "description": "A coarse annual or short-lived perennial grass, Beckmannia syzigachne prefers full sun and wet soils. It can be a good choice for stream-bank restoration.  This hardy cool-season grass can form bunches, spreading from short rhizomes.  American Slough Grass is an annual, it completes its life cycle during one season but will re-seed.This seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 1000,
+  "seeds/ounce": 50000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 24,
+  "blooms": [
+    "June",
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "BEC02G"
+}

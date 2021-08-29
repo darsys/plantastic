@@ -1,0 +1,58 @@
+{
+  "name": "podophyllum peltatum",
+  "commonname": "may apple",
+  "description": "For those of you that struggle with what to plant under pines that leave dry, semi-shady conditions, May Apple grows well under a grove of pines here at Prairie Moon. They can be quite aggressive, but have attractive, short, green foliage that look almost like umbrellas to protect the large white flower which blooms in April and May. Also called Devil's Apple, Hog-apple, and Indian Apple.  Caution! May Apple root can be toxic and should only be used by experienced herbalists. The seeds and rind are not edible, and are said to be poisonous. The whole plant, apart from the ripe fruit, is highly poisonous in large doses.  *This species of seed may be difficult and/or slow to germinate and grow to maturity. Please note the germination code below.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 25
+    }
+  ],
+  "seeds/packet": 20,
+  "seeds/ounce": 1100,
+  "germination": [
+    "C(90)"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 12,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 18,
+    "max": 24
+  },
+  "sku": "POD02F"
+}

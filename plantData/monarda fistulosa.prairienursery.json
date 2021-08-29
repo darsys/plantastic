@@ -1,0 +1,76 @@
+{
+  "name": "monarda fistulosa",
+  "commonName": "bergamot",
+  "description": "Monarda fistulosa is a wide-ranging North American plant that thrives in all but the wettest soils. The lavender tubular flowers are a very popular nectar source, attracting a wide variety of bees and butterflies. Hummingbirds may also visit. A member of the mint family, Bergamot was historically used by indigenous people for a variety of medicinal applications. The distinctly aromatic leaves are commonly used to make tea. The button seedheads are popular in dried floral arrangements.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1665/product-2234.jpg",
+  "seeds/ounce": 78000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$10.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$15.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$375.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Hummingbirds",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 60
+  },
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Lavender"
+  ],
+  "spacing": {
+    "min": 24,
+    "max": 24
+  },
+  "root": "Rhizome"
+}

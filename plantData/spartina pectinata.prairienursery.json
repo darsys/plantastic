@@ -1,0 +1,65 @@
+{
+  "name": "spartina pectinata",
+  "commonName": "prairie cordgrass",
+  "description": "Stabilizes pond edges & streambanks. The gracefully arching foliage of Prairie Cordgrass cuts a fine figure in summer and then turns a bright gold in autumn. It spreads rapidly by rhizomes, making it an excellent grass for stabilizing fresh soil around newly excavated ponds, streambanks, and wet areas. Install plants two feet on center, and apply mulch or fabric between plants to prevent erosion during establishment. In two years the area will be a solid mat of Cordgrass rhizomes that defy erosion. Seed is best planted in fall. ",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1650/product-3636.jpg",
+  "seeds/ounce": 9000,
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$25.00"
+    },
+    {
+      "quantity": 0.25,
+      "unit": "lb",
+      "price": "$75.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "lb",
+      "price": "$135.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$225.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Moist",
+    "Wet"
+  ],
+  "benefits": "Deer Resistant",
+  "height": {
+    "min": 72,
+    "max": 120
+  },
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "Straw"
+  ],
+  "root": "Rhizome",
+  "seedrate_acre": "12 Lbs",
+  "seedrate_1000sqft": "5 Oz"
+}

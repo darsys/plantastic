@@ -1,0 +1,66 @@
+{
+  "name": "echinocystis lobata",
+  "commonname": "wild cucumber",
+  "description": "Wild Cucumber is an annual; it completes its life cycle during one season but will re-seed. The dried vines and cucumbers are great in dried arrangements. Despite its name, the Wild Cucumber is NOT edible.  The smooth, branching vines reach lengths of 15-20 feet and can be aggressive. Wild Cucumber is identified by its alternately placed star-shaped leaves, which resemble maple-like leaves, each with 5 to 7 pointed lobes. Its flowers are pale yellowish-white and are very fragrant. Wild cucumber's pulpy green, oval seed pods grow up to two inches long and are covered with sharp spines so beware. It likes sun and moist soil but will grow well in quite a bit of shade. When ripe, the pod bursts open and large brown or black seeds are found.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 20
+    }
+  ],
+  "seeds/packet": 5,
+  "seeds/ounce": 100,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": null,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 10
+  },
+  "sku": "ECH52F"
+}

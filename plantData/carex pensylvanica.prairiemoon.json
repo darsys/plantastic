@@ -1,0 +1,49 @@
+{
+  "name": "carex pensylvanica",
+  "commonname": "pennsylvania sedge",
+  "description": "Carex pensylvanica is a fine-textured Sedge that reproduces by rhizomes and rarely reaches heights of more than 8\" when blooming.  It is sought-after for its look of a traditional lawn and for its dry-soil tolerance and ability to grow in full sun or full shade. To get a solid stand of this hardy sedge that so many desire, divide plants over the years  It will spread between 3-8\" each year depending on the soil moisture of the site.  To start a larger area from seed is not realistic; seed is difficult and slow to germinate.  Pennsylvania Sedge actively grows during the spring and fall when soil temperatures are cool. \n Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).Potted plants come in trays of 38 and ship when all plants in the tray are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 14500,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 8,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 10
+  },
+  "sku": "CAR18G"
+}

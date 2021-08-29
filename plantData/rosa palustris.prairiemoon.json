@@ -1,0 +1,64 @@
+{
+  "name": "rosa palustris",
+  "commonname": "swamp rose",
+  "description": "Grown best in rich, moist, and acidic soils. It is typcially as tall as it is wide so could make a nice hedge, especially in a wet ditch.  It won't tolerate standing water, but seasonal flooding is generally accepted.All native Rosa species attract a multitude of pollinators, have large attractive flowers, red stems, thorns, and dark green leaves. In fall they will boast large rose hips and attractive foliage. They grow fine in partial shade but abundant flowering and disease-resistance occur in full sun and areas with good circulation. They are also semi-aggressive and less suitable for small landscapes.*This species (in seed) may be difficult and/or slow to germinate and\ngrow to maturity.  Please note the germination code.Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root tree is 1 year old and we trim to a height of approximately 12-18\".",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 8
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 13
+    }
+  ],
+  "seeds/packet": 60,
+  "seeds/ounce": 7000,
+  "germination": [
+    "F",
+    "H"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet"
+  ],
+  "height": 60,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "ROS06T"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "helianthus pauciflorus",
+  "commonname": "showy sunflower",
+  "description": "Also known as Helianthus rigidus or H. laetiflorus (Stiff or Prairie Sunflower), Showy Sunflower is host to the Gorgone Checkerspot, a butterfly that is restricted to high quality prairie dry remnants.  Showy Sunflower is rhizomatous and aggressive and therefore may not be suitable for small landscape plantings.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 4000,
+  "germination": [
+    "C(30)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "HEL48F"
+}

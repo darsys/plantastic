@@ -1,0 +1,73 @@
+{
+  "name": "ceanothus americanus",
+  "commonName": "new jersey tea",
+  "description": "The luxuriant glossy leaves, numerous bright white flowers and a mounding shape make this compact shrub a very popular garden plant. Plant two to three feet apart to create a low growing, drought tolerant native hedge. New Jersey Tea is attractive to hummingbirds, which eat the tiny insects that pollinate the flowers.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1631/product-3999.jpg",
+  "seeds/ounce": 7000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$24.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$36.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$60.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$900.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 24,
+    "max": 36
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "color": [
+    "White"
+  ],
+  "spacing": {
+    "min": 36,
+    "max": 36
+  },
+  "root": "Woody"
+}

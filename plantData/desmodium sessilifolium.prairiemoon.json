@@ -1,0 +1,37 @@
+{
+  "name": "desmodium sessilifolium",
+  "commonname": "sessile-leaf tick trefoil",
+  "description": "Like other Tick Trefoils, this legume sports purple-pink, pea-like flowers that attract pollinators in summer and sticky seed pods that provide food for wild turkeys and other fowl in fall or winter.  Its blossoms are sparser and leaves narrower and longer than other Desmodiums. Despite its common name, the leaves do have very short stems or petioles that hold them closely to the main stem. This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    }
+  ],
+  "seeds/packet": 50,
+  "seeds/ounce": 5000,
+  "germination": [
+    "A",
+    "I",
+    "J"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "color": [
+    "Purple"
+  ],
+  "sku": "DES58F"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "taenidia integerrima",
+  "commonname": "yellow pimpernel",
+  "description": "In woodland settings, blooming species become few after the initial green-up of spring. Yellow Pimpernel provides delicate yellow umbels of flowers through the heat of summer. It is a fine textured plant that smells of celery when crushed and prefers drier, woodland edges. Rarely seen in cultivation, the flowers attract many small spring-flying insects and the leaves feed the caterpillars of the Black Swallowtail, and should be used more often in the landscape if only for this purpose.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 90,
+  "seeds/ounce": 6000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 36,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "TAE02F"
+}

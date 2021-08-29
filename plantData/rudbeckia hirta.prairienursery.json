@@ -1,0 +1,79 @@
+{
+  "name": "rudbeckia hirta",
+  "commonName": "black eyed susan",
+  "description": "A hallmark of prairies and meadows Black Eyed Susan is a biennial that blooms and completes its life cycle in its second year with an extravagant floral display. Transplants will bloom the year they are planted, and will easily self-sow onto open soil, creating a more or less consistent stand over time.\nExceptionally showy and easy to grow, Rudbeckia hirta has a prolonged floral display that attracts butterflies and other beneficial insects. The late season seedheads attract finches and other birds. Easy to grow and very drought tolerant, this rudbeckia will tolerate heat, drought and a wide range of soils, but does not like poorly-drained wet soils. Seeds may be sown directly in the soil at the last frost date.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1672/product-2288.jpg",
+  "seeds/ounce": 100000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$3.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$5.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$120.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

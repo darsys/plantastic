@@ -1,0 +1,29 @@
+{
+  "name": "strophostyles leiosperma",
+  "commonname": "small wild bean",
+  "description": "Small Wild Bean is an annual vine; it completes its life cycle during one season but will re-seed. It needs sandy soils (dry or moist). Another scientific name in use is Strophostyles pauciflora. Another common name in use is Small Fuzzy Bean.  This is a legume species (member of the pea family).\nMost legume species harbor beneficial bacteria called rhizobia on their\nroots.  Prairie Moon provides genus-specific strains of this bacterium\ncalled inoculum for legume seed free of charge with the purchase of 1\noz. or less of legume seed.  Inoculum will keep refrigerated for approximately 1 year.  To properly inoculate your legume seed prior to planting, follow germination code I.",
+  "prices": [],
+  "seeds/packet": 40,
+  "seeds/ounce": 1700,
+  "germination": [
+    "C(30)",
+    "I"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 72,
+  "blooms": [
+    "August",
+    "September"
+  ],
+  "color": [
+    "Pink"
+  ],
+  "sku": "STR06F"
+}

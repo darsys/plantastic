@@ -1,0 +1,45 @@
+{
+  "name": "eutrochium fistulosum",
+  "commonname": "hollow joe pye weed",
+  "description": "Hollow Joe Pye Weed, a member of the Aster family, does have a mostly hollow central stem and is the largest of the Joe-Pye weeds, making for easy identification. It also boasts a dark-purple to off-white central stemNative to the Eastern half of the US, Hollow Joe Pye Weed will surpass the Midwest-native Eupatorium maculatum by about 1'.  Also known as Tall Joe Pye Weed, Trumpetweed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 200,
+  "seeds/ounce": 78000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 72,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "EUP05F"
+}

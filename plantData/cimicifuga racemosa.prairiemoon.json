@@ -1,0 +1,74 @@
+{
+  "name": "cimicifuga racemosa",
+  "commonname": "black cohosh",
+  "description": "Slow to establish from seed, it's best to buy a few roots to get this great savanna/woodland plant naturalized.  Its large size allows it to fill in shade areas later in the summer when showy spring ephemerals have gone dormant.  The white candelabra-shaped flowers are fragrant, the attractive leaves are deep green, and the whole plant is generally deer/rabbit resistant.  Easy to maintain, Black Cohosh enjoys richer soils typical of woodlands but can tolerate periods of dryness. Also referred to as Bugbane or Black Snakeroot and Actea racemosa; the name Bugbane comes from the insect repellent smell the plant gives off.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 30
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 50
+    }
+  ],
+  "seeds/packet": 75,
+  "seeds/ounce": 8200,
+  "germination": [
+    "E",
+    "L"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 84,
+  "blooms": [
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 3
+  },
+  "sku": "CIM02F"
+}

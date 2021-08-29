@@ -1,0 +1,61 @@
+{
+  "name": "aquilegia canadensis",
+  "commonname": "columbine",
+  "description": "Aquilegia canadensis, Columbine, also called Red or American Columbine, is one of the first plants to provide nectar in the spring for bees, butterflies, and hummingbirds. The colorful flowers are red flowing into yellow.  Besides being an early bloomer, Columbine will tolerate a large range of soil and sun types, so you'll have success with it in full sun as well as shade.  It can grow in pine tree areas and is deer-resistant.  The seeds of Aquilegia are shiny black pearls and can be easily collected (see photo) and planted.\n\nDormant bare root plants ship each year during optimal transplanting season: Spring (April-May) and Fall (October).Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    }
+  ],
+  "seeds/packet": 250,
+  "seeds/ounce": 38000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May",
+    "June"
+  ],
+  "color": [
+    "Red",
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 10,
+    "max": 17
+  },
+  "sku": "AQU02F"
+}

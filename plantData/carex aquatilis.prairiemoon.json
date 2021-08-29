@@ -1,0 +1,35 @@
+{
+  "name": "carex aquatilis",
+  "commonname": "water sedge",
+  "description": "Water Sedge prefers standing water much of the year.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 11.25
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 17.5
+    }
+  ],
+  "seeds/packet": 300,
+  "seeds/ounce": 43000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full"
+  ],
+  "moisture": [
+    "Wet"
+  ],
+  "height": 60,
+  "sku": "CAR75G"
+}

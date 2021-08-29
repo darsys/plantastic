@@ -1,0 +1,71 @@
+{
+  "name": "liatris spicata",
+  "commonname": "marsh blazing star",
+  "description": "The most moisture-tolerant of Liatris species, this Blazing Star does equally well in sunny, well-drained garden sites. For about three weeks in mid- to late summer, it sports purple wands of stemless, crowded flowers, facing all directions and blossoming from the top of the stem down. Dense Blazing Star is its other common name.  The alternating leaves of the plant are grass-like, up to 10” long and dense at the base, becoming smaller as they ascend the stem. Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 4
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 6.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 150
+    }
+  ],
+  "seeds/packet": 150,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 60,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "LIA14F"
+}

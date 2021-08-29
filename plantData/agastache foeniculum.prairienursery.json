@@ -1,0 +1,72 @@
+{
+  "name": "agastache foeniculum",
+  "commonName": "lavender hyssop",
+  "description": "The crushed leaves of Lavender Hyssop, also known as Anise Hyssop, have a fragrance of mint and licorice. The bright purple flowers and textured foliage make this an excellent choice for sunny prairies, open oak woodlands, and savannas. This pollinator favorite and butterfly magnet is an excellent addition in herb gardens, borders and perennial gardens. Agastache foeniculum is biennial, and self-sows readily on open soil.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1606/product-1625.jpg",
+  "seeds/ounce": 65000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$8.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$20.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$300.00"
+    }
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "soil": [
+    "Sand",
+    "Loam"
+  ],
+  "moisture": [
+    "Dry",
+    "Medium"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 12,
+    "max": 36
+  },
+  "blooms": [
+    "July",
+    "September"
+  ],
+  "zones": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "color": [
+    "Lavender, Purple"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 12
+  },
+  "root": "Fibrous"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "gentianella quinquefolia",
+  "commonname": "stiff gentian",
+  "description": "Stiff Gentian is a biennial; it grows vegetatively during the first year and completes its life cycle during the second, but will re-seed.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 13.75
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 22.5
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 40
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 70
+    }
+  ],
+  "seeds/packet": 400,
+  "seeds/ounce": 180000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "Purple"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds",
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "sku": "GEN10F"
+}

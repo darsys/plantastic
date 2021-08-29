@@ -1,0 +1,41 @@
+{
+  "name": "spiraea alba",
+  "commonname": "meadowsweet",
+  "description": "Meadowsweet is technically a shrub, but often is mistaken for a wildflower. Big clusters of white flowers appear almost fuzzy due to the long stamens and are frequently buzzed by pollinators. The stems grow upright and become woody with age.Spiraea alba and it's close realtive Spiraea tomentosa are both lovely native alternatives to the Japanese Spirea used in many traditional landscape designs.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). This bare root shrub is 1 year old and we trim to a height of approximately 12-18\".",
+  "prices": [],
+  "seeds/packet": 1000,
+  "seeds/ounce": 300000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "color": [
+    "White"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 3
+  },
+  "sku": "SPI02T"
+}

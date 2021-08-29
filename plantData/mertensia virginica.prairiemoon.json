@@ -1,0 +1,51 @@
+{
+  "name": "mertensia virginica",
+  "commonname": "virginia bluebells",
+  "description": "One of the most beautiful species of spring ephemerals are Virginia bluebells (Mertensia virginica).  These lovely plants are in the family Boraginaceae, which makes them relatives of other familiar species like Forget-me-not, Lungwort, and Comfrey. Bluebells enjoy rich, well-drained soils where they can form large colonies over time. Growing fast, the flower shoots quickly give way to some of the most beautiful flowers east of the Mississippi. The flowers start off pink and gradually turn over to their famous shade of light blue as they mature. Bees, especially female Bumblebees that fly in early spring, will often be seen visiting the flowers. Only the largest bees have the ability to push their way up the tube. The real champions of bluebell pollination are butterflies and moths. It is stunning to watch them perch delicately on the rim of the flower. A colony of bluebells is truly an amazing sight to behold!  The blooms will last for many weeks in early spring (April and May) and will go dormant by mid-summer.  Virginia Bluebells prefer soils typical of a woodland - a little on the wet side.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May). In some growing seasons, dormant roots may be available for Summer (July) shipping.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 90,
+  "seeds/ounce": 9700,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 24,
+  "blooms": [
+    "April",
+    "May"
+  ],
+  "color": [
+    "Blue"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "spacing": {
+    "min": 1,
+    "max": 2
+  },
+  "sku": "MER02F"
+}

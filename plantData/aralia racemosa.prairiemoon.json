@@ -1,0 +1,72 @@
+{
+  "name": "aralia racemosa",
+  "commonname": "spikenard",
+  "description": "Aralia racemosa matures to 4' in height and has green flowers and attractive reddish purple berries thereafter (not edible).  Spikenard is a large plant for a shaded area, so broad that it could be confused for a woodland shrub, but it is a true herbaceous perennial in that it dies back each fall and emerges from the ground up each spring.  It prefers wet to medium soil and blooms approximately from July to August when many woodland plants have finished flowering.  Spikenard can be difficult to move once the plant is established, so put it in its permanent site if you can.  Since it is a taller, wider plant, be cautious if planting next to smaller plants; it may soon overwhelm them.  Also called American Spikenard, it is a close relative of Wild Sarsaparilla.   Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 12.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 20
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 35
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 60
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 33000,
+  "germination": [
+    "C(60)",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Wet",
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "color": [
+    "Green"
+  ],
+  "features": [
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 3,
+    "max": 4
+  },
+  "sku": "ARA02F"
+}

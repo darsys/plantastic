@@ -1,0 +1,75 @@
+{
+  "name": "liatris pycnostachya",
+  "commonName": "prairie blazingstar",
+  "description": "Liatris pycnostachya is an iconic praire flower with a spectacular spike of tightly bunched lavender flowers. The name pycnostachya is from the Greek for \"crowded\" - an apt description of the densely crowed flowers which begin blooming at the top and work their way down the single stem.\nThis Liatris species grows well in both moist soils and in clay. Good plant growth requires sun and adequate moisture: dry conditions can cause leaf loss and too little sun may cause twisted growth. Blooming from July through August it is excellent in perennial borders, prairie gardens or naturalized areas. It looks great with other natives including Purple Coneflower, Royal Catchfly, Rudbeckia triloba, Rattlesnake Master, Wild Quinine and prairie grasses in a formal or naturalized settings.\nButterflies, bees, hummingbirds all visit this plant. It is a host plant for the rare Glorious Flower Moth (Schinia gloriosa). Other names for this plant include Prairie Gayfeather, Prairie Liatris, Kansas Gayfeather and Cattail Blazingstar.",
+  "uri": "https://www.prairienursery.com/store/seeds/golden-alexanders-seed-zizia-aurea",
+  "imageuri": "https://www.prairienursery.com/_assets/products/1659/product-2410.jpg",
+  "seeds/ounce": 12000,
+  "prices": [
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": "$12.00"
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": "$18.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": "$30.00"
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": "$450.00"
+    }
+  ],
+  "light": [
+    "Full"
+  ],
+  "soil": [
+    "Sand",
+    "Loam",
+    "Clay"
+  ],
+  "moisture": [
+    "Medium",
+    "Moist"
+  ],
+  "benefits": [
+    "Pollinators",
+    "Butterflies",
+    "Birds",
+    "Hummingbirds",
+    "Deer Resistant",
+    "Host Plant"
+  ],
+  "height": {
+    "min": 36,
+    "max": 60
+  },
+  "blooms": [
+    "July",
+    "August"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color": [
+    "Pink, Purple"
+  ],
+  "spacing": {
+    "min": 6,
+    "max": 12
+  },
+  "root": "Corm"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "carex conoidea",
+  "commonname": "open field sedge",
+  "description": "",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    }
+  ],
+  "seeds/packet": 80,
+  "seeds/ounce": 11000,
+  "germination": [
+    "C(60)"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium"
+  ],
+  "height": 18,
+  "blooms": [
+    "May",
+    "June"
+  ],
+  "sku": "CAR87G"
+}

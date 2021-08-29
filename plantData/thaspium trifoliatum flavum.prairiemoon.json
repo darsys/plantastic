@@ -1,0 +1,65 @@
+{
+  "name": "thaspium trifoliatum flavum",
+  "commonname": "meadow parsnip",
+  "description": "Thaspium trifoliatum has two varieties - var. trifoliatum, which has dark maroon flowers, and var. flavum, which has yellow flowers. Meadow Parsnip is a member of the Carrot (Apiaceae) family with yellow umbel flowers. Our website also features the following species with similar blossoms: Taenidia integerrima (Yellow Pimpernel), Polytaenia nuttallii (Prairie Parsley) and Zizia aurea (Golden Alexanders). Meadow Parsnip is especially difficult to tell apart from Zizia spp. because their flowers are so similar, and the distinguishing basal leaves that differentiate these plants are generally not growing when in flower.    All of these important perennial native plants should not be confused with the similar-looking Pastinaca sativa (Wild Parsnip), a highly invasive Eurasian biennial commonly found on roadsides and other disturbed sites. Wild Parsnip is taller than the aforementioned natives, blooms later, and can cause painful skin burns.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 100,
+  "seeds/ounce": 9000,
+  "germination": [
+    "C(120)",
+    "G",
+    "M"
+  ],
+  "light": [
+    "Full",
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "May",
+    "June",
+    "July"
+  ],
+  "color": [
+    "Yellow"
+  ],
+  "features": [
+    "Pollinator Favorite: butterflies, bees and birds"
+  ],
+  "spacing": {
+    "min": 12,
+    "max": 18
+  },
+  "sku": "THA52F"
+}

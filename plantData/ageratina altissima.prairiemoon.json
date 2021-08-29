@@ -1,0 +1,61 @@
+{
+  "name": "ageratina altissima",
+  "commonname": "white snakeroot",
+  "description": "Common to woodland edges and recently-disturbed shaded sites, Ageratina altissima reaches 2-4’ in height on strong, branching stems. In late summer to fall, pure white flowers appear in flat-topped, branching clusters. The leaves are long, large-toothed and somewhat heart-shaped on long stems. Immediately after soil disturbance, its onset may seem weedy, but it will settle down and grow well with other plants. White Snakeroot contains the toxin tremetol, responsible for “milk sickness,” which caused problems for the livestock of early European settlers and killed Abraham Lincoln’s mother in 1818. It is usually avoided by mammalian herbivores because of its bitter foliage. In overgrazed areas it may be consumed by cattle or horses, which can prove fatal. Its flowers attract a variety of insects including bees, butterflies and moths. A number of caterpillars are also known to feed on the foliage.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 7.5
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 12
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 19.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 30
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 150000,
+  "germination": [
+    "C(60)",
+    "D"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 24,
+  "blooms": [
+    "July",
+    "August",
+    "September",
+    "October"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)"
+  ],
+  "sku": "EUP10F"
+}

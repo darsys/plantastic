@@ -1,0 +1,71 @@
+{
+  "name": "allium tricoccum",
+  "commonname": "wild leek",
+  "description": "Wild Leeks, also known as “Ramps”, are popular among urban foodies and foragers alike.  Although plentiful in some areas, Wild Leeks face the same pressures as other woodland plants, such as encroachment by invasive species, development and over-collection. If foraging for Wild Leeks, or other woodland natives, remember to harvest sustainably as they are very, very slow to reproduce. From successful seed germination to ramp harvest can be 5-7 years. There is plenty of flavor in the leaves alone. Clipping a few leaves instead of digging the bulb will ensure that a patch of Wild Leeks can thrive while being enjoyed.Wild Leek prefers typical woodland conditions: medium wet to medium dry soil and full to partial shade. It has reddish stalks reaching heights of 8\" in the spring. The early foliage dies back late spring before the white to creamy-white flowers appear in June or July.  The seeds of Allium tricoccum will bounce when dropped onto a hard surface; a seed dispersal mechanism of the plant.  *This species (in seed) may be difficult and/or slow to germinate and grow to maturity.  Please note the germination code, right.  Dormant bare root plants ship each year during optimal transplanting season: Fall (October) or Spring (April/May).",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 0.125,
+      "unit": "oz",
+      "price": 10
+    },
+    {
+      "quantity": 0.25,
+      "unit": "oz",
+      "price": 15
+    },
+    {
+      "quantity": 0.5,
+      "unit": "oz",
+      "price": 25
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 40
+    }
+  ],
+  "seeds/packet": 30,
+  "seeds/ounce": 1400,
+  "germination": [
+    "E",
+    "?"
+  ],
+  "light": [
+    "Partial",
+    "Shade"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry"
+  ],
+  "height": 8,
+  "blooms": [
+    "June",
+    "July"
+  ],
+  "color": [
+    "White"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Highly recommended for home landscaping"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "spacing": {
+    "min": 4,
+    "max": 8
+  },
+  "sku": "ALL08F"
+}

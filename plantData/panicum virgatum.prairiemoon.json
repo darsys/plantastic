@@ -1,0 +1,61 @@
+{
+  "name": "panicum virgatum",
+  "commonname": "switch grass",
+  "description": "Switch Grass is most attractive in its later stages, from the emerging, purple cloud-like seed heads mid-summer to dried golden foliage in fall. Consider not cutting Switch Grass back late fall in your garden; it holds up well in heavy snow providing winter cover for small mammals and land birds.Birds will also feed on the seeds.  A dominant grass of what was the vast tallgrass North American prairie, it is clump-forming and rhizomatous.  It is an aggressive species, not suited to very small landscapes.  Switch Grass is a warm-season grass; it actively grows during the summer when soil temperatures are warm.\nThis seed is sold as PLS (Pure Live Seed). For example, if you order 1 lb and the PLS is 80%, you receive 1.25 lbs of bulk seed. Potted plants (3-packs and trays of 38) ship when all plants are well-rooted and transit-ready, early May through June. Click here if you prefer to mix/match up to 6 species in a tray.",
+  "prices": [
+    {
+      "quantity": 1,
+      "unit": "packet",
+      "price": 2.5
+    },
+    {
+      "quantity": 1,
+      "unit": "oz",
+      "price": 3
+    },
+    {
+      "quantity": 1,
+      "unit": "lb",
+      "price": 15
+    }
+  ],
+  "seeds/packet": 500,
+  "seeds/ounce": 14000,
+  "germination": [
+    "A"
+  ],
+  "light": [
+    "Full",
+    "Partial"
+  ],
+  "moisture": [
+    "Medium-Wet",
+    "Medium",
+    "Medium-Dry",
+    "Dry"
+  ],
+  "height": 48,
+  "blooms": [
+    "July",
+    "August",
+    "September"
+  ],
+  "features": [
+    "Deer Resistant (Our experiences here in the Upper Midwest may vary in other regions; deer can respond differently to local conditions or seasonal variations.)",
+    "Recommended for home landscaping but potentially aggressive; could overwhelm small landscapes"
+  ],
+  "zones": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "spacing": {
+    "min": 2,
+    "max": 4
+  },
+  "sku": "PAN04G"
+}
